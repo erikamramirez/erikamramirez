@@ -119,7 +119,9 @@ Ahora debemos exportar el documento .gx a la memoria SD de la impresora.
 <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p>Entrada MicroSD en una notebook.</p></figcaption></figure>
 
 {% hint style="info" %}
-![](<../.gitbook/assets/image (39).png>)Hay que tener en cuenta que las notebooks más actuales no suelen contar con esta entrada, en caso de necesitarlo existen adaptadores en el mercado.
+<img src="../.gitbook/assets/image (39).png" alt="" data-size="original">
+
+Hay que tener en cuenta que las notebooks más actuales no suelen contar con esta entrada, en caso de necesitarlo existen adaptadores en el mercado.
 {% endhint %}
 
 Prender la máquina e ingresar de nuevo la tarjeta SD.
