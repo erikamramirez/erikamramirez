@@ -10,6 +10,10 @@ description: >-
 Página para crear un archivo .stl de cualquier lugar del mapa de Google Maps.
 {% endembed %}
 
+{% embed url="https://www.youtube.com/watch?v=H9oFvuCNeIQ" %}
+Tutorial de Terrain2STL.
+{% endembed %}
+
 Antes de empezar entenderemos los parámetros de la página.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Vista de la página del enlace.</p></figcaption></figure>
