@@ -11,6 +11,46 @@ description: >-
 
 Black Frost es la versión malévola de Atlus del demonio Jack Frost, que es de naturaleza más amigable. La palabra "ja'aku" en su nombre japonés, cuando se escribe en kanji (邪悪), significa "malvado" o "maligno", de ahí sus características oscuras.
 
+<details>
+
+<summary>Historia de Black Frost</summary>
+
+Los Black Frosts son Jack Frosts que se volvieron poderosos y malévolos debido a su anhelo de poderes oscuros y al recordar su naturaleza demoníaca. Son una variante evolucionada del hada invernal amante de la paz. Junto con un aumento en su tamaño, su piel se oscurece y su atuendo pasa de ser azul a morado.
+
+En otra historia, originalmente fue la única criatura en su mundo y oró a su dios por un compañero, pero solo se le concedió por un día. Después de que su amigo se fue, sintió tal tristeza y enojo que se dio cuenta de que nunca debería haber pedido un amigo.
+
+Además de conservar una alta resistencia/inmunidad a los ataques de hielo como sus congéneres de hielo, también comparten una alta resistencia/inmunidad como sus congéneres de fuego. Sin embargo, su naturaleza malévola significa que no pueden resistir ataques basados en la luz en los juegos en los que están presentes.
+
+</details>
+
+{% embed url="https://cdn.artstation.com/p/video_sources/000/328/854/final-limpio-jack-frost.mp4" %}
+Una muy buena animación de Joclpacheb en ArtStation.
+{% endembed %}
+
+<details>
+
+<summary>Contexto: ¿Quién es Jack Frost?</summary>
+
+Jack Frost es un espíritu de origen inglés. Es un elfo de la nieve que trae el clima frío durante el invierno y se cree que es responsable de la escarcha que se forma en las ventanas de hogares y edificios.
+
+Jack Frost aparece en muchos juegos de la franquicia Megami Tensei, comenzando con Megami Tensei II, y es uno de los demonios con más apariciones en la franquicia. Se le considera la mascota de Atlus y de la franquicia Megami Tensei en su conjunto, lo que ha dado lugar a numerosos cameos. Jack Frost también tiene una "familia" que incluye a otros Frosts, como King Frost, Black Frost y Pyro Jack. Jack Frost y su "familia" tienen la costumbre de añadir "hee," "ho" y "hee-ho" a su lenguaje.
+
+<img src="../.gitbook/assets/descarga.gif" alt="" data-size="original">![](<../.gitbook/assets/image (120).png>)
+
+<img src="../.gitbook/assets/shin-megami-tensei-jack-frost.gif" alt="" data-size="original">![](<../.gitbook/assets/image (121).png>)
+
+![](<../.gitbook/assets/image (122).png>)![](<../.gitbook/assets/image (123).png>)
+
+Variedad de Jack Frost's
+
+![](<../.gitbook/assets/image (126).png>)![](<../.gitbook/assets/image (127).png>)
+
+
+
+</details>
+
+
+
 {% embed url="https://sketchfab.com/3d-models/black-frost-c97c4301f32d4db884c4052af9b6af06" %}
 
 Esta figura de Black Frost lastimosamente no se encuentra disponible para descargar, pero esto no nos detendrá ya que estamos decididos a imprimirlo y obtener nuestra propia pieza en 3D.
@@ -19,13 +59,13 @@ Esta figura de Black Frost lastimosamente no se encuentra disponible para descar
 
 {% embed url="https://tenor.com/view/repost-if-you-are-stupid-repost-if-youre-stupid-repost-if-your-stupid-repost-if-black-frost-gif-22323343" %}
 
-## Jack Frost
+## Modelo 3D disponible de Jack Frost
 
-El único modelo aceptable gratis de Jack Frost fue este archivo
+El único modelo aceptable gratis de Jack Frost fue este archivo, nos servirá para convertirlo en su versión marlvada.
 
 {% embed url="https://sketchfab.com/3d-models/jack-frost-smt-e5277f20ccf64ef1993a40def9e11189" %}
 
-
+El enlace del archivo es el siguiente:
 
 {% file src="../.gitbook/assets/jack-frost-smt.zip" %}
 
