@@ -16,7 +16,7 @@ Tutorial de Terrain2STL.
 
 Antes de empezar entenderemos los parámetros de la página.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Vista de la página del enlace.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption><p>Vista de la página del enlace.</p></figcaption></figure>
 
 En el menú lateral derecho podemos observar los siguientes parámetros.
 
@@ -49,7 +49,7 @@ Coordenadas de la esquina noroeste.
 
 ## <mark style="color:purple;">Instrucciones</mark>
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Selecciona el área de la que deseas obtener un archivo STL utilizando el recuadro rojo.
 2. Centrar en vista' moverá el recuadro. También es arrastrable.

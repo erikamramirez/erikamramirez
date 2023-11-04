@@ -1,8 +1,13 @@
+---
+description: >-
+  En esta sección, se detalla el proceso para la instalación de Rhinoceros 3D en
+  su versión de prueba, proporcionando los pasos necesarios y los requisitos del
+  sistema.
+---
+
 # Instalar Rhinoceros 3D de prueba
 
-&#x20; En esta sección, se detalla el proceso para la instalación de Rhinoceros 3D en su versión de prueba, proporcionando los pasos necesarios y los requisitos del sistema.
-
-Para empezar debemos ir a la página oficial de Rhinoceros para descargar el programa en su última versión disponible.
+&#x20;Para empezar debemos ir a la página oficial de Rhinoceros para descargar el programa en su última versión disponible.
 
 <div>
 
@@ -152,4 +157,4 @@ Ahora que pudimos ingresar el código de licencia y la cuenta vinculada a éste,
 
 La verificación de la licencia fue un proceso largo debido a la adversidad presentada pero se ha logrado el objetivo.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Interfaz de Rhino 7.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_145910457.png" alt=""><figcaption><p>Interfaz de Rhino 7.</p></figcaption></figure>

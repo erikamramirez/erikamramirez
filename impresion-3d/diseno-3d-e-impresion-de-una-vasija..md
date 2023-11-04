@@ -14,7 +14,7 @@ Una vez que descargamos el archivo procedemos a abrir Rhino, luego Grasshopper p
 
 &#x20;A continuación modificar los parámetros.
 
-<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption><p>Vista de los nodos en Grasshopper.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1) (1).png" alt=""><figcaption><p>Vista de los nodos en Grasshopper.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption><p>Vista del modelo de los scripts realizados en Grasshopper vistos del viewport.</p></figcaption></figure>
 
@@ -97,13 +97,13 @@ También podemos aumentar la cantidad de polígonos en Meshmixer para lograr may
 
 Si el modelo es demasiado grande se debe escalar para que entre en el cubo que se observa en el viewport.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Modelo 3D dentro del cubo en el viewport.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Modelo 3D dentro del cubo en el viewport.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Modelo 3D que sobrepasa el tamaño del cubo, por ende es necesario escalar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption><p>Modelo 3D que sobrepasa el tamaño del cubo, por ende es necesario escalar.</p></figcaption></figure>
 
 Debemos aumentar aumentar la calidad de polígonos del mesh para mayor precisión en nuestra impresión.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Modelo 3D con mayor cantidad de polígonos.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Modelo 3D con mayor cantidad de polígonos.</p></figcaption></figure>
 
 {% hint style="info" %}
 A tener en cuenta la reducción de polígonos luego de haber aumentado, hasta encontrar el equilibrio entre una gran cantidad de polígonos y la capacidad a procesar por la notebook y la propia impresora 3D.
@@ -119,7 +119,7 @@ La temperatura de la extrusora se determina de acuerdo al material que utilizare
 
 El tamaño de la boquilla que tenemos es de 0.4 mm.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Configuraciones listas para exportar a la máquina.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Configuraciones listas para exportar a la máquina.</p></figcaption></figure>
 
 En esta impresora debemos exportar los archivos y configuraciones por medio de una tarjeta MicroSD.
 
@@ -127,11 +127,11 @@ En esta impresora debemos exportar los archivos y configuraciones por medio de u
 
 <figure><img src="../.gitbook/assets/47e8ebd4-dfdf-4ef2-87bc-a5a20dabdd4a.jpg" alt=""><figcaption><p>Vista de la tarjeta MicroSD ingresada en la máquina.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Vista de la máquina 3D que utilizaremos.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption><p>Vista de la máquina 3D que utilizaremos.</p></figcaption></figure>
 
 En la imagen superior observamos la plataforma, para empezar debemos subir esta plataforma más próximo a la extrusora.
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>En esta imagen podemos ver la plataforma acercada a la extrusora.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption><p>En esta imagen podemos ver la plataforma acercada a la extrusora.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/WhatsApp Image 2023-10-29 at 12.00.26 (2).jpeg" alt=""><figcaption><p>Seleccionar Tools.</p></figcaption></figure>
 

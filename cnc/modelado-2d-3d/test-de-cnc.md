@@ -26,6 +26,6 @@ Requiere una única fresa, de cualquier diámetro, lo más delgada posible, se r
 Diseño vectorial del test en formato .dxf
 {% endfile %}
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Vista del archivo en Rhino.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Vista del archivo en Rhino.</p></figcaption></figure>
 
 aspire. vcarvepro.

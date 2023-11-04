@@ -7,7 +7,7 @@ description: >-
 
 # Black Frost
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>"I've become hee ho evil! I'm Black Frost, heeeeee hoooooo!"—Black Frost, <em>Shin Megami Tensei III: Nocturne</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>"I've become hee ho evil! I'm Black Frost, heeeeee hoooooo!"—Black Frost, <em>Shin Megami Tensei III: Nocturne</em></p></figcaption></figure>
 
 Black Frost es la versión malévola de Atlus del demonio Jack Frost, que es de naturaleza más amigable. La palabra "ja'aku" en su nombre japonés, cuando se escribe en kanji (邪悪), significa "malvado" o "maligno", de ahí sus características oscuras.
 
@@ -89,13 +89,13 @@ Podemos editar los vértices, borde y caras de nuestros modelos 3D al pasar a Ed
 
 * Seleccionamos los vértices, podemos seleccionar vértices, borde o cara en un menú o cambiarlo con "Tab".
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Menú de selección de vértices, edge o face en Edit Mode</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Menú de selección de vértices, edge o face en Edit Mode</p></figcaption></figure>
 
 * seleccionamos "+" en el numpad para seleccionar por steps/pasos de manera más simple hasta dónde necesitamos.
 
 <div>
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>Seleccionar "+"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt="" width="375"><figcaption><p>Seleccionar "+"</p></figcaption></figure>
 
  
 
@@ -105,11 +105,11 @@ Podemos editar los vértices, borde y caras de nuestros modelos 3D al pasar a Ed
 
 * finalmente escalar, para ello podemos seleccionar desde la barra lateral o con el comando "S".
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Scale en la barra lateral de Edit Mode.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Scale en la barra lateral de Edit Mode.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Tamaño de los cuernos original, vista en Object Mode.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Tamaño de los cuernos original, vista en Object Mode.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Tamaño de los cuernos reducidos, con los vértices seleccionados en Edit Mode.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Tamaño de los cuernos reducidos, con los vértices seleccionados en Edit Mode.</p></figcaption></figure>
 
 El objeto se encuentra en una pose en Object Mode debido a que tiene un modificador de armadura, ya que Edit Mode se trata de modificar los vértices, bordes y caras del objeto en este menú se observa en pose T.
 
@@ -117,7 +117,7 @@ Esta pose y la armadura ha sido realizado por el creador del archivo.
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Modificador de armadura en el menú lateral.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Modificador de armadura en el menú lateral.</p></figcaption></figure>
 
  
 
@@ -129,7 +129,7 @@ Como este archivo estaba planteado para un estilo Cartoon, el creador optó por 
 
 <div align="right">
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Vista del modificador solidify seleccionando la "x"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Vista del modificador solidify seleccionando la "x"</p></figcaption></figure>
 
  
 
@@ -139,7 +139,7 @@ Como este archivo estaba planteado para un estilo Cartoon, el creador optó por 
 
 Una vez eliminado podemos ver una esfera completa en el rosto, también eliminaré la base seleccionando "x".
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Seleccionar la base en Object Mode, apretar "x" en el teclado y luego confirmar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Seleccionar la base en Object Mode, apretar "x" en el teclado y luego confirmar.</p></figcaption></figure>
 
 Hasta este punto ya consideraba aceptable exportar en formato .stl para imprimirlo y tal vez dibujar el rosto a mano, así que procedí a exportar el objeto.&#x20;
 
@@ -149,7 +149,7 @@ Para exportar el archivo debemos dirigirnos al menú superior y seleccionar File
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Menú de File desplegado, dirigirse a Export.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Menú de File desplegado, dirigirse a Export.</p></figcaption></figure>
 
  
 
@@ -157,7 +157,7 @@ Para exportar el archivo debemos dirigirnos al menú superior y seleccionar File
 
 </div>
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Menú emergente para guardar en el equipo.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Menú emergente para guardar en el equipo.</p></figcaption></figure>
 
 **El siguiente archivo .stl se trata del Jack Frost hasta los cambios actuales.**
 

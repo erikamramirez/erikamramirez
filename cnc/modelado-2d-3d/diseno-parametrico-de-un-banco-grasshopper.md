@@ -20,11 +20,11 @@ El tutorial ya nos provee un archivo zip del trabajo.
 Archivo de Grasshopper.
 {% endfile %}
 
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Vista del archivo en el viewport.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption><p>Vista del archivo en el viewport.</p></figcaption></figure>
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Vista de los nodos de Grasshopper.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Vista de los nodos de Grasshopper.</p></figcaption></figure>
 
 **Tutorial similar**
 
