@@ -61,13 +61,15 @@ Esta figura de Black Frost lastimosamente no se encuentra disponible para descar
 
 ## Modelo 3D disponible de Jack Frost
 
-El único modelo aceptable gratis de Jack Frost fue este archivo, nos servirá para convertirlo en su versión marlvada.
+El único modelo **aceptable** **gratis** de Jack Frost fue este archivo, nos servirá para convertirlo en su versión malvada.
 
 {% embed url="https://sketchfab.com/3d-models/jack-frost-smt-e5277f20ccf64ef1993a40def9e11189" %}
 
 El enlace del archivo es el siguiente:
 
 {% file src="../.gitbook/assets/jack-frost-smt.zip" %}
+Enlace descargado de Sketchfab del enlace superior.
+{% endfile %}
 
 ### Editar el archivo disponible
 
@@ -139,25 +141,31 @@ Una vez eliminado podemos ver una esfera completa en el rosto, también eliminar
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Seleccionar la base en Object Mode, apretar "x" en el teclado y luego confirmar.</p></figcaption></figure>
 
+Hasta este punto ya consideraba aceptable exportar en formato .stl para imprimirlo y tal vez dibujar el rosto a mano, así que procedí a exportar el objeto.&#x20;
 
+Como no perduró esta idea simplemente voy a dejar el archivo disponible para que alguien más realice su versión del rostro de Jack Frost.
+
+Para exportar el archivo debemos dirigirnos al menú superior y seleccionar File, luego Export, seleccionar el formato a exportar, ahí seleccionamos .stl.
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Menú de File desplegado, dirigirse a Export.</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-03_153241906.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-03_153241906.png" alt=""><figcaption><p>Menú de Export para seleccionar diversos formatos a exportar.</p></figcaption></figure>
 
 </div>
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Menú emergente para guardar en el equipo.</p></figcaption></figure>
 
-El siguiente archivo .stl se trata del Jack Frost hasta los cambios actuales.
+**El siguiente archivo .stl se trata del Jack Frost hasta los cambios actuales.**
 
 {% file src="../.gitbook/assets/Jack Frost (Shin Megami Tensei).stl" %}
 Archivo con los cambios en formato .stl
 {% endfile %}
+
+### Realizar el rostro de Black Frost
 
 Archivo .stl del Black Frost falso
 
@@ -165,107 +173,53 @@ Archivo .stl del Black Frost falso
 >
 > Erika Ramírez, 3/11/23
 
-<div>
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 184210.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 171611.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 171752.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 171913.png" alt=""><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 172030.png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 172116.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 172153.png" alt=""><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173401.png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173418.png" alt=""><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173507.png" alt=""><figcaption></figcaption></figure>
 
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173523.png" alt=""><figcaption></figcaption></figure>
-
- 
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 171913.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173604.png" alt=""><figcaption></figcaption></figure>
 
- 
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173741.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173523.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173729.png" alt=""><figcaption></figcaption></figure>
 
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173741.png" alt=""><figcaption></figcaption></figure>
-
- 
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 171752.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 181110.png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 181127.png" alt=""><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182046.png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182102.png" alt=""><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182247.png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182404.png" alt=""><figcaption></figcaption></figure>
 
- 
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 172153.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182713.png" alt=""><figcaption></figcaption></figure>
 
- 
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 171611.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182727.png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182747.png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 183429.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 184055.png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 <figure><img src="../.gitbook/assets/imagen_2023-11-03_183842408.png" alt=""><figcaption></figcaption></figure>
 
