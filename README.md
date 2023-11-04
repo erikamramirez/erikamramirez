@@ -2,6 +2,20 @@
 description: 'Página de GitHub: Un Recurso para Aprender y Documentar Procesos'
 cover: .gitbook/assets/descarga (3).gif
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Presentación
