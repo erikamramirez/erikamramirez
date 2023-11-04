@@ -2,7 +2,8 @@
 
 * [Presentación](README.md)
 * [Página Web con GitHub](<README (1).md>)
-* [Plotter de Vinilo](plotter-de-vinilo.md)
+* [Plotter de Vinilo](plotter-de-vinilo/README.md)
+  * [Instalar Rhinoceros 3D de prueba](plotter-de-vinilo/instalar-rhinoceros-3d-de-prueba.md)
 * [Corte Láser](corte-laser.md)
 * [Impresión 3D](impresion-3d/README.md)
   * [Instalar FlashPrint.](impresion-3d/instalar-flashprint..md)

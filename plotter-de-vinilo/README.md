@@ -3,7 +3,7 @@ description: >-
   Esta documentación servirá como una guía completa para la planificación,
   ejecución y presentación exitosa del proyecto de diseño paramétrico con
   Rhinoceros 3D y plotter de corte de vinilo.
-cover: .gitbook/assets/Captura de pantalla 2023-10-10 162538.png
+cover: ../.gitbook/assets/Captura de pantalla 2023-10-10 162538.png
 coverY: 0
 ---
 
@@ -19,11 +19,11 @@ Para empezar debemos ir a la página oficial de Rhinoceros para descargar el pro
 
 <div>
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Búsqueda en Google de Rhinoceros.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143344913.png" alt=""><figcaption><p>Búsqueda en Google de Rhinoceros.</p></figcaption></figure>
 
  
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Seleccionar la página oficial del software.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143419241.png" alt=""><figcaption><p>Seleccionar la página oficial del software.</p></figcaption></figure>
 
 </div>
 
@@ -33,25 +33,25 @@ Enlace a la página oficial de Rhinoceros.
 
 Una vez que nos encontramos en el inicio de la página oficial de Rhinoceros nos dirigimos a la pestaña de descargar.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>inicio de la página oficial.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143443188.png" alt=""><figcaption><p>inicio de la página oficial.</p></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Pestaña en el menú para descargar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143502664.png" alt=""><figcaption><p>Pestaña en el menú para descargar.</p></figcaption></figure>
 
 La pestaña los dirigirá a la siguiente selección para descargar según el sistema operativo, es decir Windows o Mac OS.&#x20;
 
 Nos fijaremos en los enlaces para Windows.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Opciones de descarga.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143529563.png" alt=""><figcaption><p>Opciones de descarga.</p></figcaption></figure>
 
 Para continuar la descarga es necesario crear una cuenta de Rhino o iniciar sesión.
 
-<figure><img src="broken-reference" alt=""><figcaption><p> Pestaña para ventana emergente de inicio de sesión o crear usuario.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143540875.png" alt=""><figcaption><p> Pestaña para ventana emergente de inicio de sesión o crear usuario.</p></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Pestaña emergente.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143554566.png" alt=""><figcaption><p>Pestaña emergente.</p></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Seleccionar ¨Crear una nueva cuenta¨</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143616801.png" alt=""><figcaption><p>Seleccionar ¨Crear una nueva cuenta¨</p></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Se puede crear una cuenta ingresando los datos manualmente o continuar con la cuenta de Google que se encuentra abierta.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143629514.png" alt=""><figcaption><p>Se puede crear una cuenta ingresando los datos manualmente o continuar con la cuenta de Google que se encuentra abierta.</p></figcaption></figure>
 
 En mi caso descargaré la primera opción ¨Rhino 7 para Windows (Evaluación de un solo uso)¨ para poder acceder a la versión de prueba de 90 días.
 
@@ -61,9 +61,9 @@ Si desea comprar la licencia directamente puede descargar la  segunda opción ¨
 La empresa se llama ¨**Rhinoceros**¨, el nombre del software es ¨**Rhino**¨.
 {% endhint %}
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Zoom para la primera opción de los enlaces.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143709574.png" alt=""><figcaption><p>Zoom para la primera opción de los enlaces.</p></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Al ingresar al enlace nos explica un poco más sobre la versión de prueba.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143723866.png" alt=""><figcaption><p>Al ingresar al enlace nos explica un poco más sobre la versión de prueba.</p></figcaption></figure>
 
 {% hint style="info" %}
 Requisitos del Sistema de compatibilidad de Rhino 7
@@ -109,47 +109,47 @@ En la parte inferior del enlace nos encontramos con otro enlace de los requisito
 
 Una vez determinado que el programa es compatible con nuestra notebook o PC aceptamos la política de privacidad marcando la casilla.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Zona inferior de la página.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143743910.png" alt=""><figcaption><p>Zona inferior de la página.</p></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Seleccionar la casilla para aceptar la Política de privacidad.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143755536.png" alt=""><figcaption><p>Seleccionar la casilla para aceptar la Política de privacidad.</p></figcaption></figure>
 
 Al aceptar la política de privacidad automáticamente se genera un código de licencia de Rhino 7 de duración de 90 días, el cual debes copiar para pegarlo más tarde una vez instalado el programa, puedes utilizar Notas para pegarlo hasta entonces.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Al aceptar la política de privacidad automáticamente se genera un código para la licencia para la prueba de 90 días.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143805095.png" alt=""><figcaption><p>Al aceptar la política de privacidad automáticamente se genera un código para la licencia para la prueba de 90 días.</p></figcaption></figure>
 
 El programa puede ser descargado en Español o se puede cambiar por las siguientes opciones disponibles en ¨Seleccione otro idioma¨.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Opciones de idiomas disponibles.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143814833.png" alt=""><figcaption><p>Opciones de idiomas disponibles.</p></figcaption></figure>
 
 Una vez seleccionado el idioma de nuestra preferencia podemos seleccionar la casilla roja para finalmente descargar el programa.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Seleccionar la pestaña roja para descargar el instalador.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143830331.png" alt=""><figcaption><p>Seleccionar la pestaña roja para descargar el instalador.</p></figcaption></figure>
 
 Seleccionar dónde queremos descargar el instalador de Rhino 7 en el equipo y **Guardar**.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Seleccionar la ubicación del archivo y guardar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143840960.png" alt=""><figcaption><p>Seleccionar la ubicación del archivo y guardar.</p></figcaption></figure>
 
 Luego de **guardar** se iniciará la descarga.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143854233.png" alt=""><figcaption></figcaption></figure>
 
 Una vez finalizada la descarga encontraremos el enlace directo en el inicio de pantalla al programa.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Enlace en pantalla al programa.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143908704.png" alt=""><figcaption><p>Enlace en pantalla al programa.</p></figcaption></figure>
 
 Antes de ejecutarse por primera vez, el programa solicita ingresar el Gmail, y el código de licencia proporcionado anteriormente.
 
 <div>
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Ingresar el email con el cual se ha creado la cuenta de Rhino.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143920512.png" alt=""><figcaption><p>Ingresar el email con el cual se ha creado la cuenta de Rhino.</p></figcaption></figure>
 
  
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Ingresar el código de licencia que se nos ha proporcionado antes de descargar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143928965.png" alt=""><figcaption><p>Ingresar el código de licencia que se nos ha proporcionado antes de descargar.</p></figcaption></figure>
 
  
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Código de validación el cual no contaba y generó un problema detallado a continuación.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_143938269.png" alt=""><figcaption><p>Código de validación el cual no contaba y generó un problema detallado a continuación.</p></figcaption></figure>
 
 </div>
 
@@ -161,25 +161,25 @@ A raíz de no haber confirmado la creación de la cuenta de Rhino, la conexión 
 
 <div>
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Debido al error de coincidencia de los datos proporcionados Rhino no pudo conectar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_144001290.png" alt=""><figcaption><p>Debido al error de coincidencia de los datos proporcionados Rhino no pudo conectar.</p></figcaption></figure>
 
  
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Indicación de que necesitaba terminar mi configuración de la creación de la cuenta en el navegador, la pestaña se encontraba abierta para ingresar a la cuenta de Rhino.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_144010590.png" alt=""><figcaption><p>Indicación de que necesitaba terminar mi configuración de la creación de la cuenta en el navegador, la pestaña se encontraba abierta para ingresar a la cuenta de Rhino.</p></figcaption></figure>
 
 </div>
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Vinculación del código de la licencia a la cuenta de Rhino creada.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_144021020.png" alt=""><figcaption><p>Vinculación del código de la licencia a la cuenta de Rhino creada.</p></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Confirmación de la cuenta en Gmail.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_144515315.png" alt=""><figcaption><p>Confirmación de la cuenta en Gmail.</p></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Una vez seleccionado el enlace enviado en Gmail y de haberse solucionado correctamente,  podemos cerrar las pestañas y volver al acceso directo en el inicio de la pantalla.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_144527157.png" alt=""><figcaption><p>Una vez seleccionado el enlace enviado en Gmail y de haberse solucionado correctamente,  podemos cerrar las pestañas y volver al acceso directo en el inicio de la pantalla.</p></figcaption></figure>
 
 ***
 
 Ahora que pudimos ingresar el código de licencia y la cuenta vinculada a éste, contamos con las opciones de poder utilizar la licencia en más de una computadora o anclar la licencia a un solo dispositivo.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Ventana de opciones de utilización de la licencia en una o más computadoras.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_144541975.png" alt=""><figcaption><p>Ventana de opciones de utilización de la licencia en una o más computadoras.</p></figcaption></figure>
 
 <mark style="color:purple;">**¡Finalmente podemos abrir el programa!**</mark>
 
