@@ -67,17 +67,17 @@ Meshmixer reconoce archivos en .stl así que para convertir el .fbx al formato r
 
 <figure><img src="../.gitbook/assets/imagen_2023-11-02_163853667.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 #### Modelos 3D
 
@@ -85,13 +85,13 @@ Meshmixer reconoce archivos en .stl así que para convertir el .fbx al formato r
 
 {% embed url="https://sketchfab.com/3d-models/motocycle-49d81cd52df6422a81132835c2555b2f" %}
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 {% file src="../.gitbook/assets/motocycle lowpoly.fbx" %}
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 {% file src="../.gitbook/assets/tatsuya and a mytocycle.stl" %}
 
@@ -107,7 +107,7 @@ Modelo en formato .stl de Tatsuya Suou
 
 **Modelo 3D online de un casco.**
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>Vista del casco 3D del enlace.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>Vista del casco 3D del enlace.</p></figcaption></figure>
 
 ### Cascadeur
 

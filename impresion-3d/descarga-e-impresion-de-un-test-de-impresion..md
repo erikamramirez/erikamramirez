@@ -94,7 +94,7 @@ En el menú lateral derecho nos encontramos con diversas opciones, seleccioné *
 
 Finalmente seleccionamos **Corte**.
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Vista del menú lateral derecho.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption><p>Vista del menú lateral derecho.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p>Se procesará hasta obtener un resultado exportable.</p></figcaption></figure>
 
