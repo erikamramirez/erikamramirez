@@ -191,7 +191,7 @@ Creamos nuevas capas y seleccionamos un color para cada uno, de esta forma se co
 
 Ya que en nuestro test nuestra hilera horizontal indica que todos los cuadros  tendrán la misma potencia, y en cada hilera vertical una velocidad. Para establecer nuestros parámetros para encajar con la grilla dibujada, seleccionamos cada capa y cambiamos de la siguiente manera.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Seleccionar en cada capa con los colores diferentes seleccionados para cambiar los parámetros de speed y potencia.   </p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Seleccionar en cada capa con los colores diferentes seleccionados para cambiar los parámetros de speed y potencia.   </p></figcaption></figure>
 
 <details>
 
@@ -232,4 +232,6 @@ Desmarcaremos la capa negra para no cortar los elementos que no modificamos o no
 {% endhint %}
 
 &#x20; Seleccionamos Load para enviar a la cortadora láser.
+
+
 

@@ -7,7 +7,7 @@ description: >-
 
 # Black Frost
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>"I've become hee ho evil! I'm Black Frost, heeeeee hoooooo!"—Black Frost, <em>Shin Megami Tensei III: Nocturne</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>"I've become hee ho evil! I'm Black Frost, heeeeee hoooooo!"—Black Frost, <em>Shin Megami Tensei III: Nocturne</em></p></figcaption></figure>
 
 Black Frost es la versión malévola de Atlus del demonio Jack Frost, que es de naturaleza más amigable. La palabra "ja'aku" en su nombre japonés, cuando se escribe en kanji (邪悪), significa "malvado" o "maligno", de ahí sus características oscuras.
 
@@ -69,37 +69,77 @@ El enlace del archivo es el siguiente:
 
 {% file src="../.gitbook/assets/jack-frost-smt.zip" %}
 
+### Editar el archivo disponible
 
+Al descargar el archivo lo primero que podemos observar es que el modelado es bastante parecido al original a pesar de verse muy diferente con los shaders, lo segundo sería que los cuernos del gorro son muy grandes a comparación de lo que estamos acostumbrados.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+En un principio abrí Blender con el único objetivo de convertir el formato del archivo original en .stl pero terminé editando muchas cosas en este programa.
+{% endhint %}
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+**El primer paso sería escalar la zona del cuerno**
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+* Nos vamos a Edit Mode para poder editar nuestro objeto.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+Podemos editar los vértices, borde y caras de nuestros modelos 3D al pasar a Edit Mode, en la vista de Object Mode podemos escalar, rotar, etc **sin** cambiar los vértices, borde y caras.
+{% endhint %}
+
+* Seleccionamos los vértices, podemos seleccionar vértices, borde o cara en un menú o cambiarlo con "Tab".
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Menú de selección de vértices, edge o face en Edit Mode</p></figcaption></figure>
+
+* seleccionamos "+" en el numpad para seleccionar por steps/pasos de manera más simple hasta dónde necesitamos.
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>Seleccionar "+"</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-03_153020852.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_011544830.png" alt=""><figcaption><p>Podemos ver los vértices seleccionados en naranja, y los no seleccionados en rosa.</p></figcaption></figure>
 
 </div>
+
+* finalmente escalar, para ello podemos seleccionar desde la barra lateral o con el comando "S".
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Scale en la barra lateral de Edit Mode.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Tamaño de los cuernos original, vista en Object Mode.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Tamaño de los cuernos reducidos, con los vértices seleccionados en Edit Mode.</p></figcaption></figure>
+
+El objeto se encuentra en una pose en Object Mode debido a que tiene un modificador de armadura, ya que Edit Mode se trata de modificar los vértices, bordes y caras del objeto en este menú se observa en pose T.
+
+Esta pose y la armadura ha sido realizado por el creador del archivo.
+
+<div>
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Modificador de armadura en el menú lateral.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-03_153020852.png" alt=""><figcaption><p>Vista de la armadura para cambiar de pose en Object Mode.</p></figcaption></figure>
+
+</div>
+
+Como este archivo estaba planteado para un estilo Cartoon, el creador optó por utilizar imágenes en los detalles de ojos y boca, y utilizar el modificador solidify para extruirlo, como no me sirve lo eliminaré seleccionando la "x" en el menú lateral de modificadores.
 
 <div align="right">
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Vista del modificador solidify seleccionando la "x"</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-03_152904045.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-03_152904045.png" alt=""><figcaption><p>Vista de la imagen extruida con el modificador sin activar los shaders.</p></figcaption></figure>
 
 </div>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+Una vez eliminado podemos ver una esfera completa en el rosto, también eliminaré la base seleccionando "x".
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Seleccionar la base en Object Mode, apretar "x" en el teclado y luego confirmar.</p></figcaption></figure>
+
+
 
 <div>
 
