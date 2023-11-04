@@ -161,7 +161,9 @@ Archivo con los cambios en formato .stl
 
 Archivo .stl del Black Frost falso
 
-Debido a que ya me ilusioné con Black Frost, transformaré el modelo del Jack Frost modificado en un Black Frost.
+> Debido a que ya me ilusioné con Black Frost, transformaré el modelo del Jack Frost modificado en un Black Frost.
+>
+> Erika Ramírez, 3/11/23
 
 <div>
 
