@@ -173,29 +173,103 @@ Archivo .stl del Black Frost falso
 >
 > Erika Ramírez, 3/11/23
 
+### Los ojos
 
+Seleccionamos <mark style="color:purple;">**Shift A**</mark> para abrir un menú emergente de <mark style="color:purple;">**Add**</mark> que también podemos ver en la barra superior, nos dirigimos a <mark style="color:purple;">**Mesh**</mark> y seleccionamos <mark style="color:purple;">**Plane**</mark>**.**&#x20;
+
+Cambiamos de ventana de edición con <mark style="color:purple;">**Tab**</mark> para ir a <mark style="color:purple;">**Edit Mode**</mark> para modificar nuestro plano.
+
+<div>
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_115348324.png" alt=""><figcaption><p>Menú emergente de Add (Shift A)</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_115443135.png" alt=""><figcaption><p>Plane creado.</p></figcaption></figure>
+
+</div>
+
+Creamos unos <mark style="color:purple;">**Loop Cut**</mark>'s con <mark style="color:purple;">**Ctrl R**</mark> o seleccionando la función en el menú lateral izquierdo.
+
+
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_120725622.png" alt=""><figcaption><p>Vista de Loop Cute en el menú lateral.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_120642172.png" alt=""><figcaption><p>Creamos un Loop Cut para dividir el plano ya sea para después eliminar la cara que no queremos o para crear puntos que nos ayuden a modelar, o incluso para crear polígonos de soporte si necesita la figura.</p></figcaption></figure>
+
+Eliminamos las caras que no necesitamos para crear un rectángulo de dimensiones aproximadas al ojo de Black Frost, nos sirve un Loop Cut lateral para que nos cree polígonos de soporte.
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 171611.png" alt=""><figcaption><p>Rectángulo creado con ayuda de Loop Cut's.</p></figcaption></figure>
+
+Para crear vértices en forma de "chaflán" o "biselado", podemos acceder al menú superior y elegir la opción "Bevel Vertices" dentro de la pestaña "Vertex", o bien, seleccionar el vértice y utilizar la combinación de teclas "Shift + Ctrl + B".
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 171752.png" alt=""><figcaption><p>Vista en el menú emergente de Vertex.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption><p>Vista del menú de vertex con la opción Bevel Vertex y la guía del comando.</p></figcaption></figure>
+
+Seleccionamos los vértices de los extremos de rectángulo y realizamos el Bevel Vertex en la zona inferior, y repetimos el proceso en un vértice superior del rectángulo.
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 171913.png" alt=""><figcaption><p>Bevel Vertex en distintos vértices del rectángulo.</p></figcaption></figure>
+
+Podemos cambiar la oriendación del bevel en Shape.
+
+Ya que nos quedó corto el plano decido estirarlo seleccionando la parte superior y moviendo en el eje Z con G (comando para mover) y luego seleccionamos X,Y, o Z según necesitamos para bloquear la operación en ese eje.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 172030.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 172116.png" alt=""><figcaption></figcaption></figure>
+**Extruir el plano en dirección a la normal.**
+
+El comando para extruir suele ser **E** de Extrude pero para extruir en dirección a la normal podemos utilizar el comando **Alt E**.
+
+<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption><p>Extrude Along Normals en el menú de búsqueda.</p></figcaption></figure>
+
+{% hint style="info" %}
+Si sabes qué operación queres realizar pero no te acordas en qué menú se encuentra o cuál era su comando, se puede buscar en un menú emergente el cuál en mi caso (todo es personalizable) se abre con la tecla de space. Una vez seleccionado se realiza la operación.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 172116.png" alt=""><figcaption><p>Extruimos nuestro plano.</p></figcaption></figure>
+
+{% hint style="info" %}
+Podemos volver a modificar algunos parámetros en un menú emergente en la zona inferior izquierda.
+{% endhint %}
+
+El muy importante menú de modificadores. Debemos dijirnos a una ventana de Properties y seleccionar el menú de Modifiers que tiene el ícono de la llave mecánica, luego seleccionar Add Modifier y nos aparecerá una lista de todos los modificadores que podemos utilizar.
+
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173741.png" alt=""><figcaption><p>Lista de Modificadores.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_135713100.png" alt=""><figcaption><p>Menú de Modifiers</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-04_135802779.png" alt=""><figcaption><p>Ventana de Properties.</p></figcaption></figure>
+
+</div>
+
+Entre los modificadores que utilizaremos se encuentra el de Mirror.
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173729.png" alt=""><figcaption></figcaption></figure>
+
+Modificador de Subdivision Surface
+
+Divide las caras en partes más pequeñas para darle una apariencia más suave.
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 172153.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173401.png" alt=""><figcaption></figcaption></figure>
+
+Modificador de Bevel.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173418.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173507.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 171913.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173604.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173741.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173523.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173729.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 171752.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 181110.png" alt=""><figcaption></figcaption></figure>
 
@@ -209,11 +283,7 @@ Archivo .stl del Black Frost falso
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182404.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 172153.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182713.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 171611.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182727.png" alt=""><figcaption></figcaption></figure>
 
