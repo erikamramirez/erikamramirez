@@ -53,36 +53,68 @@ Personalmente me hubiera gusta la versión de Eternal Punishment pero en su luga
 Modelo 3D de Tatsuya en Innocent Sin versión Persona Q.
 {% endembed %}
 
+<figure><img src="../.gitbook/assets/imagen_2023-11-02_163122891.png" alt=""><figcaption><p>Opciones de descarga del archivo</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption><p>Opciones de formato de descarga del Modelo 3D.</p></figcaption></figure>
 
-#### Modelos de motocicletas.
+{% file src="../.gitbook/assets/tatsuya-persona-q.zip" %}
+Modelo en 3D en formato .fbx
+{% endfile %}
 
-**Modelo de motocicleta Harley Davidson en Printables.**
+### **Conversión de archivos .fbx a .stl**
 
-{% embed url="https://www.printables.com/es/model/620390-moto-harley-davidson" %}
-modelo de una motocicleta Harley Davidson.
-{% endembed %}
+Meshmixer reconoce archivos en .stl así que para convertir el .fbx al formato requerido abriré Blender para importar .fbx y exportar .stl
 
-<figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption><p>Vista de la moto del enlace.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-02_163853667.png" alt=""><figcaption></figcaption></figure>
 
-**Menú de motocicletas en Printables.**
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.printables.com/es/@KaanBayram_382231/collections/484812" %}
-menú de motos
-{% endembed %}
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-**Motocicleta Jawa 500 OHV.**
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.printables.com/es/model/312895-jawa-500-ohv-rumpal-110" %}
-Moto Jawa 500 OHV
-{% endembed %}
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption><p>Vista de la página del enlace.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+#### Modelos 3D
+
+**Motocicleta Low Poly**
+
+{% embed url="https://sketchfab.com/3d-models/motocycle-49d81cd52df6422a81132835c2555b2f" %}
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+{% file src="../.gitbook/assets/motocycle lowpoly.fbx" %}
+
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+{% file src="../.gitbook/assets/tatsuya and a mytocycle.stl" %}
+
+Modelo 3D en formato .stl de la motocicleta
+
+{% file src="../.gitbook/assets/Motocycle.stl" %}
+
+Modelo en formato .stl de Tatsuya Suou
+
+{% file src="../.gitbook/assets/Tatsuya Suou.stl" %}
+
+
 
 **Modelo 3D online de un casco.**
 
-{% embed url="https://www.printables.com/es/model/240945-motorcycle-helmet-icon" %}
-Enlace al modelo de un caso en Printables.
-{% endembed %}
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>Vista del casco 3D del enlace.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Vista del casco 3D del enlace.</p></figcaption></figure>
+### Cascadeur
+
+
+
+{% embed url="https://cascadeur.com/plans" %}
+
+<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-03_201512124.png" alt=""><figcaption></figcaption></figure>

@@ -82,13 +82,13 @@ Configuraremos la temperatura con los siguientes parámetros.
 
 Nos dirigiremos al menú lateral izquierdo y nos vamos a la pestaña de **Estructuras**.&#x20;
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>Vista del menú lateral.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption><p>Vista del menú lateral.</p></figcaption></figure>
 
 La razón es para poder empezar la impresión de **Interior a Exterior** en **Orden de impresión de la carcasa**, de esta manera si el filamento sale de manera indeseada al principio, no perjudicará el resultado final, por que la temperatura se estabilizará al imprimir el exterior.
 
 También cambiaremos el **Modo** a usar **puntos de inicio aleatorios**, de esta manera evitamos que nuestro modelo tenga un aspecto de zipper o de cierre visible en el punto de inicio.
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>Vista de parámetros cambiados en la pestaña de <strong>Estructuras</strong>.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28) (1).png" alt=""><figcaption><p>Vista de parámetros cambiados en la pestaña de <strong>Estructuras</strong>.</p></figcaption></figure>
 
 En el menú lateral derecho nos encontramos con diversas opciones, seleccioné **Guardar Configuración** para imprimir con los parámetros establecidos próximos objetos, teniendo en cuenta si utilizaremos el mismo filamento.
 

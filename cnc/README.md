@@ -23,7 +23,7 @@ A continuación, se presentan algunos puntos clave para comprender mejor la CNC:
 
 * <mark style="color:purple;">**Precisión y Repetibilidad:**</mark> Las máquinas CNC son conocidas por su alta precisión. Pueden seguir instrucciones con gran detalle, lo que resulta en piezas y componentes con tolerancias muy estrechas. Además, la repetibilidad garantiza que la misma operación se pueda realizar una y otra vez con la misma precisión.
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:purple;">**Amplia Aplicación:**</mark> Las máquinas CNC se utilizan en una variedad de industrias, desde la fabricación de piezas metálicas y plásticas hasta la carpintería y la fabricación de componentes electrónicos. Se utilizan para cortar, fresar, tornear, soldar, grabar y realizar muchas otras operaciones.
 
@@ -31,15 +31,15 @@ A continuación, se presentan algunos puntos clave para comprender mejor la CNC:
 
 * <mark style="color:purple;">**Ahorro de Tiempo y Costos:**</mark> La automatización de procesos con CNC a menudo reduce la necesidad de mano de obra intensiva y acelera la producción. Esto puede conducir a ahorros significativos en tiempo y costos de fabricación.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:purple;">**Diseño Flexible:**</mark> Los programas de control CNC se pueden ajustar y modificar fácilmente, lo que permite cambiar rápidamente de una tarea de mecanizado a otra sin requerir cambios físicos en la máquina.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:purple;">**Tecnología en Evolución:**</mark> La tecnología CNC continúa evolucionando con capacidades avanzadas, como sistemas de medición en tiempo real, control de múltiples ejes y conectividad a la nube para la supervisión remota.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p><em>LASERTEC 125 DED hybrid</em> híbrido de manufactura CNC con tecnología aditiva. </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p><em>LASERTEC 125 DED hybrid</em> híbrido de manufactura CNC con tecnología aditiva. </p></figcaption></figure>
 
 ### <mark style="color:purple;">**Introducción a ruteado CNC.**</mark>
 

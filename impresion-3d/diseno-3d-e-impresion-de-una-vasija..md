@@ -14,13 +14,13 @@ Una vez que descargamos el archivo procedemos a abrir Rhino, luego Grasshopper p
 
 &#x20;A continuación modificar los parámetros.
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Vista de los nodos en Grasshopper.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption><p>Vista de los nodos en Grasshopper.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Vista del modelo de los scripts realizados en Grasshopper vistos del viewport.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption><p>Vista del modelo de los scripts realizados en Grasshopper vistos del viewport.</p></figcaption></figure>
 
 El autor del trabajo especifica los pasos a seguir.
 
-<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Pasos a seguir señalizados.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption><p>Pasos a seguir señalizados.</p></figcaption></figure>
 
 En la zona inferior encontramos los nodos de parámetros modificables.
 
@@ -37,11 +37,11 @@ Los parámetros son:
 * Subdivisiones de paneles.
 * Grosor.
 
-<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Vista de los parámetros modificables.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption><p>Vista de los parámetros modificables.</p></figcaption></figure>
 
 Procedemos a configurar los parámetros predeterminados por el autor a nuestro parecer.&#x20;
 
-<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para crear el modelo debemos realizar bake en el nodo final de nuestro script.
 
@@ -49,25 +49,25 @@ Para crear el modelo debemos realizar bake en el nodo final de nuestro script.
 El término ¨Bake¨ (hornear objetos) en Grasshopper y Rhino se refiere al proceso de transferir o convertir la geometría digital que creas en Grasshopper en objetos o superficies físicas en el entorno de modelado de Rhino.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Nodo el cual debemos realizar bake.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Nodo el cual debemos realizar bake.</p></figcaption></figure>
 
 Procedemos a hacer click derecho en el nodo, y seleccionamos Bake.
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 Al seleccionar nos aparece una pestaña emergente, en la que añadiremos el nombre, y seleccionaremos la casilla de Agrupar. Luego seleccionamos ok.
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>Vista de la pestaña emergente.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption><p>Vista de la pestaña emergente.</p></figcaption></figure>
 
 Una vez terminado el proceso anterior, obtendremos el modelo en el viewport.
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Meshes alejados de la vista previa del script de Grasshopper (lila)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p>Meshes alejados de la vista previa del script de Grasshopper (lila)</p></figcaption></figure>
 
 Una vez realizado podemos eliminar la pestaña de Grasshopper.
 
 Ya que mi intensión es que el modelo sirva de maceta. Crearemos un círculo en la tapa inferior y lo extruiremos, y después realizaremos una diferencia boleana.
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>Podemos observar una curva de círculo en el centro.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption><p>Podemos observar una curva de círculo en el centro.</p></figcaption></figure>
 
 Extruimos el círculo, y después tapamos con ¨cap¨, de esta manera creamos un mesh con el que podemos proceder a crear una diferencia boleana.
 
@@ -97,13 +97,13 @@ También podemos aumentar la cantidad de polígonos en Meshmixer para lograr may
 
 Si el modelo es demasiado grande se debe escalar para que entre en el cubo que se observa en el viewport.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Modelo 3D dentro del cubo en el viewport.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Modelo 3D dentro del cubo en el viewport.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Modelo 3D que sobrepasa el tamaño del cubo, por ende es necesario escalar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Modelo 3D que sobrepasa el tamaño del cubo, por ende es necesario escalar.</p></figcaption></figure>
 
 Debemos aumentar aumentar la calidad de polígonos del mesh para mayor precisión en nuestra impresión.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Modelo 3D con mayor cantidad de polígonos.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Modelo 3D con mayor cantidad de polígonos.</p></figcaption></figure>
 
 {% hint style="info" %}
 A tener en cuenta la reducción de polígonos luego de haber aumentado, hasta encontrar el equilibrio entre una gran cantidad de polígonos y la capacidad a procesar por la notebook y la propia impresora 3D.
@@ -119,7 +119,7 @@ La temperatura de la extrusora se determina de acuerdo al material que utilizare
 
 El tamaño de la boquilla que tenemos es de 0.4 mm.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Configuraciones listas para exportar a la máquina.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Configuraciones listas para exportar a la máquina.</p></figcaption></figure>
 
 En esta impresora debemos exportar los archivos y configuraciones por medio de una tarjeta MicroSD.
 
@@ -127,11 +127,11 @@ En esta impresora debemos exportar los archivos y configuraciones por medio de u
 
 <figure><img src="../.gitbook/assets/47e8ebd4-dfdf-4ef2-87bc-a5a20dabdd4a.jpg" alt=""><figcaption><p>Vista de la tarjeta MicroSD ingresada en la máquina.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Vista de la máquina 3D que utilizaremos.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Vista de la máquina 3D que utilizaremos.</p></figcaption></figure>
 
 En la imagen superior observamos la plataforma, para empezar debemos subir esta plataforma más próximo a la extrusora.
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>En esta imagen podemos ver la plataforma acercada a la extrusora.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>En esta imagen podemos ver la plataforma acercada a la extrusora.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/WhatsApp Image 2023-10-29 at 12.00.26 (2).jpeg" alt=""><figcaption><p>Seleccionar Tools.</p></figcaption></figure>
 

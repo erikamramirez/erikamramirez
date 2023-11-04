@@ -16,7 +16,7 @@ Tutorial de Terrain2STL.
 
 Antes de empezar entenderemos los parámetros de la página.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Vista de la página del enlace.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Vista de la página del enlace.</p></figcaption></figure>
 
 En el menú lateral derecho podemos observar los siguientes parámetros.
 
@@ -28,7 +28,7 @@ Coordenadas de la esquina noroeste.
 
 &#x20;Y en botón de centrar vista.
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Vista del menú de ubicación.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Vista del menú de ubicación.</p></figcaption></figure>
 
 ## <mark style="color:purple;">**Detalles del modelo**</mark>
 
@@ -38,18 +38,18 @@ Coordenadas de la esquina noroeste.
 * Rotación de la caja (grados).
 * Escala vertical
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Vista del menú de detalles del modelo.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Vista del menú de detalles del modelo.</p></figcaption></figure>
 
 ## <mark style="color:purple;">**Configuraciones de base y agua.**</mark>
 
 * Gota de agua (mm).
 * Altura de la base (mm).
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Vista del menú de Configuraciones de Base y Agua.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Vista del menú de Configuraciones de Base y Agua.</p></figcaption></figure>
 
 ## <mark style="color:purple;">Instrucciones</mark>
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Selecciona el área de la que deseas obtener un archivo STL utilizando el recuadro rojo.
 2. Centrar en vista' moverá el recuadro. También es arrastrable.
