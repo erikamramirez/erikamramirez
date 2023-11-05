@@ -1,2 +1,0 @@
-# Dibujar imagen paramétrica
-

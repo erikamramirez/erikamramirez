@@ -63,6 +63,4 @@ Ahora terminamos la instalación y configuración de Inkscape y podemos utilizar
 
 <figure><img src="../.gitbook/assets/imagen_2023-11-04_185908652.png" alt=""><figcaption><p>Vista de la interface de Inkscape.</p></figcaption></figure>
 
-Gracias por descargar Inkscape siguiendo esta guía.
-
 &#x20;Ahora estamos listos para avanzar a la siguiente sección.
