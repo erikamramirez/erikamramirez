@@ -18,7 +18,7 @@ Primero debemos encender la máquina con el interruptor.
 Link URL a Modsproject.
 {% endembed %}
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Vista del inicio de Modsproject.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Vista del inicio de Modsproject.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/imagen_2023-11-04_205816845.png" alt=""><figcaption><p>Zoom a las indicaciones.</p></figcaption></figure>
 
@@ -52,9 +52,9 @@ Ahora buscamos la nota de **Start Here** y debemos **select png file** para ingr
 
 <figure><img src="../../.gitbook/assets/imagen_2023-11-04_210232447.png" alt=""><figcaption><p>Menú emergente para seleccionar el .png a cortar en el plotter.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Vista luego de seleccionar. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Vista luego de seleccionar. </p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Vista del sistema de nodos una vez ingresado el .png </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Vista del sistema de nodos una vez ingresado el .png </p></figcaption></figure>
 
 Ahora debemos dirigirnos a **Cut Raster** y seleccionar **Calculate.**
 
