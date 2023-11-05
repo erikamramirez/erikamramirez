@@ -3,12 +3,12 @@ description: >-
   Meshmixer es un software de modelado 3D desarrollado por Autodesk.Se utiliza
   para editar, reparar y combinar modelos 3D en formato de malla, lo que lo hace
   especialmente útil para la impresión 3D.
-cover: ../.gitbook/assets/imagen_2023-11-05_140133528.png
-coverY: 0
+cover: ../.gitbook/assets/imagen_2023-11-05_142800924.png
+coverY: 115
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -49,7 +49,7 @@ Meshmixer puede generar automáticamente estructuras de soporte para modelos 3D 
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-05_142738806 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 

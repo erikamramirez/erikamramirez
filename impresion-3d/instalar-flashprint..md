@@ -3,7 +3,7 @@ description: >-
   FlashPrint es un software de impresión 3D desarrollado por la empresa
   FlashForge, diseñado para funcionar con impresoras 3D de la misma marca.
 cover: ../.gitbook/assets/imagen_2023-10-31_175554096 (1).png
-coverY: 0
+coverY: 187.8406537282942
 ---
 
 # Instalar FlashPrint.
