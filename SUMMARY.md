@@ -9,7 +9,6 @@
     * [Dibujar imagen paramétrica](plotter-de-vinilo/crear-un-diseno-con-grasshopper-con-image-sampler/dibujar-imagen-parametrica.md)
   * [Crear un diseño 2D multicapa](plotter-de-vinilo/crear-un-diseno-2d-multicapa/README.md)
     * [Corte de vinilo con Plotter](plotter-de-vinilo/crear-un-diseno-2d-multicapa/corte-de-vinilo-con-plotter.md)
-  * [Page 1](plotter-de-vinilo/page-1.md)
 * [Corte Láser](corte-laser.md)
 * [Impresión 3D](impresion-3d/README.md)
   * [Instalar FlashPrint.](impresion-3d/instalar-flashprint..md)
