@@ -12,7 +12,7 @@ El cerro León o macizo cerro León es una zona de colinas en el departamento de
 
 El cerro León se encuentra en la zona central del parque nacional Defensores del Chaco.
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Vista del cerro león en el distrito de Fuerte Olimpo.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption><p>Vista del cerro león en el distrito de Fuerte Olimpo.</p></figcaption></figure>
 
 La flora de la región comprende quebracho blanco, palo santo, samuù (palo borracho), bosques bajos y arbustos espinosos y varias especies de cactus.
 

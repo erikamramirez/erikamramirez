@@ -70,7 +70,7 @@ Y la segunda es hacer doble click izquierdo para abrir un buscador directamente.
 
 Necesitaremos cargar una imagen al nodo.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Nodo sin archivo de Imagen.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Nodo sin archivo de Imagen.</p></figcaption></figure>
 
 Al hacer doble click en Image Sampler se observa esta pestaña emergente.
 

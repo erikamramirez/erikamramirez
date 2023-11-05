@@ -49,7 +49,7 @@ Coordenadas de la esquina noroeste.
 
 ## <mark style="color:purple;">Instrucciones</mark>
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Selecciona el área de la que deseas obtener un archivo STL utilizando el recuadro rojo.
 2. Centrar en vista' moverá el recuadro. También es arrastrable.
