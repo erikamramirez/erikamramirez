@@ -313,6 +313,66 @@ En general nuestro modelo nos está quedando muy similar a la referencia.
 
 <figure><img src="../.gitbook/assets/imagen_2023-11-03_183842408.png" alt=""><figcaption></figcaption></figure>
 
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 181438.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 181501.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 181532.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 184649.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 184706.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 184732.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 184941.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 194905.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 195305.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 201550.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 202237.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 202513.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 202529.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 202822.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 {% file src="../.gitbook/assets/Black Frost.stl" %}
 
 ### Landscape
@@ -328,5 +388,6 @@ Una vez que el archivo es descargado podemos mezclar nuestros objetos en un solo
 
 <figure><img src="../.gitbook/assets/imagen_2023-11-03_195555558.png" alt=""><figcaption></figcaption></figure>
 
-
-
+{% file src="../.gitbook/assets/Black Frost and the Toori.blend" %}
+Archivo modificable .blend
+{% endfile %}
