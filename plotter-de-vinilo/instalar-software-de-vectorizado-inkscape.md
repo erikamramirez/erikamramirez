@@ -3,6 +3,8 @@ description: >-
   Inkscape es un editor de gráficos vectoriales libre y de código abierto.
   Inkscape puede crear y editar diagramas, líneas, gráficos, logotipos, e
   ilustraciones complejas.
+cover: ../.gitbook/assets/imagen_2023-11-04_203243598.png
+coverY: 185
 ---
 
 # Instalar software de vectorizado (Inkscape)

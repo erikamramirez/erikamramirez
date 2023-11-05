@@ -95,7 +95,7 @@ Podemos editar los vértices, borde y caras de nuestros modelos 3D al pasar a Ed
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (14).png" alt="" width="375"><figcaption><p>Seleccionar "+"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt="" width="375"><figcaption><p>Seleccionar "+"</p></figcaption></figure>
 
  
 

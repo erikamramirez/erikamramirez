@@ -28,7 +28,7 @@ Coordenadas de la esquina noroeste.
 
 &#x20;Y en botón de centrar vista.
 
-<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Vista del menú de ubicación.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption><p>Vista del menú de ubicación.</p></figcaption></figure>
 
 ## <mark style="color:purple;">**Detalles del modelo**</mark>
 
@@ -38,14 +38,14 @@ Coordenadas de la esquina noroeste.
 * Rotación de la caja (grados).
 * Escala vertical
 
-<figure><img src="../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Vista del menú de detalles del modelo.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption><p>Vista del menú de detalles del modelo.</p></figcaption></figure>
 
 ## <mark style="color:purple;">**Configuraciones de base y agua.**</mark>
 
 * Gota de agua (mm).
 * Altura de la base (mm).
 
-<figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Vista del menú de Configuraciones de Base y Agua.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption><p>Vista del menú de Configuraciones de Base y Agua.</p></figcaption></figure>
 
 ## <mark style="color:purple;">Instrucciones</mark>
 

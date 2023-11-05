@@ -3,6 +3,22 @@ description: >-
   En esta sección, se detalla el proceso para la instalación de Rhinoceros 3D en
   su versión de prueba, proporcionando los pasos necesarios y los requisitos del
   sistema.
+cover: ../.gitbook/assets/imagen_2023-11-04_202816571.png
+coverY: 165.7553258426966
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Instalar Rhinoceros 3D de prueba

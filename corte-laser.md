@@ -87,7 +87,7 @@ Acceder a los archivos cargados anteriormente.
 
 Señala la posición exacta del puntero láser, marcando el punto en que se encuentra.
 
-![](<.gitbook/assets/image (19) (1).png>)
+![](<.gitbook/assets/image (19) (1) (1).png>)
 
 **Frame**
 
