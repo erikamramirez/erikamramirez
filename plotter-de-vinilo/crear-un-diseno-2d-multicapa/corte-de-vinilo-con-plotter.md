@@ -158,10 +158,54 @@ De esta manera es el proceso para utilizar el plotter de corte.
 
 <figure><img src="../../.gitbook/assets/imagen_2023-11-04_213542560.png" alt="" width="375"><figcaption><p>Vinilo Cortado con la forma que creamos.</p></figcaption></figure>
 
+## Juntar los cortes en una sola figura
 
+Primero debemos tener todas nuestras piezas cortadas.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Resultado del proceso.</p></figcaption></figure>
+<div>
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Resultado final del intento.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (131).png" alt="" width="375"><figcaption><p>Capa negra.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-04_214106562.png" alt="" width="375"><figcaption><p>Capa blanca.</p></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption><p>Pieza amarilla.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-04_214226177.png" alt=""><figcaption><p>Vista de las piezas juntas.</p></figcaption></figure>
+
+</div>
+
+Ahora procedemos a ubicar las capas en orden para obtener la figura final.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-04_214353993.png" alt=""><figcaption><p>Capa amarilla sobre la capa anterior.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-04_214408541.png" alt=""><figcaption><p>Primera capa color blanco.</p></figcaption></figure>
+
+</div>
+
+Siguiendo el proceso obtenemos un sticker de vinilo.
+
+Nuestro primer intento quedó de la siguiente manera.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-04_214442511 (1).png" alt="" width="375"><figcaption><p>Resultado del proceso.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-04_214500219.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 Creo que puede mejorar y me gustaría realizar otro intento.
