@@ -7,7 +7,7 @@ description: >-
 
 # Black Frost
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>"I've become hee ho evil! I'm Black Frost, heeeeee hoooooo!"—Black Frost, <em>Shin Megami Tensei III: Nocturne</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>"I've become hee ho evil! I'm Black Frost, heeeeee hoooooo!"—Black Frost, <em>Shin Megami Tensei III: Nocturne</em></p></figcaption></figure>
 
 Black Frost es la versión malévola de Atlus del demonio Jack Frost, que es de naturaleza más amigable. La palabra "ja'aku" en su nombre japonés, cuando se escribe en kanji (邪悪), significa "malvado" o "maligno", de ahí sus características oscuras.
 
@@ -71,7 +71,7 @@ El enlace del archivo es el siguiente:
 Enlace descargado de Sketchfab del enlace superior.
 {% endfile %}
 
-### Editar el archivo disponible
+## Editar el archivo disponible
 
 Al descargar el archivo lo primero que podemos observar es que el modelado es bastante parecido al original a pesar de verse muy diferente con los shaders, lo segundo sería que los cuernos del gorro son muy grandes a comparación de lo que estamos acostumbrados.
 
@@ -219,7 +219,19 @@ Ya que nos quedó corto el plano decido estirarlo seleccionando la parte superio
 
 Para crear los dientes, seguiremos el mismo método. Crearemos un plano, añadiremos un "loop cut" en el centro y luego utilizaremos el comando "K" para utilizar la herramienta "Knife" y cortar siguiendo la guía de los vértices para obtener la forma de triángulo deseada.
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182046.png" alt=""><figcaption></figcaption></figure>
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182046.png" alt=""><figcaption><p>Eliminar las caras restantes.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-05_183201314.png" alt=""><figcaption><p>Knife para cortar siguiendo los vértices.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-05_183214925.png" alt=""><figcaption><p>Loop Cut en el centro.</p></figcaption></figure>
+
+</div>
 
 **Extruir el plano en dirección a la normal.**
 
@@ -231,7 +243,15 @@ El comando para extruir suele ser **E** de Extrude pero para extruir en direcci�
 Si sabes qué operación queres realizar pero no te acordas en qué menú se encuentra o cuál era su comando, se puede buscar en un menú emergente el cuál en mi caso (todo es personalizable) se abre con la tecla de space. Una vez seleccionado se realiza la operación.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 172116.png" alt=""><figcaption><p>Extruimos nuestro plano.</p></figcaption></figure>
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 172116.png" alt=""><figcaption><p>Extruimos nuestro plano del ojo.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-05_183111230.png" alt=""><figcaption><p>Extruimos el plano del diente.</p></figcaption></figure>
+
+</div>
 
 ### &#x20;Diferencia booleana para crear la boca de Black Frost&#x20;
 
@@ -241,7 +261,7 @@ Vamos a crear una esfera, la cortaremos por la mitad y la posicionaremos en el l
 
 Una vez activado el addon no recordaba cómo encontrarlo así que lo busqué utilizando space.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Podemos volver a modificar algunos parámetros en un menú emergente en la zona inferior izquierda.
@@ -303,90 +323,59 @@ En general nuestro modelo nos está quedando muy similar a la referencia.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182404.png" alt=""><figcaption></figcaption></figure>
 
+Para crear las orejas del icono del gorro, duplicaremos los triángulos que habíamos extruido para los dientes. Luego, con la función de ajuste a la superficie **Snap to Face**, acercaremos las orejas al icono del gorro. Además, aplicaremos el modificador **Mirror** para reflejar las orejas y completar el ícono.
+
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182713.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182727.png" alt=""><figcaption></figcaption></figure>
 
+Ahora que terminamos el modelo (ignorando las botas) exportaremos en formato .stl
+
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182747.png" alt=""><figcaption></figcaption></figure>
+
+Las botas siguen siendo la de Jack Frost.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 183429.png" alt=""><figcaption></figcaption></figure>
 
+Resultado de las modificaciones.
+
 <figure><img src="../.gitbook/assets/imagen_2023-11-03_183842408.png" alt=""><figcaption></figcaption></figure>
 
-<div>
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 181438.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 181501.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 181532.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 184649.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 184706.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 184732.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 184941.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 194905.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 195305.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 201550.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 202237.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 202513.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 202529.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 202822.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
 {% file src="../.gitbook/assets/Black Frost.stl" %}
+Formato .stl de Black Frost
+{% endfile %}
 
-### Landscape
+## Landscape
 
-Realistic Weathered Japan Torii Gate de [\
-](https://sketchfab.com/tiborjanas.art)[tiborjanas.art](https://sketchfab.com/tiborjanas.art) en Sketchfab.
+Realistic Weathered Japan Torii Gate de [tiborjanas.art](https://sketchfab.com/tiborjanas.art) en Sketchfab.
 
 {% embed url="https://sketchfab.com/3d-models/realistic-weathered-japan-torii-gate-1cb73e19708a4651966566fffea57365" %}
+Enlace a la página.
+{% endembed %}
+
+Podemos descargar en los siguientes formatos, yo lo descargaré en formato .fbx para poder abrirlo en Blender.
 
 <figure><img src="../.gitbook/assets/imagen_2023-11-03_192437259.png" alt=""><figcaption></figcaption></figure>
 
+
+
 Una vez que el archivo es descargado podemos mezclar nuestros objetos en un solo archivo
 
+<figure><img src="../.gitbook/assets/imagen_2023-11-05_184108771.png" alt=""><figcaption><p>Una vez abierto nos encontramos con detalles que no nos conviene al imprimir, así que los eliminaremos.</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/imagen_2023-11-03_195555558.png" alt=""><figcaption></figcaption></figure>
+
+<div>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-05_184213630.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+#### En el siguiente enlace encontramos el archivo descargable .blend el cual es fácilmente modificable.
 
 {% file src="../.gitbook/assets/Black Frost and the Toori.blend" %}
 Archivo modificable .blend

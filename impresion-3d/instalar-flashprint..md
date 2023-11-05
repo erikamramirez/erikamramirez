@@ -24,7 +24,7 @@ Seleccionar la version y el Sistema Operativo a instalar el programa.
 
 El archivo del instalador se descargará automáticamente una vez seleccionado.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ahora, hacemos clic en "Buscar en Carpeta" para navegar hacia la ubicación del archivo en nuestro equipo. Una vez en esa ubicación, abrimos el archivo zip con WinRAR y procedemos a su extracción.
 
