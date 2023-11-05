@@ -41,7 +41,7 @@ Puede corregir mallas defectuosas o con agujeros, lo que es esencial para garant
 
 Permite combinar múltiples modelos 3D en uno solo, lo que es útil para la creación de diseños complejos o la personalización de objetos.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:purple;">**Generación de soportes**</mark>
 
@@ -61,7 +61,7 @@ Meshmixer puede generar automáticamente estructuras de soporte para modelos 3D 
 
 Ofrece herramientas de escultura para esculpir y modificar modelos de forma intuitiva.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://meshmixer.com" %}
 Enlace a la página oficial.
@@ -69,15 +69,15 @@ Enlace a la página oficial.
 
 Ingresamos al enlace y al final de la página nos brindará un enlace que nos redirigirá a la siguiente página.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Opciones de idiomas a descargar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Opciones de idiomas a descargar.</p></figcaption></figure>
 
 Seleccionamos el idioma a instalar y guardamos en el equipo.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Guardar el instalador en el equipo.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Guardar el instalador en el equipo.</p></figcaption></figure>
 
 Una vez seleccionado en luagr a guardar el archivo se descargará automáticamente en el navegador.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Descarga completada en el instalador.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Descarga completada en el instalador.</p></figcaption></figure>
 
 Abrimos el archivo del instalador en carpeta del equipo y nos saldrá una ventana en la cuál debemos confirmar la instalación.
 
@@ -103,7 +103,7 @@ Ahora debemos aceptar los términos y condiciones de privacidad seleccionando **
 
 Ahora ya tenemos instalado el programa y podemos seleccionar el ícono en la pantalla inicial y abrimos el programa por primera vez.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Es medio particular la recolección de datos de Meshmixer pero nos pregunta para aceptar una última vez la recolección de datos. Seleccionamos **Accept** y en la siguiente ventana **ok.**
 

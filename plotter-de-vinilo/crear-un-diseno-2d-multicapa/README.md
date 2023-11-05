@@ -129,7 +129,7 @@ Seleccionaremos cada capa por turno, por ejemplo seleccionamos la capa azul, lo 
 * Antes de seleccionar Exportar debemos convertir el .SVG que se genera por default a .PGN, para ello abriremos el ícono de la carpeta.
 * Ahora se abre la pestaña emergente debemos cambiar igualmente el nombre del archivo para diferenciarlos a la hora de exportar al plotter. Por ejemplo ¨Jack Frost capa azul¨.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>El ícono de la carpeta.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>El ícono de la carpeta.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/imagen_2023-11-04_204840593.png" alt=""><figcaption><p>Pantalla emergente del nombre de archivo para exportar.</p></figcaption></figure>
 
