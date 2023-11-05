@@ -3,8 +3,22 @@ description: >-
   Inkscape es un editor de gráficos vectoriales libre y de código abierto.
   Inkscape puede crear y editar diagramas, líneas, gráficos, logotipos, e
   ilustraciones complejas.
-cover: ../.gitbook/assets/imagen_2023-11-04_203243598.png
-coverY: 185
+cover: ../.gitbook/assets/imagen_2023-11-05_163507259.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Instalar software de vectorizado (Inkscape)
@@ -12,6 +26,8 @@ coverY: 185
 {% hint style="info" %}
 Al ser un programa sin costo y por ende sin necesidad de licencia, el proceso de instalación es por mucho más simple a comparación de Rhino.
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-05_163553621.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://inkscape.org" %}
 Enlace a la página oficial de Inkscape.

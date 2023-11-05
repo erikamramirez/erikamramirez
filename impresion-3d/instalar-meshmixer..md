@@ -93,7 +93,7 @@ Ingresamos al enlace y al final de la página nos brindará un enlace que nos re
 
 Seleccionamos el idioma a instalar y guardamos en el equipo.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Guardar el instalador en el equipo.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Guardar el instalador en el equipo.</p></figcaption></figure>
 
 Una vez seleccionado en luagr a guardar el archivo se descargará automáticamente en el navegador.
 

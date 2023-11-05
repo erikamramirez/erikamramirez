@@ -7,7 +7,7 @@ description: >-
 
 # Black Frost
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>"I've become hee ho evil! I'm Black Frost, heeeeee hoooooo!"—Black Frost, <em>Shin Megami Tensei III: Nocturne</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>"I've become hee ho evil! I'm Black Frost, heeeeee hoooooo!"—Black Frost, <em>Shin Megami Tensei III: Nocturne</em></p></figcaption></figure>
 
 Black Frost es la versión malévola de Atlus del demonio Jack Frost, que es de naturaleza más amigable. La palabra "ja'aku" en su nombre japonés, cuando se escribe en kanji (邪悪), significa "malvado" o "maligno", de ahí sus características oscuras.
 
@@ -217,9 +217,13 @@ Ya que nos quedó corto el plano decido estirarlo seleccionando la parte superio
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 172030.png" alt=""><figcaption></figcaption></figure>
 
+Para crear los dientes, seguiremos el mismo método. Crearemos un plano, añadiremos un "loop cut" en el centro y luego utilizaremos el comando "K" para utilizar la herramienta "Knife" y cortar siguiendo la guía de los vértices para obtener la forma de triángulo deseada.
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182046.png" alt=""><figcaption></figcaption></figure>
+
 **Extruir el plano en dirección a la normal.**
 
-El comando para extruir suele ser **E** de Extrude pero para extruir en dirección a la normal podemos utilizar el comando **Alt E**.
+El comando para extruir suele ser **E** de Extrude pero para extruir en dirección a la normal podemos utilizar el comando **Alt E**. Utilizamos este comando para extruir tanto nuestro plano del ojo como el de diente.
 
 <figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption><p>Extrude Along Normals en el menú de búsqueda.</p></figcaption></figure>
 
@@ -229,11 +233,21 @@ Si sabes qué operación queres realizar pero no te acordas en qué menú se enc
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 172116.png" alt=""><figcaption><p>Extruimos nuestro plano.</p></figcaption></figure>
 
+### &#x20;Diferencia booleana para crear la boca de Black Frost&#x20;
+
+Vamos a crear una esfera, la cortaremos por la mitad y la posicionaremos en el lugar donde deseamos realizar una operación booleana. Para hacerlo de manera más conveniente, activaremos el complemento (**addon**) de **Bool Tools** en las **Properties** (Propiedades). Esto nos permitirá obtener una diferencia booleana que podremos ajustar en tiempo real desplazando el objeto de corte hasta que estemos satisfechos con su posición.
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 181110.png" alt=""><figcaption></figcaption></figure>
+
+Una vez activado el addon no recordaba cómo encontrarlo así que lo busqué utilizando space.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 Podemos volver a modificar algunos parámetros en un menú emergente en la zona inferior izquierda.
 {% endhint %}
 
-El muy importante menú de modificadores. Debemos dijirnos a una ventana de Properties y seleccionar el menú de Modifiers que tiene el ícono de la llave mecánica, luego seleccionar Add Modifier y nos aparecerá una lista de todos los modificadores que podemos utilizar.
+El muy importante menú de modificadores. Debemos dijirnos a una ventana de **Properties** y seleccionar el menú de Modifiers que tiene el ícono de la llave mecánica, luego seleccionar Add **Modifier** y nos aparecerá una lista de todos los modificadores que podemos utilizar.
 
 <div>
 
@@ -249,37 +263,43 @@ El muy importante menú de modificadores. Debemos dijirnos a una ventana de Prop
 
 </div>
 
-Entre los modificadores que utilizaremos se encuentra el de Mirror.
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173729.png" alt=""><figcaption></figcaption></figure>
-
-Modificador de Subdivision Surface
+Modificador de **Subdivision Surface.**
 
 Divide las caras en partes más pequeñas para darle una apariencia más suave.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 172153.png" alt=""><figcaption></figcaption></figure>
 
+En la imagen inferior podemos ver el modificador **Subdivision Surface** en aplicado.
+
+Para eliminar vértices superpuestos, seleccionamos la tecla "**M**" y aparecerá un menú emergente de "Unir" ("**Merge**"), luego seleccionamos "Por Distancia" ("**By Distance**").
+
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173401.png" alt=""><figcaption></figcaption></figure>
 
-Modificador de Bevel.
+Los vértices que deseemos superponer con otros pueden coincidir después de habilitar la función de ajuste ("Snap") y seleccionar la opción "Snap Vertex".
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173507.png" alt=""><figcaption><p>Los vértices que queramos superponer a otros pueden ser coincidentes luego de activar Snap y seleccionar Snap Vertex.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173729.png" alt=""><figcaption></figcaption></figure>
+
+Modificador de **Bevel**.
+
+Vamos a emplear el modificador "Bevel" para agregar soportes cerca de los bordes. Esto ocasionará que el modificador "Subdivision Surface" se vea influenciado por los nuevos soportes, creando una geometría más similar al original.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173418.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173507.png" alt=""><figcaption></figcaption></figure>
+Entre los modificadores que utilizaremos se encuentra el de **Mirror**.
+
+Utilizaremos el Modificador mirror para espejar los ojos y dientes del personaje simétricamente.
+
+Para acercar los ojos y dientes del personaje a la esfera podemos utilizar **Snap to** **Face Project**
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173604.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 173523.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182102.png" alt=""><figcaption><p>De esta manera acercaremos los ojos y dientes a la esfera.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 181110.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182247.png" alt=""><figcaption><p>Mirror para espejar el ojo y el diente.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 181127.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182046.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182102.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182247.png" alt=""><figcaption></figcaption></figure>
+En general nuestro modelo nos está quedando muy similar a la referencia.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-03 182404.png" alt=""><figcaption></figcaption></figure>
 
