@@ -29,19 +29,29 @@ Algunas de las características clave de Meshmixer incluyen:
 
 Permite a los usuarios editar y manipular las mallas de los modelos 3D, como suavizar superficies, cortar, dividir, fusionar y reorganizar partes.
 
+{% embed url="https://www.youtube.com/watch?v=nkQeiVk9MvE" %}
+Tutorial de Reducción de mallas con Meshmixer.
+{% endembed %}
+
 <figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:purple;">**Reparación de mallas**</mark>
 
 Puede corregir mallas defectuosas o con agujeros, lo que es esencial para garantizar una impresión 3D exitosa.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://www.youtube.com/watch?v=O_fsFBDyk8E" %}
+Tutorial de reparación de mallas con Meshmixer.
+{% endembed %}
 
 <mark style="color:purple;">**Mezcla de modelos**</mark>
 
 Permite combinar múltiples modelos 3D en uno solo, lo que es útil para la creación de diseños complejos o la personalización de objetos.
 
 <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://www.youtube.com/watch?v=WEpUUNYYFz0" %}
+Tutorial de mezcla de modelos en Meshmixer.
+{% endembed %}
 
 <mark style="color:purple;">**Generación de soportes**</mark>
 
@@ -57,11 +67,21 @@ Meshmixer puede generar automáticamente estructuras de soporte para modelos 3D 
 
 </div>
 
+{% embed url="https://www.youtube.com/watch?v=yOToIZk_g1Q" %}
+Tutorial de soportes en Meshmixer.
+{% endembed %}
+
 <mark style="color:purple;">**Escultura digital**</mark>
 
 Ofrece herramientas de escultura para esculpir y modificar modelos de forma intuitiva.
 
 <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://www.youtube.com/watch?v=W1f3YOntxls" %}
+Tutorial escultura con Meshmixer.
+{% endembed %}
+
+## Proceso de Descarga e Instalación de Meshmixer
 
 {% embed url="https://meshmixer.com" %}
 Enlace a la página oficial.
