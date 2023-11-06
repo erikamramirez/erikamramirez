@@ -365,6 +365,8 @@ Una vez que el archivo es descargado podemos mezclar nuestros objetos en un solo
 
 <figure><img src="../.gitbook/assets/imagen_2023-11-03_195555558.png" alt=""><figcaption></figcaption></figure>
 
+Eliminamos los detalles muy pequeños del modelo y agrandamos a Black Frost con scale (comando S).
+
 <div>
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
@@ -381,4 +383,236 @@ Una vez que el archivo es descargado podemos mezclar nuestros objetos en un solo
 Archivo modificable .blend
 {% endfile %}
 
-## Black Frost and Jack Frost
+## Jack Frost joined your party without your consent!
+
+Cuando decidí ajustar el diseño del zapato de Black Frost para que se asemejara al original, estaba consciente de que al hacerlo, perdería el detallado modelo 3D de Jack Frost. Por esta razón modifiqué los ojos para preservar la esencia de Jack Frost y así poder abordar la creación del zapato de Black Frost sin remordimientos.
+
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-06_000445703.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 184738.png" alt=""><figcaption><p>Sin los ojos son básicamente lo mismo, la diferencia entre ambos son los zapatos, los ojos y el logo del gorrito.</p></figcaption></figure>
+
+El primer paso es duplicar a Black Frost con el Empty de ejes, los ojos y los dientes (los dientes me los olvidé y tuve que clonarlos más tarde).&#x20;
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 184914.png" alt=""><figcaption></figcaption></figure>
+
+Seleccionamos los ojos y el empty, eliminamos con el comando **x** en **Edit Mode** uno de los ojos, para editar solo uno y después espejarlo.
+
+Para eliminar completamente elegimos vértices en Delete.
+
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 184943.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 185030.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Utilizamos el comando K para Knife y cortamos la mitad del ojo.
+
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 185131.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 185227.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 185246.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Seleccionamos la opción de faces (podemos cambiar entre la selección de caras, bordes y vértices con 1,2 y 3) del grupo numérico de teclado.
+
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 185253.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-06_002414719 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+A continuación, procedemos a la selección de las caras que resultan innecesarias, y utilizando el comando "X", seleccionamos la opción de vértices para no dejar bordes ni vértices restantes.
+
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 185309.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 185338 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 185415.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Ahora que disponemos de la mitad del ojo, podemos utilizar el modificador "Mirror" en los ejes X y Z. En las imágenes inferiores, se puede apreciar la aplicación del "Mirror" en el eje X.
+
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 185426.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 185448.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 185459.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 185554.png" alt=""><figcaption><p>Me causó mucha gracia Jack Frost con los ojos de esta manera.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 185602.png" alt=""><figcaption><p>El progreso hasta el momento.</p></figcaption></figure>
+
+Me percaté que me olvidé de los dientes así que los dupliqué (Shift D) y moví (G).
+
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 193421.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 193442.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Ahora regresamos para completar la parte de los ojos en el eje Z. Fue necesario corregir la orientación del "Empty" para asegurarnos de que la clonación se realice de manera correcta. Además, seleccionamos las opciones "**Merge**" y "**Clipping**". En el ejemplo inferior, se destaca la casilla "**Clipping**" que, cuando está marcada, asegura que nuestra malla se fusione adecuadamente cuando las partes coinciden.
+
+En el ejemplo inferior Clipping está desmarcada y se puede observar a la malla sin fusionar al superponerse.
+
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 193616.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 193628.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Una vez que hemos marcado la opción "Clipping", observamos que las mallas se fusionan sin problemas.
+
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 193635.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 193703.png" alt=""><figcaption><p>También utilicé knife para corregir desperfectos de la malla y agregar soporte.</p></figcaption></figure>
+
+</div>
+
+Entonces este sería el modelado de Jack Frost.
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 193724.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Podemos ver muchos desperfectos de geometría pero esto lo corregiremos en Meshmixer.
+{% endhint %}
+
+Para colorear los modelos, he utilizado materiales simples con el objetivo de facilitar la visualización. Para hacer esto, simplemente accedimos a una ventana de "Propiedades," luego nos dirigimos al ícono de "Materiales," seleccionamos las caras que deseábamos colorear, hacemos clic en "Seleccionar" y después asignamos el material que queríamos utilizar.
+
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 193835.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 193843.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 193851.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Noté que las esferas estaban separadas del resto del objeto, lo que parecía ser parte del estilo "cartoon" del archivo original. Sin embargo, en este momento, esta separación no es deseable. Además, observé que las mallas carecen de física de tela y colisión, lo que provoca ciertos problemas. A pesar de esto, por ahora, opté por ignorar estos inconvenientes.
+
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 195510.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 195741.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Vamos a abordar el problema de las esferas de Jack Frost. Empezamos por acercar las esferas (o lo que simula ser) al resto de la malla, para ello los acercamos con **Snap to Vertex**.
+
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 195704.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 195714.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+También necesitamos ajustar su escala utilizando la tecla "**S**", pero con la opción de "Orígenes Individuales" **Individual Origins** activada. Esto permitirá que cada esfera se escale en su propio eje de manera independiente.
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 195839 (1).png" alt=""><figcaption></figcaption></figure>
+
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 201231.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 201239.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Resulta que el traje de Black Frost no incluye estas esferas, por lo tanto, procederemos a eliminarlas utilizando el comando "**X**". Para hacerlo, seleccionamos una cara de la esfera, luego utilizamos "**Ctrl +**" para seleccionar las caras adicionales hasta completar la esfera, y finalmente hacemos clic en "**X**" y seleccionamos "**Vertices**" para eliminarlas por completo.
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 200015.png" alt=""><figcaption></figcaption></figure>
+
+Resultado hasta el momento.
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 201327.png" alt=""><figcaption></figcaption></figure>
+
+Necesitamos clonar la plataforma y el Toori de fondo, pero también espejar a Jack Frost para que haga juego con Black Frost.
+
+He optado por mantenerlos en plataformas separadas, ya que esto preservará la singularidad de cada figura y asegurará que ambas destaquen en la impresión.
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 202727.png" alt=""><figcaption></figcaption></figure>
+
+Me dolió mucho eliminar un Jack Frost.
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 203201.png" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:purple;">¡Hasta que llegamos al resultado esperado!</mark>
+
+<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+
+Decidí mantener las botas tal como están, ya que durante mi búsqueda de referencias, descubrí que en la representación de Black Frost en Shin Megami Tensei III Nocturne, las botas de Jack Frost se mantienen sin modificaciones, solo cambiaron el color. Por lo tanto, seguiré este enfoque en paz.
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 201430.png" alt="" width="375"><figcaption></figcaption></figure>
+
+{% embed url="https://www.youtube.com/watch?v=Uwz652XkLGg" %}
+Black Frost en Shin Megami Tensei III Nocturne.
+{% endembed %}
+
+### Archivos descargable del progreso
+
+{% file src="../.gitbook/assets/Black Frost and Jack Frost.blend" %}
+Archivo .blend el cuál es fácilmente modificable.
+{% endfile %}
+
+{% file src="../.gitbook/assets/Black Frost and Jack Frost.stl" %}
+Archivo .stl
+{% endfile %}
