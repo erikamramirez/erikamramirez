@@ -13,7 +13,7 @@ Black Frost es la versión malévola de Atlus del demonio Jack Frost, que es de 
 
 <details>
 
-<summary>Historia de Black Frost</summary>
+<summary><mark style="color:purple;">Historia de Black Frost</mark></summary>
 
 Los Black Frosts son Jack Frosts que se volvieron poderosos y malévolos debido a su anhelo de poderes oscuros y al recordar su naturaleza demoníaca. Son una variante evolucionada del hada invernal amante de la paz. Junto con un aumento en su tamaño, su piel se oscurece y su atuendo pasa de ser azul a morado.
 
@@ -29,7 +29,7 @@ Una muy buena animación de Joclpacheb en ArtStation.
 
 <details>
 
-<summary>Contexto: ¿Quién es Jack Frost?</summary>
+<summary><mark style="color:purple;">Contexto: ¿Quién es</mark> Jack Frost<mark style="color:purple;">?</mark></summary>
 
 Jack Frost es un espíritu de origen inglés. Es un elfo de la nieve que trae el clima frío durante el invierno y se cree que es responsable de la escarcha que se forma en las ventanas de hogares y edificios.
 
@@ -59,7 +59,7 @@ Esta figura de Black Frost lastimosamente no se encuentra disponible para descar
 
 {% embed url="https://tenor.com/view/repost-if-you-are-stupid-repost-if-youre-stupid-repost-if-your-stupid-repost-if-black-frost-gif-22323343" %}
 
-## Modelo 3D disponible de Jack Frost
+## <mark style="color:purple;">Modelo 3D disponible de Jack Frost</mark>
 
 El único modelo **aceptable** **gratis** de Jack Frost fue este archivo, nos servirá para convertirlo en su versión malvada.
 
@@ -71,7 +71,7 @@ El enlace del archivo es el siguiente:
 Enlace descargado de Sketchfab del enlace superior.
 {% endfile %}
 
-## Editar el archivo disponible
+## <mark style="color:purple;">Editar el archivo disponible</mark>
 
 Al descargar el archivo lo primero que podemos observar es que el modelado es bastante parecido al original a pesar de verse muy diferente con los shaders, lo segundo sería que los cuernos del gorro son muy grandes a comparación de lo que estamos acostumbrados.
 
@@ -165,7 +165,7 @@ Para exportar el archivo debemos dirigirnos al menú superior y seleccionar File
 Archivo con los cambios en formato .stl
 {% endfile %}
 
-### Realizar el rostro de Black Frost
+## <mark style="color:purple;">Realizar el rostro de Black Frost</mark>
 
 Archivo .stl del Black Frost falso
 
@@ -173,9 +173,9 @@ Archivo .stl del Black Frost falso
 >
 > Erika Ramírez, 3/11/23
 
-### Los ojos
+### <mark style="color:purple;">Planos</mark>
 
-Seleccionamos <mark style="color:purple;">**Shift A**</mark> para abrir un menú emergente de <mark style="color:purple;">**Add**</mark> que también podemos ver en la barra superior, nos dirigimos a <mark style="color:purple;">**Mesh**</mark> y seleccionamos <mark style="color:purple;">**Plane**</mark>**.**&#x20;
+Empezamos por los ojos. Seleccionamos <mark style="color:purple;">**Shift A**</mark> para abrir un menú emergente de <mark style="color:purple;">**Add**</mark> que también podemos ver en la barra superior, nos dirigimos a <mark style="color:purple;">**Mesh**</mark> y seleccionamos <mark style="color:purple;">**Plane**</mark>**.**&#x20;
 
 Cambiamos de ventana de edición con <mark style="color:purple;">**Tab**</mark> para ir a <mark style="color:purple;">**Edit Mode**</mark> para modificar nuestro plano.
 
@@ -233,7 +233,7 @@ Para crear los dientes, seguiremos el mismo método. Crearemos un plano, añadir
 
 </div>
 
-**Extruir el plano en dirección a la normal.**
+### <mark style="color:purple;">**Extruir el plano en dirección a la normal.**</mark>
 
 El comando para extruir suele ser **E** de Extrude pero para extruir en dirección a la normal podemos utilizar el comando **Alt E**. Utilizamos este comando para extruir tanto nuestro plano del ojo como el de diente.
 
@@ -253,7 +253,7 @@ Si sabes qué operación queres realizar pero no te acordas en qué menú se enc
 
 </div>
 
-### &#x20;Diferencia booleana para crear la boca de Black Frost&#x20;
+### &#x20;<mark style="color:purple;">Diferencia booleana para crear la boca de Black Frost</mark>&#x20;
 
 Vamos a crear una esfera, la cortaremos por la mitad y la posicionaremos en el lugar donde deseamos realizar una operación booleana. Para hacerlo de manera más conveniente, activaremos el complemento (**addon**) de **Bool Tools** en las **Properties** (Propiedades). Esto nos permitirá obtener una diferencia booleana que podremos ajustar en tiempo real desplazando el objeto de corte hasta que estemos satisfechos con su posición.
 
@@ -345,7 +345,7 @@ Resultado de las modificaciones.
 Formato .stl de Black Frost
 {% endfile %}
 
-## Landscape
+## <mark style="color:purple;">Landscape</mark>
 
 Realistic Weathered Japan Torii Gate de [tiborjanas.art](https://sketchfab.com/tiborjanas.art) en Sketchfab.
 
@@ -383,7 +383,7 @@ Eliminamos los detalles muy pequeños del modelo y agrandamos a Black Frost con 
 Archivo modificable .blend
 {% endfile %}
 
-## Jack Frost joined your party without your consent!
+## <mark style="color:purple;">Jack Frost joined your party without your consent!</mark>
 
 Cuando decidí ajustar el diseño del zapato de Black Frost para que se asemejara al original, estaba consciente de que al hacerlo, perdería el detallado modelo 3D de Jack Frost. Por esta razón modifiqué los ojos para preservar la esencia de Jack Frost y así poder abordar la creación del zapato de Black Frost sin remordimientos.
 
@@ -595,11 +595,11 @@ Me dolió mucho eliminar un Jack Frost.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 203201.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:purple;">¡Hasta que llegamos al resultado esperado!</mark>
+## <mark style="color:purple;">¡Hasta que llegamos al resultado esperado!</mark>
 
 <figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
-Decidí mantener las botas tal como están, ya que durante mi búsqueda de referencias, descubrí que en la representación de Black Frost en Shin Megami Tensei III Nocturne, las botas de Jack Frost se mantienen sin modificaciones, solo cambiaron el color. Por lo tanto, seguiré este enfoque en paz.
+_En cuanto a las botas_, decidí mantener las botas tal como están, ya que durante mi búsqueda de referencias, descubrí que en la representación de Black Frost en Shin Megami Tensei III Nocturne, las botas de Jack Frost se mantienen sin modificaciones, solo cambiaron el color. Por lo tanto, seguiré este enfoque en paz.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-05 201430.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -607,7 +607,7 @@ Decidí mantener las botas tal como están, ya que durante mi búsqueda de refer
 Black Frost en Shin Megami Tensei III Nocturne.
 {% endembed %}
 
-### Archivos descargable del progreso
+### Archivos descargables del progreso
 
 {% file src="../.gitbook/assets/Black Frost and Jack Frost.blend" %}
 Archivo .blend el cuál es fácilmente modificable.
