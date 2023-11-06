@@ -591,6 +591,8 @@ He optado por mantenerlos en plataformas separadas, ya que esto preservará la s
 
 <figure><img src="../../.gitbook/assets/Captura de pantalla 2023-11-05 202727.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/imagen_2023-11-06_020104177.png" alt=""><figcaption><p>Se ve familiar.</p></figcaption></figure>
+
 Me dolió mucho eliminar un Jack Frost.
 
 <figure><img src="../../.gitbook/assets/Captura de pantalla 2023-11-05 203201.png" alt=""><figcaption></figcaption></figure>
