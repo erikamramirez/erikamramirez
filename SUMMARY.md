@@ -19,6 +19,7 @@
     * [Black Frost y Jack Frost en Meshmixer](impresion-3d/black-frost/black-frost-y-jack-frost-en-meshmixer.md)
     * [Black Frost y Jack Frost en FlashPrint](impresion-3d/black-frost/black-frost-y-jack-frost-en-flashprint.md)
   * [Diseño 3D editando con Meshmixer.](impresion-3d/diseno-3d-editando-con-meshmixer..md)
+* [Page](page.md)
 * [CNC](cnc/README.md)
   * [Modelado 2D -3D](cnc/modelado-2d-3d/README.md)
     * [Test de CNC](cnc/modelado-2d-3d/test-de-cnc.md)
