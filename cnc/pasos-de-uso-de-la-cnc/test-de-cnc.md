@@ -30,3 +30,151 @@ Diseño vectorial del test en formato .dxf
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_023157794.png" alt=""><figcaption></figcaption></figure>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_023843836.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_023856052.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_023920983.png" alt=""><figcaption></figcaption></figure>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024008542.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024020692.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024035794.png" alt=""><figcaption></figcaption></figure>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024052349.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024103469.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024134469.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024155899.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024209716.png" alt=""><figcaption></figcaption></figure>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024228091.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024243380.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024255898.png" alt=""><figcaption></figcaption></figure>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024309179.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024322303.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024338598.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024538661.png" alt=""><figcaption></figcaption></figure>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024553118.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024604503.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+## Los Círculos Concéntricos
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024645118.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024657355.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024710338.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024722686.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024735506.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024749118.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024806333.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024848087.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024901686.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024917263.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024929843.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_024944207.png" alt=""><figcaption></figcaption></figure>
+
+## Líneas
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_025100600.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_025026961.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_025120139.png" alt=""><figcaption></figcaption></figure>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_025146399.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_025204956.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_025311771.png" alt=""><figcaption></figcaption></figure>
+
+## Advance
+
+<div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_025425352.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_025445797.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_025504109.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_025533494.png" alt=""><figcaption></figcaption></figure>
+
