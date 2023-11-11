@@ -52,9 +52,9 @@ Ahora buscamos la nota de **Start Here** y debemos **select png file** para ingr
 
 <figure><img src="../../.gitbook/assets/imagen_2023-11-04_210232447.png" alt=""><figcaption><p>Menú emergente para seleccionar el .png a cortar en el plotter.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Vista luego de seleccionar. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Vista luego de seleccionar. </p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Vista del sistema de nodos una vez ingresado el .png </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p>Vista del sistema de nodos una vez ingresado el .png </p></figcaption></figure>
 
 Ahora debemos dirigirnos a **Cut Raster** y seleccionar **Calculate.**
 

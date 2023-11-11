@@ -20,12 +20,13 @@ Es un archivo de muestra muy útil para llevar en su memoria USB cuando compre u
 
 Requiere una única fresa, de cualquier diámetro, lo más delgada posible, se recomienda ≤ 3 mm.
 
-&#x20;
-
 {% file src="../../.gitbook/assets/heptagon-circle-50mm.dxf" %}
 Diseño vectorial del test en formato .dxf
 {% endfile %}
 
 <figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Vista del archivo en Rhino.</p></figcaption></figure>
 
-aspire. vcarvepro.
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+

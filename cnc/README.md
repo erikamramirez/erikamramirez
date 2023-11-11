@@ -35,11 +35,11 @@ A continuación, se presentan algunos puntos clave para comprender mejor la CNC:
 
 * <mark style="color:purple;">**Diseño Flexible:**</mark> Los programas de control CNC se pueden ajustar y modificar fácilmente, lo que permite cambiar rápidamente de una tarea de mecanizado a otra sin requerir cambios físicos en la máquina.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:purple;">**Tecnología en Evolución:**</mark> La tecnología CNC continúa evolucionando con capacidades avanzadas, como sistemas de medición en tiempo real, control de múltiples ejes y conectividad a la nube para la supervisión remota.
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><em>LASERTEC 125 DED hybrid</em> híbrido de manufactura CNC con tecnología aditiva. </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><em>LASERTEC 125 DED hybrid</em> híbrido de manufactura CNC con tecnología aditiva. </p></figcaption></figure>
 
 ### <mark style="color:purple;">**Introducción a ruteado CNC.**</mark>
 

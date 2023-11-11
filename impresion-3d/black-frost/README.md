@@ -89,7 +89,7 @@ Podemos editar los vértices, borde y caras de nuestros modelos 3D al pasar a Ed
 
 * Seleccionamos los vértices, podemos seleccionar vértices, borde o cara en un menú o cambiarlo con "Tab".
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p>Menú de selección de vértices, edge o face en Edit Mode</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Menú de selección de vértices, edge o face en Edit Mode</p></figcaption></figure>
 
 * seleccionamos "+" en el numpad para seleccionar por steps/pasos de manera más simple hasta dónde necesitamos.
 
@@ -105,11 +105,11 @@ Podemos editar los vértices, borde y caras de nuestros modelos 3D al pasar a Ed
 
 * finalmente escalar, para ello podemos seleccionar desde la barra lateral o con el comando "S".
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption><p>Scale en la barra lateral de Edit Mode.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Scale en la barra lateral de Edit Mode.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tamaño de los cuernos original, vista en Object Mode.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tamaño de los cuernos reducidos, con los vértices seleccionados en Edit Mode.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tamaño de los cuernos reducidos, con los vértices seleccionados en Edit Mode.</p></figcaption></figure>
 
 El objeto se encuentra en una pose en Object Mode debido a que tiene un modificador de armadura, ya que Edit Mode se trata de modificar los vértices, bordes y caras del objeto en este menú se observa en pose T.
 
@@ -369,7 +369,7 @@ Eliminamos los detalles muy pequeños del modelo y agrandamos a Black Frost con 
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 

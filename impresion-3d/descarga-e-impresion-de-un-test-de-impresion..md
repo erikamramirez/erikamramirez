@@ -74,6 +74,10 @@ Plataforma: 50.
 
 Extrusor: 220.
 {% endtab %}
+
+{% tab title="Filamento PETG" %}
+
+{% endtab %}
 {% endtabs %}
 
 Configuraremos la temperatura con los siguientes parámetros.
@@ -140,11 +144,19 @@ Como está conectado el plástico azul, y quiero reemplazar el filamento a otro 
 
 Los pasos a realizar son:
 
-<figure><img src="../.gitbook/assets/WhatsApp Image 2023-10-29 at 12.00.26 (2).jpeg" alt=""><figcaption><p>Este es el menú principal al que accederemos constantemente. Seleccionamos Preheat.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-11_022323787.png" alt=""><figcaption><p>Este es el menú principal al que accederemos constantemente. Seleccionamos Preheat.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption><p>Desactivamos (off) lo que no queremos que se caliente, y activamos (on) lo que sí queremos calentar, en este caso el Extrusor derecho/ R Extruder.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-11_022456549 (2).png" alt=""><figcaption><p>Desactivamos (off) lo que no queremos que se caliente, y activamos (on) lo que sí queremos calentar, en este caso el Extrusor derecho/ R Extruder.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/WhatsApp Image 2023-10-29 at 12.26.53.jpeg" alt=""><figcaption><p>Debemos calentar el extrusor derecho, los parámetros serán los establecidos en Flashprint.</p></figcaption></figure>
+<div>
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-11_022520275.png" alt=""><figcaption><p>Debemos calentar el extrusor derecho, los parámetros serán los establecidos en Flashprint.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-11_022535160.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Una vez que se termina de calentar el extrusor. Apretamos la palanca que se encuentra al lateral del extrusor, y a la par empujamos el filamento. Una vez expulsado los restos del filamento anterior, podemos abrir la rejilla y quitar los restos.
 
@@ -160,25 +172,39 @@ Una vez que se haya terminado el proceso anterior y haber cambiado el filamento 
 
 Para mover la plataforma debemos seleccionar tools en el menú principal, luego move, y mover la plataforma en el eje Z para acercalo al extrusor.
 
-<figure><img src="../.gitbook/assets/WhatsApp Image 2023-10-29 at 12.00.26 (2).jpeg" alt=""><figcaption><p>Seleccionar Tools en el menú principal.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-11_022230973.png" alt=""><figcaption><p>Seleccionar Tools en el menú principal.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/WhatsApp Image 2023-10-29 at 12.26.54.jpeg" alt=""><figcaption><p>Menú Tools.</p></figcaption></figure>
 
 {% hint style="info" %}
 Podemos seleccionar **Level** para nivelar la plataforma en relación al extrusor y luego mover la plataforma para **alejarlo** del extrusor.
+
+<img src="../.gitbook/assets/imagen_2023-11-11_023052475.png" alt="" data-size="original">
 {% endhint %}
 
 Seleccionar Manual para mover la plataforma, movemos en el eje z para alejar o acercar al extrusor. Establecemos una distancia aceptable entre ambos y luego retrocedemos.
 
-<figure><img src="../.gitbook/assets/WhatsApp Image 2023-10-29 at 12.00.28.jpeg" alt=""><figcaption><p>Vista del menú de <strong>Manual</strong>.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-11_022300603.png" alt=""><figcaption><p>Vista del menú de <strong>Manual</strong>.</p></figcaption></figure>
 
 Cuando queremos empezar la impresión volvemos en el menú principal y seleccionamos Print.
 
-<figure><img src="../.gitbook/assets/WhatsApp Image 2023-10-29 at 12.00.26 (2).jpeg" alt=""><figcaption><p>Seleccionar <strong>Print</strong>.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-11_022323787.png" alt=""><figcaption><p>Seleccionar <strong>Print</strong>.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/WhatsApp Image 2023-10-29 at 12.00.26.jpeg" alt=""><figcaption><p>Seleccionar el ícono de la tarjeta Micro SD.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-11_022204905.png" alt=""><figcaption><p>Seleccionar el ícono de la tarjeta Micro SD.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption><p>Seleccionar el modelo que queremos imprimir.</p></figcaption></figure>
+<div>
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-11_022743576.png" alt=""><figcaption><p>Seleccionar el modelo que queremos imprimir.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-11_022801346.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-11_022818866.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Una vez seleccionado nos aparece una última confirmación, aceptamos y la máquina comienza su proceso.
 
@@ -201,6 +227,14 @@ Una vez terminado podemos extraer el objeto, limpiar los excesos de filamento in
 A pesar de utilizar los parámetros de temperatura especificados en la etiqueta del producto, no salió como se esperaba.
 
 Se debe realizar nuevas pruebas con otros parámetros de temperatura.
+
+| Nuevos Intentos |   |
+| --------------- | - |
+|                 |   |
+|                 |   |
+|                 |   |
+
+
 
 ¡Gracias por seguir este tutorial!
 
