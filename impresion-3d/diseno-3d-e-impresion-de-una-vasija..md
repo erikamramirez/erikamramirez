@@ -97,7 +97,7 @@ También podemos aumentar la cantidad de polígonos en Meshmixer para lograr may
 
 Si el modelo es demasiado grande se debe escalar para que entre en el cubo que se observa en el viewport.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Modelo 3D dentro del cubo en el viewport.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Modelo 3D dentro del cubo en el viewport.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Modelo 3D que sobrepasa el tamaño del cubo, por ende es necesario escalar.</p></figcaption></figure>
 
@@ -119,7 +119,7 @@ La temperatura de la extrusora se determina de acuerdo al material que utilizare
 
 El tamaño de la boquilla que tenemos es de 0.4 mm.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Configuraciones listas para exportar a la máquina.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Configuraciones listas para exportar a la máquina.</p></figcaption></figure>
 
 En esta impresora debemos exportar los archivos y configuraciones por medio de una tarjeta MicroSD.
 

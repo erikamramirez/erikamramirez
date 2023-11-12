@@ -96,7 +96,15 @@ description: aspire. vcarvepro.
 
 <figure><img src="../../.gitbook/assets/imagen_2023-11-11_020459812.png" alt=""><figcaption></figcaption></figure>
 
+<div>
+
 <figure><img src="../../.gitbook/assets/imagen_2023-11-11_020525489.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-11_162126785.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## VCARVE PRO
 
