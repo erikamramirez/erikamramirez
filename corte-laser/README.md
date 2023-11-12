@@ -160,7 +160,13 @@ La calibración de la cabeza del láser es un proceso importante en el funcionam
 </div>
 
 * Descargar desde Gmail los trabajos a realizar&#x20;
+
+En el caso de ser necesario, así obtenemos el archivo .dxf a procesar
+
 * Muchas veces deberemos convertir los vectores enviados en un pdf a .dxf por nuestra cuenta
+
+Para simplemente abrimos el archivo pdf en I**nkscape** o **Illustrator**, en síntesis algún software que trabaje con vectores, establecemos las unidades a **mm**, seleccionamos todo, **exportar como** .dxf
+
 * Importar el archivo .dxf a cortar en **PowerCut**
 
 <div>
@@ -193,18 +199,11 @@ Un problema común es las líneas superpuestas, cuando se encuentran de esta man
 
 {% hint style="info" %}
 Podemos candadear la posición de nuestros objetos en la mesa de trabajo seleccionando el candado.
-
-
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption><p>Ícono del candado en el menú superior.</p></figcaption></figure>
 
 * Establecer la jerarquía de orden de los vectores a grabar y cortar para evitar diversos problemas con mucha atención para no desperdiciar el material
-
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption><p>Seleccionar en cada capa con los colores diferentes seleccionados para cambiar los parámetros de speed y potencia.   </p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (92).png" alt="" width="188"><figcaption><p>Pestaña emergente para configurar la capa.</p></figcaption></figure>
-
 * Ubicar estas líneas en diversas capas con parámetros establecidos para su fin (corte o grabado)
 
 {% hint style="info" %}
@@ -213,7 +212,11 @@ Es de suma importancia realizar primero los grabados antes de los cortes.
 Para evitar cortar una pieza que también necesita grabado.
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/image (92).png" alt="" width="375"><figcaption><p>Pestaña emergente para configurar la capa.</p></figcaption></figure>
+
 Creamos nuevas capas y seleccionamos un color para cada uno, de esta forma se cortará y grabará con diferentes parámetros que estableceremos.
+
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Seleccionar en cada capa con los colores diferentes seleccionados para cambiar los parámetros de speed y potencia.   </p></figcaption></figure>
 
 <details>
 
@@ -285,6 +288,8 @@ Desmarcaremos la capa negra para no cortar los elementos que no modificamos o no
 
 <summary><mark style="color:purple;"><strong>Funciones de los botones de comando</strong></mark></summary>
 
+![](<../.gitbook/assets/image (169).png>)
+
 <mark style="color:purple;">**Flechas**</mark>
 
 Mover el láser de dirección.
@@ -315,11 +320,11 @@ Parar la operación.
 
 </details>
 
-* Podemos usar LASER para ver dónde se encuentra nuestra cabeza del láser, realiza un punto que nos puede servir para guiarnos.
+* Podemos usar **LASER** para ver dónde se encuentra nuestra cabeza del láser, realiza un punto que nos puede servir para guiarnos.
 
 <figure><img src="../.gitbook/assets/image (157).png" alt="" width="375"><figcaption></figcaption></figure>
 
-* También usamos con frecuencia FRAME para ver cuánto espacio delimita nuestro archivo en el material
+* También usamos con frecuencia **FRAME** para ver cuánto espacio delimita nuestro archivo en el material
 * Una vez seguros iniciamos el corte
 
 <figure><img src="../.gitbook/assets/imagen_2023-11-12_001204055.png" alt=""><figcaption></figcaption></figure>

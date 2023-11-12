@@ -15,7 +15,6 @@
   * [Test de Grabado](corte-laser/test-de-grabado.md)
   * [Test de encastre](corte-laser/test-de-encastre.md)
   * [Lámpara cortada en cartón gris](corte-laser/lampara-cortada-en-carton-gris.md)
-* [Lámpara Grasshoper](lampara-grasshoper.md)
 * [Impresión 3D](impresion-3d/README.md)
   * [Instalar FlashPrint.](impresion-3d/instalar-flashprint./README.md)
     * [Interface de Flashprint](impresion-3d/instalar-flashprint./interface-de-flashprint.md)

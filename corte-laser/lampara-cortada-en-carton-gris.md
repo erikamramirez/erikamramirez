@@ -23,6 +23,36 @@ layout:
 
 # Lámpara cortada en cartón gris
 
+{% embed url="https://youtu.be/ZLLuBYwzNL0" %}
+
+La lámpara es diseño de **parametrichouse**
+
+{% file src="../.gitbook/assets/example-rhino6 (1).gh" %}
+Archivo de Grasshopper de la lámpara.
+{% endfile %}
+
+## <mark style="color:purple;">Modificación de parámetros en Grasshopper del archivo de Parametrichouse</mark>
+
+El archivo de Grasshopper tiene indicada los parámetros editables para la personalización del proyecto.
+
+* Circunferencia superior
+* Circunferencia del centro
+* Circunferencia inferior
+* Altura
+* Grosor de los encastres
+* Ensanchar las piezas
+* Aumentar la profundidad del encastre
+* Eneabled
+* Bake
+* Duplicar las piezas
+* Exportar como
+
+Una vez conforme con la forma debemos **Eneabled** tal nodo y dirigirnos al último nodo para seleccionar **Bake** y obtener la malla del script.
+
+El resultado del **Bake** es una pieza del centro y otra única pieza de las costillas, ésta última la duplicaremos según la cantidad que necesitamos.
+
+Exportamos nuestros vectores en formato .dxf para poder utilizarlo en **PowerCut** y luego cortarlo en la máquina.
+
 ## <mark style="color:purple;">Proceso de Corte</mark>
 
 Abriremos nuestro programa PowerCut, luego importaremos nuestro archivo .dxf que contiene nuestros vectores.
