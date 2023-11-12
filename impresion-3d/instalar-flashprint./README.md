@@ -24,11 +24,11 @@ Seleccionar la version y el Sistema Operativo a instalar el programa.
 
 El archivo del instalador se descargará automáticamente una vez seleccionado.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ahora, hacemos clic en "Buscar en Carpeta" para navegar hacia la ubicación del archivo en nuestro equipo. Una vez en esa ubicación, abrimos el archivo zip con WinRAR y procedemos a su extracción.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Seleccionar Abrir.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Seleccionar Abrir.</p></figcaption></figure>
 
 Para abrir el archivo seleccionado en las capturas de pantalla, sigue los pasos hasta llegar al archivo del instalador.
 
@@ -88,5 +88,5 @@ Cuando ejecutamos el programa por primera vez, se nos solicita que elijamos el t
 
 Finalmente, podemos empezar a utilizar FlashPrint. ¡A disfrutar de todas sus funciones y características!
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Interface de FlashPrint.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Interface de FlashPrint.</p></figcaption></figure>
 

@@ -86,15 +86,25 @@ Seguimos abriendo el software PowerCut e importar el archivo .dxf
 
 ### <mark style="color:purple;">Eliminar líneas superpuestas</mark>
 
-
+<figure><img src="../.gitbook/assets/image.png" alt="" width="328"><figcaption></figcaption></figure>
 
 ### <mark style="color:purple;">Establecer capas para cada vector según su fin</mark>
 
-
+<figure><img src="../.gitbook/assets/imagen_2023-11-12_155946330.png" alt="" width="328"><figcaption></figcaption></figure>
 
 ### <mark style="color:purple;">Establecer parámetros de fuerza y velocidad</mark>
 
 Ya que en nuestro test nuestra hilera horizontal indica que todos los cuadros  tendrán la misma potencia, y en cada hilera vertical una velocidad. Para establecer nuestros parámetros para encajar con la grilla dibujada, seleccionamos cada capa y cambiamos de la siguiente manera.
+
+<div>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-12_155958278.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
@@ -104,10 +114,26 @@ Ya que en nuestro test nuestra hilera horizontal indica que todos los cuadros  t
 
 ### <mark style="color:purple;">Exportar archivo a la máquina de corte láser</mark>
 
+<div>
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-12_160131979.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-12_160147468.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### <mark style="color:purple;">Observar el proceso para ver si algo no esta saliendo como se espera y determinar rápidamente qué cambiar</mark>
 
-
+{% embed url="https://vimeo.com/883768330?share=copy" %}
 
 ### <mark style="color:purple;">**Resultado Final**</mark>
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-12_162717967.png" alt=""><figcaption></figcaption></figure>

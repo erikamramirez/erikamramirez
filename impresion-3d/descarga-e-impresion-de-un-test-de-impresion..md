@@ -228,14 +228,10 @@ A pesar de utilizar los parámetros de temperatura especificados en la etiqueta 
 
 Se debe realizar nuevas pruebas con otros parámetros de temperatura.
 
-| Nuevos Intentos |   |
-| --------------- | - |
-|                 |   |
-|                 |   |
-|                 |   |
+### <mark style="color:purple;">Nuevos Intentos</mark>
 
 
 
-¡Gracias por seguir este tutorial!
+## ¡Gracias por seguir este tutorial!
 
 ¡Espero que este tutorial te haya sido de utilidad! Si tienes alguna pregunta o necesitas más ayuda, no dudes en contactarnos. ¡Gracias por leer y buena suerte en tus proyectos futuros!

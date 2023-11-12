@@ -216,7 +216,7 @@ Para evitar cortar una pieza que también necesita grabado.
 
 Creamos nuevas capas y seleccionamos un color para cada uno, de esta forma se cortará y grabará con diferentes parámetros que estableceremos.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Seleccionar en cada capa con los colores diferentes seleccionados para cambiar los parámetros de speed y potencia.   </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Seleccionar en cada capa con los colores diferentes seleccionados para cambiar los parámetros de speed y potencia.   </p></figcaption></figure>
 
 <details>
 
@@ -325,6 +325,9 @@ Parar la operación.
 <figure><img src="../.gitbook/assets/image (157).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * También usamos con frecuencia **FRAME** para ver cuánto espacio delimita nuestro archivo en el material
+
+{% embed url="https://vimeo.com/883768713" fullWidth="true" %}
+
 * Una vez seguros iniciamos el corte
 
 <figure><img src="../.gitbook/assets/imagen_2023-11-12_001204055.png" alt=""><figcaption></figcaption></figure>
