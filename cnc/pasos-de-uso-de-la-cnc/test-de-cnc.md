@@ -26,9 +26,9 @@ Diseño vectorial del test en formato .dxf
 
 <figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Vista del archivo en Rhino.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/imagen_2023-11-11_023157794.png" alt=""><figcaption></figcaption></figure>
 

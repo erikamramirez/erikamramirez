@@ -86,7 +86,7 @@ Seguimos abriendo el software PowerCut e importar el archivo .dxf
 
 ### <mark style="color:purple;">Eliminar líneas superpuestas</mark>
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="328"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt="" width="328"><figcaption></figcaption></figure>
 
 ### <mark style="color:purple;">Establecer capas para cada vector según su fin</mark>
 
@@ -98,7 +98,7 @@ Ya que en nuestro test nuestra hilera horizontal indica que todos los cuadros  t
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -116,7 +116,7 @@ Ya que en nuestro test nuestra hilera horizontal indica que todos los cuadros  t
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -134,6 +134,6 @@ Ya que en nuestro test nuestra hilera horizontal indica que todos los cuadros  t
 
 ### <mark style="color:purple;">**Resultado Final**</mark>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/imagen_2023-11-12_162717967.png" alt=""><figcaption></figcaption></figure>
