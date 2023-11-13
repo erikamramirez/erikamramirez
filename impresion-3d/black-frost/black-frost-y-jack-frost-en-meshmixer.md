@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/imagen_2023-11-13_045015474.png
+coverY: 0
+---
+
 # Black Frost y Jack Frost en Meshmixer
 
 ### **Make Solid**
@@ -209,8 +214,80 @@ Cuando está habilitada, la opción de Transferir Grupos intenta asignar los gru
 
 Parámetros
 
-* Después de configurar los parámetros, haz clic en "Update" para comenzar el proceso de conversión.
+* Después de configurar los parámetros, haz clic en "<mark style="color:purple;">**Update**</mark>" para comenzar el proceso de conversión.
 * Meshmixer procesará el modelo y lo convertirá en una estructura sólida según tus especificaciones.
 * Una vez que se complete el proceso, tendrás un modelo sólido que puedes guardar o seguir editando según sea necesario.
 
 "Make Solid" es una característica poderosa que te permite transformar modelos 3D en mallas en objetos sólidos que son más adecuados para la impresión 3D u otras aplicaciones. Asegúrate de ajustar los parámetros de acuerdo a tus necesidades específicas antes de aplicar la función.
+
+## <mark style="color:purple;">Importar el Modelo stl a Meshmixer</mark>
+
+Como en casi todos los programas, nos dirigimos a **File** y luego buscamos I**mport** para importar el programa, Meshmixer acepta formato .stl, por esta razón habíamos convertido a este formato previamente.&#x20;
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_044823209.png" alt=""><figcaption></figcaption></figure>
+
+Para utilizar **Make Solid** nos dirigimos a la pestaña de **Edit e**n el menú lateral, y podemos encontrar **Make Solid**, el resultado inicial es siempre necesario de mejorar, debemos ajustar los parámetros.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_044839494.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_044849497.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Con las siguientes configuraciones se ha logrado un resultado decente con **Jack Frost.**
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_044904451.png" alt=""><figcaption></figcaption></figure>
+
+Por alguna razón el Black Frost presenta más irregularidades, como se observa cerca del ojo y en el gorrito. Decidí aceptar los parámetros para **Make Solid** y tratar de editar con las herramientas de **Sculpt.**&#x20;
+
+Al aceptar podemos ver que ahora se ha clonado los objetos, en la interface se encuentra el archivo original y la copia con el resultado de **Make Solid.**
+
+<div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_044936712.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_044948105.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Había realizado otro intento y en este caso resultado algo más raro, había seleccionado para eliminar, el comando "x" sirve para eliminar, y luego proceder a las herramientas de escultura.&#x20;
+
+<div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_045002690.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_045015474.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Se había quedado un hueco al eliminar este asunto de la mejilla, así que empujé la malla para tapar donde se encontraban estos huecos.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_045029421.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_045042463.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+{% hint style="warning" %}
+¡¿Pero, qué había pasado con el piso de la plataforma?!
+
+La razón por la cual había desaparecido al realizar make solid es por que las normales estaban invertidas.
+{% endhint %}
+
+Para solucionar las normales invertidas nos dirigimos a **Select**, luego a **Edit** y al penúltimo encontraremos **Flip Normals**.
+
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_045055294.png" alt=""><figcaption></figcaption></figure>
+
+Repetí los parámetros que funcionan para **Make Solid**, como de vuelta el modelo de <mark style="color:purple;">**Black Frost**</mark> presentaba imperfecciones y el de <mark style="color:blue;">**Jack Frost**</mark> resultaba bien al primer intento, decidí imprimir sólo en de <mark style="color:blue;">**Jack Frost**</mark> para avanzar y luego retomar a <mark style="color:purple;">**Black Frost.**</mark>
