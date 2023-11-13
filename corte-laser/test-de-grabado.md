@@ -20,6 +20,8 @@
 
 {% embed url="https://photos.app.goo.gl/LreGou9fcqnRo9Dh8" %}
 
+<figure><img src="../.gitbook/assets/imagen_2023-11-13_003434661.png" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:purple;">Parámetros del Grabado</mark>
 
 El siguiente paso consiste en seleccionar los cuadros donde indicaremos diferentes parámetros de velocidad para cada uno.
