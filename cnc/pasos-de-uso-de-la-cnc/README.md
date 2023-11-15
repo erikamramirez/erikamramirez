@@ -1,7 +1,3 @@
----
-description: aspire. vcarvepro.
----
-
 # Pasos de uso de la CNC
 
 

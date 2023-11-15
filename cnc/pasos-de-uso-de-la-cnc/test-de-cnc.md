@@ -24,7 +24,11 @@ Requiere una única fresa, de cualquier diámetro, lo más delgada posible, se r
 Diseño vectorial del test en formato .dxf
 {% endfile %}
 
+Abrimos la pieza del enlace en Rhino, y le agregamos unos círculos en los vértices para añadir un parámetro más al test.
+
 <figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Vista del archivo en Rhino.</p></figcaption></figure>
+
+
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -162,7 +166,7 @@ Diseño vectorial del test en formato .dxf
 
 <figure><img src="../../.gitbook/assets/imagen_2023-11-11_025311771.png" alt=""><figcaption></figcaption></figure>
 
-## Advance
+## SnapBot
 
 <div>
 

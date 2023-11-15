@@ -21,7 +21,11 @@ coverY: 0
 
 ## Fijar el material en el tablero
 
+Para fijar el isopor al tablero usaremos cinta doble faz.
+
 <figure><img src="../../../.gitbook/assets/imagen_2023-11-11_150557253.png" alt=""><figcaption></figcaption></figure>
+
+Ubicamos la pieza guiándonos por alguna referencia para que quede encuadrado.
 
 <div>
 
@@ -33,11 +37,17 @@ coverY: 0
 
 </div>
 
+De no contar con una placa para este fin, debemos atornillar alguna a la base.
+
 <figure><img src="../../../.gitbook/assets/imagen_2023-11-11_151831026.png" alt=""><figcaption></figcaption></figure>
 
 Marcar el centro
 
+Para marcar el centro podemos hacer dos diagonales con una regla desde los vértices, la intersección resultante es nuestro punto del centro.
+
 ## Prender
+
+Para prender nuestra máquina utilizaremos el interruptor que se encuentra al lateral derecho. Una vez prendido podemos ver la botonera para mover nuestra fresa prendida.
 
 <div>
 
@@ -48,6 +58,8 @@ Marcar el centro
 <figure><img src="../../../.gitbook/assets/imagen_2023-11-11_150745170.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+Dependiendo de dónde indica la luz de la máquina cargaremos el tipo de archivo, el RLM indica el formato de la empresa fabricante Roland, el formato NC es un formato genérico.
 
 <div>
 
@@ -61,6 +73,8 @@ Marcar el centro
 
 ## Establecer los ejes en x, y z
 
+Con ayuda de este control podemos mover nuestra fresa en los ejes x, y, z. Funciona seleccionando el botón del eje a mover, y luego utilizamos la rueda giratoria que se encuentra en la zona inferior del control.
+
 <div>
 
 <figure><img src="../../../.gitbook/assets/imagen_2023-11-11_150843277.png" alt=""><figcaption></figcaption></figure>
@@ -71,7 +85,9 @@ Marcar el centro
 
 </div>
 
-<figure><img src="../../../.gitbook/assets/imagen_2023-11-11_150952459.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen_2023-11-11_150952459.png" alt="" width="328"><figcaption></figcaption></figure>
+
+Establecemos los ejes X e Y en VPanel y luego procedemos a encontar el eje Z.
 
 <div>
 
@@ -82,6 +98,10 @@ Marcar el centro
 <figure><img src="../../../.gitbook/assets/imagen_2023-11-11_151303277.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+Podemos cambiar la broca de la fresa. Para evitar pérdidas debemos utilizar un trapo de amortiguador en caso de caídas. Abrimos el portabrocas con ayuda de una llave y así podemos reemplazar la pieza.
+
+<figure><img src="../../../.gitbook/assets/imagen_2023-11-11_151329188.png" alt=""><figcaption></figcaption></figure>
 
 <div>
 
@@ -114,8 +134,6 @@ Marcar el centro
 <figure><img src="../../../.gitbook/assets/imagen_2023-11-11_151712983.png" alt=""><figcaption></figcaption></figure>
 
 </div>
-
-<figure><img src="../../../.gitbook/assets/imagen_2023-11-11_151329188.png" alt=""><figcaption></figcaption></figure>
 
 
 
