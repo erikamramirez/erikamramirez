@@ -5,7 +5,7 @@ coverY: 0
 
 # Hacer un fresado del Cerro León
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/imagen_2023-11-11_020011586.png" alt=""><figcaption></figcaption></figure>
 
@@ -15,7 +15,7 @@ coverY: 0
 
 <figure><img src="../../../.gitbook/assets/imagen_2023-11-11_020102920.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/imagen_2023-11-11_020145409.png" alt=""><figcaption></figcaption></figure>
 
@@ -137,15 +137,15 @@ Podemos cambiar la broca de la fresa. Para evitar pérdidas debemos utilizar un 
 
 
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Ubicar el eje
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 

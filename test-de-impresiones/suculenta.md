@@ -1,4 +1,7 @@
 ---
+description: >-
+  Impresión 3D de un modelo creado en Geometry Nodes de Blender, este proyecto
+  personal será impreso en diferentes materiales como PLA, ABS y PETG
 cover: ../.gitbook/assets/suculentas lego 23.png
 coverY: 143
 ---

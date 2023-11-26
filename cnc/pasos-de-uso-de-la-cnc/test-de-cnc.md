@@ -30,9 +30,9 @@ Abrimos la pieza del enlace en Rhino, y le agregamos unos círculos en los vért
 
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/imagen_2023-11-11_023157794.png" alt=""><figcaption></figcaption></figure>
 
