@@ -136,6 +136,10 @@ Para diversas operaciones puede presentarse el caso en el que necesitemos cambia
 
 Realiza la calibración inicial de la máquina y establece el punto de origen (cero) para el trabajo.
 
+{% embed url="https://www.youtube.com/watch?v=8VyW-jClR8E" %}
+Video de la página de ShotBot.
+{% endembed %}
+
 Una vez prendida la máquina siguiendo los pasos anteriores, nos dirigimos a la PC y abrimos la aplicación de ShopBot.&#x20;
 
 En la pantalla roja, se encuentran los parámetros destinados a controlar el movimiento de la fresa en los ejes X, Y, Z, así como para establecer el punto de origen (eje 0) y abrir el archivo que se va a procesar en Cut Part.

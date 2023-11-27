@@ -53,6 +53,8 @@ Documento de Introducción al CNC.
 
 **Selección de fresas, velocidad y avance**
 
+{% embed url="https://cncycorte.com/punta-de-bola-para-madera-ebanisteria-elevada/" %}
+
 {% embed url="https://content-calpoly-edu.s3.amazonaws.com/dfab/1/documents/ShopBotFeedsandSpeeds.pdf" %}
 
 {% embed url="https://pub.pages.cba.mit.edu/feed_speeds/" %}
