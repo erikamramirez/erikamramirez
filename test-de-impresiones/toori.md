@@ -8,8 +8,8 @@ description: >-
 
 {% embed url="https://sketchfab.com/3d-models/japanese-torii-gate-game-asset-e12d2fa1b2b94928b8b87cb7787e2462#download" %}
 
-{% content-ref url="../impresion-3d/black-frost/" %}
-[black-frost](../impresion-3d/black-frost/)
+{% content-ref url="../impresion-3d/black-frost.md" %}
+[black-frost.md](../impresion-3d/black-frost.md)
 {% endcontent-ref %}
 
 <figure><img src="../.gitbook/assets/imagen_2023-11-27_101704919.png" alt=""><figcaption></figcaption></figure>

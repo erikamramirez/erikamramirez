@@ -105,6 +105,12 @@ Modelo en formato .stl de Tatsuya Suou
 
 
 
+{% file src="../../.gitbook/assets/Tatsuya and Motocycle.blend" %}
+Archivo.blend
+{% endfile %}
+
+
+
 **Modelo 3D online de un casco.**
 
 <figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption><p>Vista del casco 3D del enlace.</p></figcaption></figure>

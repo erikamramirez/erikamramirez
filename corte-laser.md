@@ -3,7 +3,7 @@ description: >-
   En esta documentación abordaremos cómo operar la máquina, la configuración del
   archivo en el programa, la realización de los test de Kerf, y para concluir,
   fabricaremos una lámpara.
-cover: ../.gitbook/assets/WhatsApp Image 2023-10-12 at 14.35.52.jpeg
+cover: .gitbook/assets/WhatsApp Image 2023-10-12 at 14.35.52.jpeg
 coverY: 0
 ---
 
@@ -23,11 +23,11 @@ Link a la página oficial de la empresa.
 
 <div>
 
-<figure><img src="../.gitbook/assets/WhatsApp Image 2023-10-12 at 14.35.52.jpeg" alt=""><figcaption><p>Vista Frontal de la máquina.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/WhatsApp Image 2023-10-12 at 14.35.52.jpeg" alt=""><figcaption><p>Vista Frontal de la máquina.</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-12_000155560.png" alt=""><figcaption><p>Por medio de la computadora enviaremos los archivos a la máquina.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-12_000155560.png" alt=""><figcaption><p>Por medio de la computadora enviaremos los archivos a la máquina.</p></figcaption></figure>
 
 </div>
 
@@ -37,29 +37,29 @@ Link a la página oficial de la empresa.
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_172859058.png" alt=""><figcaption><p>Extractor de la cortadora láser.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_172859058.png" alt=""><figcaption><p>Extractor de la cortadora láser.</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_173017467.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_173017467.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_173134365.png" alt="" width="375"><figcaption><p>La cortadora que utilizaremos cuenta con uno en su interior, pero en este caso contamos con otro en el techo.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_173134365.png" alt="" width="375"><figcaption><p>La cortadora que utilizaremos cuenta con uno en su interior, pero en este caso contamos con otro en el techo.</p></figcaption></figure>
 
 * Prender la máquina
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_173453522.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_173453522.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -67,11 +67,11 @@ Link a la página oficial de la empresa.
 
 <div>
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_174100644.png" alt="" width="328"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_174100644.png" alt="" width="328"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_173610704.png" alt="" width="328"><figcaption><p>Al encontrarse la cortadora apagada las luces no encienden</p></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_173610704.png" alt="" width="328"><figcaption><p>Al encontrarse la cortadora apagada las luces no encienden</p></figcaption></figure>
 
 </div>
 
@@ -79,25 +79,25 @@ Link a la página oficial de la empresa.
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_173946096.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_173946096.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_173958733.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_173958733.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_174015539.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_174015539.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_174024501.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_174024501.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -105,11 +105,11 @@ Link a la página oficial de la empresa.
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (156).png" alt="" width="328"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (156).png" alt="" width="328"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_174758245.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_174758245.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -151,11 +151,11 @@ La calibración de la cabeza del láser es un proceso importante en el funcionam
 
 <div>
 
-<figure><img src="../.gitbook/assets/WhatsApp Image 2023-10-19 at 14.30.59 (1).jpeg" alt="" width="188"><figcaption><p>Programa propio de la cortadora láser.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/WhatsApp Image 2023-10-19 at 14.30.59 (1).jpeg" alt="" width="188"><figcaption><p>Programa propio de la cortadora láser.</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_174843706.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_174843706.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -171,19 +171,19 @@ Para simplemente abrimos el archivo pdf en I**nkscape** o **Illustrator**, en s�
 
 <div>
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_174247994.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_174247994.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_174303619.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_174303619.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_174324412.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_174324412.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-<figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption><p>Ubicar la unidad en mm.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (160).png" alt=""><figcaption><p>Ubicar la unidad en mm.</p></figcaption></figure>
 
 {% hint style="info" %}
 Debemos asegurarnos de que la unidad de medida sea en mm.
@@ -191,7 +191,7 @@ Debemos asegurarnos de que la unidad de medida sea en mm.
 
 * De ser posible se debe eliminar las líneas dobles superpuestas para evitar que se corte dos veces y se queme el material
 
-<figure><img src="../.gitbook/assets/image (69).png" alt="" width="188"><figcaption><p>Línea discontinua que indica que hay un solo trazo en esa región.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (69).png" alt="" width="188"><figcaption><p>Línea discontinua que indica que hay un solo trazo en esa región.</p></figcaption></figure>
 
 {% hint style="info" %}
 Un problema común es las líneas superpuestas, cuando se encuentran de esta manera notaremos que aparenta una línea continua al seleccionar, si procesamos con líneas superpuestas el láser cortará o grabará dos veces en esa región, así que puede perjudicarnos. Por esta razón debemos eliminar las líneas superpuestas. Al contar con una sola línea en la interface se ve como línea discontinua.
@@ -201,7 +201,7 @@ Un problema común es las líneas superpuestas, cuando se encuentran de esta man
 Podemos candadear la posición de nuestros objetos en la mesa de trabajo seleccionando el candado.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption><p>Ícono del candado en el menú superior.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (163).png" alt=""><figcaption><p>Ícono del candado en el menú superior.</p></figcaption></figure>
 
 * Establecer la jerarquía de orden de los vectores a grabar y cortar para evitar diversos problemas con mucha atención para no desperdiciar el material
 * Ubicar estas líneas en diversas capas con parámetros establecidos para su fin (corte o grabado)
@@ -212,11 +212,11 @@ Es de suma importancia realizar primero los grabados antes de los cortes.
 Para evitar cortar una pieza que también necesita grabado.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (92).png" alt="" width="375"><figcaption><p>Pestaña emergente para configurar la capa.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (92).png" alt="" width="375"><figcaption><p>Pestaña emergente para configurar la capa.</p></figcaption></figure>
 
 Creamos nuevas capas y seleccionamos un color para cada uno, de esta forma se cortará y grabará con diferentes parámetros que estableceremos.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Seleccionar en cada capa con los colores diferentes seleccionados para cambiar los parámetros de speed y potencia.   </p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Seleccionar en cada capa con los colores diferentes seleccionados para cambiar los parámetros de speed y potencia.   </p></figcaption></figure>
 
 <details>
 
@@ -238,9 +238,9 @@ Igual sin contar con dos láseres introduciremos el mismo parámetro de potencia
 
 </details>
 
-<figure><img src="../.gitbook/assets/image (71).png" alt="" width="188"><figcaption><p>Seleccionar el 70% y ubicar uno de los colores de la paleta del menú inferior.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (71).png" alt="" width="188"><figcaption><p>Seleccionar el 70% y ubicar uno de los colores de la paleta del menú inferior.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (93).png" alt="" width="188"><figcaption><p>Capas las distintas velocidades y la misma potencia de la primera hilera horizontal.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (93).png" alt="" width="188"><figcaption><p>Capas las distintas velocidades y la misma potencia de la primera hilera horizontal.</p></figcaption></figure>
 
 * El orden de las líneas a cortar se configuran en función al orden de las capas&#x20;
 
@@ -252,15 +252,15 @@ Desmarcaremos la capa negra para no cortar los elementos que no modificamos o no
 
 * Debemos ubicar nuestros vectores en la esquina superior izquierda, ahí se iniciará el corte en el eje que fijaremos.
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_174418888.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_174418888.png" alt=""><figcaption></figcaption></figure>
 
 <div>
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_174643355.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_174643355.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_174655891.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_174655891.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -268,27 +268,27 @@ Desmarcaremos la capa negra para no cortar los elementos que no modificamos o no
 
 <div>
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_174530790.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_174530790.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_174457610.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_174457610.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-11_174515804.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-11_174515804.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 * Fijamos el eje en nuestro espacio disponible en el material con **FIXED**
 
-<figure><img src="../.gitbook/assets/WhatsApp Image 2023-10-19 at 14.30.49 (1).jpeg" alt="" width="375"><figcaption><p>Botones de comando de la Cortadora Láser.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/WhatsApp Image 2023-10-19 at 14.30.49 (1).jpeg" alt="" width="375"><figcaption><p>Botones de comando de la Cortadora Láser.</p></figcaption></figure>
 
 <details>
 
 <summary><mark style="color:purple;"><strong>Funciones de los botones de comando</strong></mark></summary>
 
-![](<../.gitbook/assets/image (169).png>)
+![](<.gitbook/assets/image (169).png>)
 
 <mark style="color:purple;">**Flechas**</mark>
 
@@ -302,7 +302,7 @@ Acceder a los archivos cargados anteriormente.
 
 Señala la posición exacta del puntero láser, marcando el punto en que se encuentra.
 
-![](<../.gitbook/assets/image (19) (1) (1).png>)
+![](<.gitbook/assets/image (19) (1) (1).png>)
 
 <mark style="color:purple;">**Frame**</mark>
 
@@ -322,7 +322,7 @@ Parar la operación.
 
 * Podemos usar **LASER** para ver dónde se encuentra nuestra cabeza del láser, realiza un punto que nos puede servir para guiarnos.
 
-<figure><img src="../.gitbook/assets/image (157).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (157).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * También usamos con frecuencia **FRAME** para ver cuánto espacio delimita nuestro archivo en el material
 
@@ -330,6 +330,6 @@ Parar la operación.
 
 * Una vez seguros iniciamos el corte
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-12_001204055.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/imagen_2023-11-12_001204055.png" alt=""><figcaption></figcaption></figure>
 
 ***
