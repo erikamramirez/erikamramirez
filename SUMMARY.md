@@ -53,3 +53,6 @@
   * [Suculenta](test-de-impresiones/suculenta.md)
   * [Prueba de Puenteado](pruebas-de-impresion-3d-y-configuracion-en-flashprint/prueba-de-puenteado.md)
   * [Prueba de Soportes](test-de-impresiones/toori.md)
+  * [Piezas articulables](pruebas-de-impresion-3d-y-configuracion-en-flashprint/piezas-articulables.md)
+  * [Estante](pruebas-de-impresion-3d-y-configuracion-en-flashprint/estante.md)
+  * [Page](pruebas-de-impresion-3d-y-configuracion-en-flashprint/page.md)
