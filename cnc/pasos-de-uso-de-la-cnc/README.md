@@ -160,11 +160,11 @@ Para controlar el desplazamiento de la fresa, es necesario seleccionar el ícono
 
 Basándonos en la descripción anterior, ajustamos el control para orientar la punta de la broca de la fresadora en un punto intermedio entre los ejes X e Y, sobre el tornillo situado en la esquina inferior derecha, donde establecemos el punto de origen (cero).
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Una vez que nos encontramos en la posición indicada, procedemos a seleccionar en el panel de control amarillo el botón "Zero Axes" para fijar los ejes X e Y en esa ubicación.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -178,7 +178,7 @@ Para establecer el eje Z en la fresadora ShotBot debemos utilizar unas herramien
 
 Coloca la pinza en la broca de la fresadora y la placa debajo de ésta como se observa en la imagen, asegurándote de que estén firmemente sujetas y alineadas.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Utiliza la funcionalidad de ajuste del cero en el software para establecer el punto cero del eje Z en la posición actual de la herramienta de calibración. Este paso indicará a la fresadora la referencia de altura para la pieza de trabajo.
 

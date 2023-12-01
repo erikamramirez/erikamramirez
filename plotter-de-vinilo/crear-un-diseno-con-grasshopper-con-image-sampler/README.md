@@ -70,7 +70,7 @@ Y la segunda es hacer doble click izquierdo para abrir un buscador directamente.
 
 Necesitaremos cargar una imagen al nodo.
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Nodo sin archivo de Imagen.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Nodo sin archivo de Imagen.</p></figcaption></figure>
 
 Al hacer doble click en Image Sampler se observa esta pestaña emergente.
 
@@ -102,7 +102,7 @@ Ingresaremos un nodo de Square, se trata de ingresar un cuadro 2D con celdas.
 
 También un Number Slider para ingresar un valor numérico conectándolo a otro nodo.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Vista de un Number Slider con un valor 0.250, el cual es el valor por default.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Vista de un Number Slider con un valor 0.250, el cual es el valor por default.</p></figcaption></figure>
 
 {% hint style="info" %}
 Podemos hacer doble click para abrir el buscador y simplemente escribir el valor numérico a utilizar para crear un Number Slider con el valor que queremos más rápido.
@@ -158,7 +158,7 @@ Reemplacé la imagen y los valores en X e Y.
 
 Los puntos de la grilla 2D a un nodo de círculo y a nodo de Image Sampler.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Nodos de círculo y la Image Sampler.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Nodos de círculo y la Image Sampler.</p></figcaption></figure>
 
 Al conectar los puntos de la grilla al nodo de círculo y el Image Sampler se ve de la siguiente manera en el viewport.
 
@@ -214,7 +214,7 @@ Ahora volvemos a utilizar el nodo de círculo a ReMap, debemos conectar la salid
 
 <figure><img src="../../.gitbook/assets/imagen_2023-11-04_194025693.png" alt=""><figcaption><p>Salida ¨R¨ Remapped number.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Salida ¨R¨ de radius (radio) del nodo círculo.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Salida ¨R¨ de radius (radio) del nodo círculo.</p></figcaption></figure>
 
 Vista en el viewport de los círculos en la grilla después del ReMap.
 
@@ -226,7 +226,7 @@ Vista en el viewport de los círculos en la grilla después del ReMap.
 Me di cuenta de un error en el uso de los nodos más tarde, por lo que tuve que cambiar el nodo 'round' por el nodo 'bound'.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Reemplazar Round por Bound.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Reemplazar Round por Bound.</p></figcaption></figure>
 
 El nodo Bound crea un dominio numérico que abarque una lista de números.
 
@@ -290,7 +290,7 @@ Vista de lo realizado hasta este nodo desde el viewport.
 
 <figure><img src="../../.gitbook/assets/imagen_2023-11-04_200508891.png" alt=""><figcaption><p>Segunda vista del zoom del viewport.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Vista del zoom cercano y lejano.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Vista del zoom cercano y lejano.</p></figcaption></figure>
 
 La función principal de este tutorial es generar una extrusión a partir de la imagen creada a partir de los círculos, para generar una imagen tridimensional.
 
@@ -308,11 +308,11 @@ El resultado de círculo se conecta con la entrada Base del nodo Extrude.
 
 La salida Unit Vector de Unit Z se conecta a la entrada Direction del nodo Extrude.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Conexiones de los nodos Unit Z y Circle al nodo Extrude.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Conexiones de los nodos Unit Z y Circle al nodo Extrude.</p></figcaption></figure>
 
 Resultado de la extrusión.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Vista de cerca de la imagen con dimensiones en 3D del dibujo.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Vista de cerca de la imagen con dimensiones en 3D del dibujo.</p></figcaption></figure>
 
 Para aumentar el tamaño de los cilindros seguimos los siguientes pasos.
 
@@ -356,7 +356,7 @@ Debido al error de cálculos en el nodo la creación de mallas no se pudo realiz
 Posible solución convertir el Circle Curve a Polilíneas.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Error de creación de malla.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Error de creación de malla.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/imagen_2023-11-04_201618328.png" alt=""><figcaption><p>Vista del relieve.</p></figcaption></figure>
 
@@ -364,4 +364,4 @@ Posible solución convertir el Circle Curve a Polilíneas.
 
 <figure><img src="../../.gitbook/assets/imagen_2023-11-04_201935530.png" alt=""><figcaption><p>Vista del relieve.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Vista dek Relieve.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Vista dek Relieve.</p></figcaption></figure>

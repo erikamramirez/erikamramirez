@@ -22,13 +22,13 @@ Archivo de Grasshopper.
 
 Debemos abrir el archivo y nos aparecerá un archivo de Grasshopper, al abrirlo nos aparecerán los nodos y la vista previa en el viewport de Rhino.
 
-<figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption><p>Vista del archivo en el viewport.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption><p>Vista del archivo en el viewport.</p></figcaption></figure>
 
 En el screenshot de abajo se puede ver la configuración de los nodos.
 
 Posee parámetros de cambiar la forma de la curva, grosor de las unidades del material, cantidad de piezas a la izquierda y a la derecha.
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Vista de los nodos de Grasshopper.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption><p>Vista de los nodos de Grasshopper.</p></figcaption></figure>
 
 Decidí acortar la cantidad de piezas para ahorrar material en la construcción de la pieza, y también con el fin de personalizarlo.
 

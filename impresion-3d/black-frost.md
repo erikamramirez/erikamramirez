@@ -95,7 +95,7 @@ Podemos editar los vértices, borde y caras de nuestros modelos 3D al pasar a Ed
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (19).png" alt="" width="375"><figcaption><p>Seleccionar "+"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt="" width="375"><figcaption><p>Seleccionar "+"</p></figcaption></figure>
 
  
 
@@ -117,7 +117,7 @@ Esta pose y la armadura ha sido realizado por el creador del archivo.
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption><p>Modificador de armadura en el menú lateral.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption><p>Modificador de armadura en el menú lateral.</p></figcaption></figure>
 
  
 
@@ -129,7 +129,7 @@ Como este archivo estaba planteado para un estilo Cartoon, el creador optó por 
 
 <div align="right">
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>Vista del modificador solidify seleccionando la "x"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption><p>Vista del modificador solidify seleccionando la "x"</p></figcaption></figure>
 
  
 
@@ -139,7 +139,7 @@ Como este archivo estaba planteado para un estilo Cartoon, el creador optó por 
 
 Una vez eliminado podemos ver una esfera completa en el rosto, también eliminaré la base seleccionando "x".
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Seleccionar la base en Object Mode, apretar "x" en el teclado y luego confirmar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption><p>Seleccionar la base en Object Mode, apretar "x" en el teclado y luego confirmar.</p></figcaption></figure>
 
 Hasta este punto ya consideraba aceptable exportar en formato .stl para imprimirlo y tal vez dibujar el rosto a mano, así que procedí a exportar el objeto.&#x20;
 
@@ -149,7 +149,7 @@ Para exportar el archivo debemos dirigirnos al menú superior y seleccionar File
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Menú de File desplegado, dirigirse a Export.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Menú de File desplegado, dirigirse a Export.</p></figcaption></figure>
 
  
 
@@ -157,7 +157,7 @@ Para exportar el archivo debemos dirigirnos al menú superior y seleccionar File
 
 </div>
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Menú emergente para guardar en el equipo.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption><p>Menú emergente para guardar en el equipo.</p></figcaption></figure>
 
 **El siguiente archivo .stl se trata del Jack Frost hasta los cambios actuales.**
 
@@ -371,7 +371,7 @@ Eliminamos los detalles muy pequeños del modelo y agrandamos a Black Frost con 
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
  
 

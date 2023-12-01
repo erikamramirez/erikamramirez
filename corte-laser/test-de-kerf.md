@@ -28,7 +28,7 @@ Para este ejemplo, nuestro corte de prueba es un cuadrado de una pulgada. Si cor
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -46,7 +46,7 @@ kerf = 1 pulgada - 0.995 pulgadas = 0.005 pulgadas
 
 0.005 pulgadas es el kerf del cortador láser al cortar este material.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Si las uniones quedan demasiado sueltas o demasiado ajustadas, ajusta el kerf y vuelve a cortar.
 
@@ -78,11 +78,11 @@ Abrir el programa **PowerCut**, e importar el archivo de **Test de Kerf**
 
 {% embed url="https://photos.app.goo.gl/g5D2h45S4osaKgaZA" %}
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 

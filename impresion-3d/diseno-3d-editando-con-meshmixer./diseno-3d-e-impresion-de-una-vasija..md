@@ -14,13 +14,13 @@ Una vez que descargamos el archivo procedemos a abrir Rhino, luego Grasshopper p
 
 &#x20;A continuación modificar los parámetros.
 
-<figure><img src="../../.gitbook/assets/image (14) (1) (1) (1).png" alt=""><figcaption><p>Vista de los nodos en Grasshopper.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1) (1) (1) (1).png" alt=""><figcaption><p>Vista de los nodos en Grasshopper.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1).png" alt=""><figcaption><p>Vista del modelo de los scripts realizados en Grasshopper vistos del viewport.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1) (1).png" alt=""><figcaption><p>Vista del modelo de los scripts realizados en Grasshopper vistos del viewport.</p></figcaption></figure>
 
 El autor del trabajo especifica los pasos a seguir.
 
-<figure><img src="../../.gitbook/assets/image (17) (1) (1) (1).png" alt=""><figcaption><p>Pasos a seguir señalizados.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1) (1) (1) (1).png" alt=""><figcaption><p>Pasos a seguir señalizados.</p></figcaption></figure>
 
 En la zona inferior encontramos los nodos de parámetros modificables.
 
@@ -37,11 +37,11 @@ Los parámetros son:
 * Subdivisiones de paneles.
 * Grosor.
 
-<figure><img src="../../.gitbook/assets/image (16) (1) (1) (1).png" alt=""><figcaption><p>Vista de los parámetros modificables.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1) (1) (1).png" alt=""><figcaption><p>Vista de los parámetros modificables.</p></figcaption></figure>
 
 Procedemos a configurar los parámetros predeterminados por el autor a nuestro parecer.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (19) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para crear el modelo debemos realizar bake en el nodo final de nuestro script.
 
@@ -127,11 +127,11 @@ En esta impresora debemos exportar los archivos y configuraciones por medio de u
 
 <figure><img src="../../.gitbook/assets/47e8ebd4-dfdf-4ef2-87bc-a5a20dabdd4a.jpg" alt=""><figcaption><p>Vista de la tarjeta MicroSD ingresada en la máquina.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Vista de la máquina 3D que utilizaremos.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Vista de la máquina 3D que utilizaremos.</p></figcaption></figure>
 
 En la imagen superior observamos la plataforma, para empezar debemos subir esta plataforma más próximo a la extrusora.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption><p>En esta imagen podemos ver la plataforma acercada a la extrusora.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>En esta imagen podemos ver la plataforma acercada a la extrusora.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/WhatsApp Image 2023-10-29 at 12.00.26 (2).jpeg" alt=""><figcaption><p>Seleccionar Tools.</p></figcaption></figure>
 

@@ -20,7 +20,7 @@ Enlace a la página para descargar el software.
 
 Seleccionar la version y el Sistema Operativo a instalar el programa.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 El archivo del instalador se descargará automáticamente una vez seleccionado.
 

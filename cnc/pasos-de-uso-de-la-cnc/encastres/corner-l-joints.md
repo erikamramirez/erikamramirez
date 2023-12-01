@@ -1,6 +1,6 @@
 # CORNER (“L”) JOINTS
 
-<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31) (2).png" alt=""><figcaption></figcaption></figure>
 
 Esta disposición de lengüetas y ranuras entrelazadas en un ángulo de noventa grados es, por supuesto, antigua y rudimentaria. La mayoría de las personas la llaman "unión de caja". También puede ser mejorada al romper la simetría.
 

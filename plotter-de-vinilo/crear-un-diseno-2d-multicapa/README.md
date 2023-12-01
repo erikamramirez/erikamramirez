@@ -16,7 +16,7 @@ Podemos utilizar Inkscape tanto con .JPG como con .PNG.
 
 Para evitar equivocarnos con el tamaño del sticker que realizaremos, cambiaré el tamaño de la mesa de trabajo en la que trabajaremos. Para esto dirigimos el mouse hacia el menú superior sobre Archivo, y seleccionaremos propiedades del documento o podemos utilizar el comando Mayús+Ctrl+D.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Menú de Archivo.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Menú de Archivo.</p></figcaption></figure>
 
 Estimaré las dimensiones de la mesa de trabajo a 100 x 100mm.
 

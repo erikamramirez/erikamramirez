@@ -23,7 +23,7 @@ A continuación, se presentan algunos puntos clave para comprender mejor la CNC:
 
 * <mark style="color:purple;">**Precisión y Repetibilidad:**</mark> Las máquinas CNC son conocidas por su alta precisión. Pueden seguir instrucciones con gran detalle, lo que resulta en piezas y componentes con tolerancias muy estrechas. Además, la repetibilidad garantiza que la misma operación se pueda realizar una y otra vez con la misma precisión.
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:purple;">**Amplia Aplicación:**</mark> Las máquinas CNC se utilizan en una variedad de industrias, desde la fabricación de piezas metálicas y plásticas hasta la carpintería y la fabricación de componentes electrónicos. Se utilizan para cortar, fresar, tornear, soldar, grabar y realizar muchas otras operaciones.
 

@@ -47,7 +47,7 @@ Tutorial de reparación de mallas con Meshmixer.
 
 Permite combinar múltiples modelos 3D en uno solo, lo que es útil para la creación de diseños complejos o la personalización de objetos.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=WEpUUNYYFz0" %}
 Tutorial de mezcla de modelos en Meshmixer.
