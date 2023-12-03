@@ -10,7 +10,7 @@ Para poner Blender en modo CAM, sigue estos pasos. El complemento BlenderCAM ya 
 
 En primer lugar, cambia el motor de renderización a CAM para utilizar la herramienta de CAM de Blender.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Selecciona Blender CAM como motor de renderizado
 

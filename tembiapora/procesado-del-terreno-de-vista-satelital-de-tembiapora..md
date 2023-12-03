@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # Procesado del terreno de vista satelital de Tembiaporã.
 
 Para llevar a cabo el fresado en nuestro proyecto, utilizaremos la herramienta Terrain2stl. Esta página desempeñará un papel fundamental al convertir datos de terreno desde imágenes de vista satelital en archivos STL, permitiéndonos así crear representaciones tridimensionales precisas del relieve.
@@ -12,8 +8,8 @@ Página de Terrain2STL,
 
 Esta herramienta ya fue utilizada en proyectos anteriores, en la siguiente documentación de este Gitbook se describe su uso y los resultados.
 
-{% content-ref url="../cnc/pasos-de-uso-de-la-cnc/obtencion-de-modelo-3d-topografico/" %}
-[obtencion-de-modelo-3d-topografico](../cnc/pasos-de-uso-de-la-cnc/obtencion-de-modelo-3d-topografico/)
+{% content-ref url="../cnc/obtencion-de-modelo-3d-topografico/" %}
+[obtencion-de-modelo-3d-topografico](../cnc/obtencion-de-modelo-3d-topografico/)
 {% endcontent-ref %}
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-29 182524.png" alt=""><figcaption><p>Vista del terreno en la interface de Terrain2STL.</p></figcaption></figure>
@@ -180,19 +176,25 @@ Para mejorar la definición de los modelos generados por **Map2STL**, se ha apli
 
 Sin embargo, tras la aplicación de este modificador, nos enfrentamos a un inconveniente: el archivo resultante se ha vuelto considerablemente pesado. Este desafío plantea la necesidad de explorar estrategias adicionales para optimizar el tamaño del archivo sin comprometer la calidad visual.
 
-## <mark style="color:purple;">Proceso en Meshmixer</mark>
+### <mark style="color:purple;">Proceso en Meshmixer</mark>
 
-"Ante el desafío del archivo pesado resultante de la aplicación del modificador Subdivision Surface, consideramos la posibilidad de mejorar tanto el peso como la definición utilizando Meshmixer.
+Ante el desafío del archivo pesado resultante de la aplicación del modificador Subdivision Surface, consideramos la posibilidad de mejorar tanto el peso como la definición utilizando Meshmixer.
 
 Exploraremos cómo las herramientas disponibles en Meshmixer pueden ayudarnos a optimizar el modelo, reduciendo su tamaño sin sacrificar la calidad visual.
 
 <figure><img src="../.gitbook/assets/imagen_2023-11-30_130433255.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-30_130510181.png" alt=""><figcaption></figcaption></figure>
+Una vez más aplicamos la herramienta "Make Solid" para optimizar el modelo. Recomendamos configurar los parámetros de 'Solid Type' en 'Accurate' y 'Solid Accuracy' al máximo para garantizar una preparación adecuada del modelo. Una vez satisfechos con los resultados, eliminamos el archivo original y conservamos solo la versión modificada.
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-30_130916787.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-30_130510181.png" alt=""><figcaption><p>Seleccionar Make Solid ubicado en la ventana de Edit en el menú lateral.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/imagen_2023-11-30_130916787.png" alt=""><figcaption><p>Parámetros establecidos para obtener nuestra pieza.</p></figcaption></figure>
+
+Una vez que obtenemos un modelo que satisfaga nuestras expectativas seleccionar Accept.&#x20;
 
 <figure><img src="../.gitbook/assets/imagen_2023-12-01_110120336.png" alt=""><figcaption></figcaption></figure>
+
+Al generar el Make Solid obtenemos dos objetos, por ello a continuación eliminamos el archivo original y conservamos solo la versión modificada.
 
 <div>
 
@@ -214,10 +216,110 @@ Archivo de Meshmixer descargable.
 Archivo descargable en formato .stl.
 {% endfile %}
 
-### VCarve Pro
+***
 
-### Proceso en la fresadora CNC Roland
+### <mark style="color:purple;">VCarve Pro</mark>
 
-### Resultado
+**VCarve Pro y Fresado CNC:**
 
-## Comparaciones entre los modelos obtenidos
+**Preparación del Modelo:**
+
+* Asegúrate de tener el modelo optimizado en formato STL listo para el fresado CNC.
+
+**Importación del Modelo:**
+
+* Abre VCarve Pro y selecciona la opción para importar tu modelo STL. Asegúrate de que las unidades y dimensiones coincidan con las del modelo original.
+
+**Configuración del Proyecto:**
+
+* Define el material que utilizarás para el fresado y establece las dimensiones de tu pieza. Es crucial para obtener un fresado preciso.
+
+**Herramientas de Fresado:**
+
+* Selecciona las herramientas de corte adecuadas en VCarve Pro. Ajusta parámetros como velocidad de corte, profundidad de paso y otros según el material y el tipo de fresa que estés utilizando.
+
+**Estrategia de Fresado:**
+
+* Planifica la estrategia de fresado. Decide entre el fresado en pasadas escalonadas, fresado en espiral u otras estrategias dependiendo de la complejidad de tu modelo y la herramienta seleccionada.
+
+**Trayectorias de Herramientas:**
+
+* Genera las trayectorias de herramientas. VCarve Pro te permitirá previsualizar cómo se llevará a cabo el fresado. Ajusta según sea necesario para optimizar la eficiencia y la calidad.
+
+**Configuración de Profundidad:**
+
+* Asegúrate de configurar correctamente las profundidades de corte para cada operación. Esto es crucial para obtener el relieve y detalles deseados en tu modelo.
+
+**Simulación:**
+
+* Utiliza la función de simulación en VCarve Pro para revisar cómo se ejecutará el fresado. Esto te ayudará a identificar posibles problemas antes de enviar el trabajo a la fresadora CNC.
+
+**Postprocesamiento:**
+
+* Después de revisar y simular, genera el código G (Código de Control Numérico) necesario para la fresadora CNC. Asegúrate de seleccionar el postprocesador correcto para tu máquina.
+
+
+
+<details>
+
+<summary><mark style="color:purple;">Código G o GCode</mark></summary>
+
+Un código G, abreviatura de "código geométrico" o "código de control numérico", es un conjunto de comandos alfanuméricos utilizados en programación CNC (Control Numérico por Computadora).&#x20;
+
+Estos códigos indican a la máquina herramienta, como un fresadora o un torno CNC, las instrucciones específicas para llevar a cabo una tarea determinada, como movimientos, velocidades, y operaciones de herramientas.&#x20;
+
+Los códigos G son esenciales para traducir el diseño digital en movimientos físicos y acciones de la máquina durante el proceso de fabricación.&#x20;
+
+Cada código G tiene una función específica, como desplazamientos, cambios de herramientas, o control de velocidad, contribuyendo a la precisión y automatización en la producción.
+
+</details>
+
+## <mark style="color:purple;">Proceso en la fresadora CNC Roland</mark>
+
+En el desarrollo de la tarea en la fresadora CNC Roland, se siguieron cuidadosamente los siguientes pasos:
+
+<mark style="color:purple;">**1. Encendido y Posicionamiento Inicial:**</mark>
+
+* Inicialmente, se encendió la fresadora y se realizó el posicionamiento inicial.&#x20;
+* El material de trabajo, previamente cortado y adherido con cinta doble faz, fue centrado en la plataforma.
+* &#x20;Dos piezas superpuestas se utilizaron para obtener un bloque de trabajo de 500 mm de altura, como se había configurado en VCarve Pro.
+* Se debe marcar el centro del material con diagonales tal cómo habíamos establecido en VCarve Pro el eje del centro como punto inicial.
+
+<mark style="color:purple;">**2. Centrado de Ejes X e Y:**</mark>
+
+* Se establecieron el punto 0 de los ejes X e Y utilizando el mando de la fresadora para garantizar una alineación precisa del material con respecto a las coordenadas del programa.
+
+<mark style="color:purple;">**3. Centrado del Eje Z:**</mark>
+
+* Para el eje Z, se utilizó el imán de la máquina para asegurar una referencia precisa. Este paso es crucial para la profundidad correcta de fresado y la calidad del resultado final.
+
+<mark style="color:purple;">**4. Importación Secuencial de Códigos G:**</mark>
+
+* Se importaron por turno los códigos G generados en VCarve Pro. Primero, se procesó el código de fresado para esculpir las montañas, seguido por el código de perfil para eliminar excedentes en los laterales y obtener la forma final deseada.
+
+<mark style="color:purple;">**5. Proceso de Fresado de Montañas:**</mark>
+
+* Se ejecutó el código G correspondiente al fresado de las montañas. La fresadora siguió las instrucciones para esculpir las elevaciones y detalles precisos del terreno.
+
+<mark style="color:purple;">**6. Cambio y Proceso de Fresado de Perfil:**</mark>
+
+* Después de completar el fresado de las montañas, se cambió a la herramienta necesaria y se procesó el código de perfil. Esto eliminó los excedentes laterales, proporcionando la forma final de la pieza.
+
+<mark style="color:purple;">**7. Evaluación Continua:**</mark>
+
+* Durante todo el proceso, se llevó a cabo una evaluación continua para asegurar que la fresadora estuviera siguiendo las trayectorias correctas y que el material se estuviera trabajando según lo planificado.
+
+
+
+<mark style="color:purple;">**8. Finalización y Extracción:**</mark>
+
+* Una vez que ambos códigos G se completaron con éxito, se detuvo la fresadora. La pieza final fresada fue cuidadosamente retirada de la mesa.
+
+
+
+### <mark style="color:purple;">Resultado del terreno de Tembiaporã fresado</mark>
+
+<table><thead><tr><th width="196.33333333333331">Aspecto</th><th>Terrain2STL (Impresión 3D)</th><th>Maps2STL (Fresado CNC)</th></tr></thead><tbody><tr><td><strong>Resolución y Detalle</strong></td><td>Alta resolución y detalle.</td><td>Resolución más baja (LowPoly)</td></tr><tr><td><strong>Tamaño del Modelo</strong></td><td>Puede ser muy pequeño. En casos grandes, pérdida innecesaria de filamento y tiempo.</td><td>Tarda, pero el resultado cumple expectativas.</td></tr><tr><td><strong>Experiencia de Usuario</strong></td><td>Para comprobar las configuraciones se debe descargar el archivo innecesariamente.</td><td>Permite la previsualización del archivo online. Interfaz agradable y fácil de usar. </td></tr><tr><td><strong>Mejoras Necesarias</strong></td><td>Utilizar Meshmixer para optimizar el modelo para la impresión.</td><td>Se debe suavizar el mesh del objeto sin falta o de lo contrario el resultado no será satisfactorio.</td></tr><tr><td><strong>Conclusión</strong></td><td>Ideal para modelos pequeños.</td><td>Eficiente para proyectos a mayor escala.</td></tr><tr><td><strong>Observaciones</strong></td><td>Modelos grandes pueden ser una pérdida innecesaria de recursos.</td><td>Requiere mejoras previas, pero ofrece flexibilidad y eficiencia.</td></tr></tbody></table>
+
+## <mark style="color:purple;">Comparaciones entre los modelos obtenidos</mark>
+

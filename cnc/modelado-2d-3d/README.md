@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/imagen_2023-11-13_130547791.png
+cover: ../../.gitbook/assets/imagen_2023-11-13_130547791.png
 coverY: 92
 ---
 
@@ -19,19 +19,19 @@ Los planos vectoriales que utilizamos para el diseño de objetos como la lámpar
 
 <div>
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-13_132114124.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_132114124.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-13_132657417.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_132657417.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-13_132733529.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_132733529.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-13_132913978.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_132913978.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -49,14 +49,14 @@ Los modelados como la extrusión de los cilindros que conforman el retrato de Ma
 
 <div>
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-13_131654333 (1).png" alt=""><figcaption><p>Vista 3D del modelo del Cerro León.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_131654333 (1).png" alt=""><figcaption><p>Vista 3D del modelo del Cerro León.</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-13_132548622.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_132548622.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-13_131824095.png" alt=""><figcaption><p>Visualización 3D de nuestro Test de Grabado.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_131824095.png" alt=""><figcaption><p>Visualización 3D de nuestro Test de Grabado.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-13_131802418.png" alt=""><figcaption><p>Modelado 3D de Black Frost y Jack Frost.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen_2023-11-13_131802418.png" alt=""><figcaption><p>Modelado 3D de Black Frost y Jack Frost.</p></figcaption></figure>

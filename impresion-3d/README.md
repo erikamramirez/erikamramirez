@@ -12,4 +12,6 @@ Ya seas un principiante curioso o un experimentado profesional en impresión 3D,
 
 ## <mark style="color:purple;">Post Procesado</mark>
 
+Una vez impreso el modelo 3D debemos sacarle los soportes y éste los tuviese, lijar o aplicar una capa de primer para pintarlo. En el siguiente video se encuentra información valiosa sobre este asunto.
+
 {% embed url="https://www.youtube.com/watch?v=5GK_RxdkMLQ" %}
