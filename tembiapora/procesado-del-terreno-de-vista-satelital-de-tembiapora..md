@@ -154,7 +154,9 @@ El el proceso se ha identificado que no se debe utilizar acentos en el archivo p
 
 &#x20;
 
+<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -166,7 +168,7 @@ Aunque Map2STL destaca por su funcionalidad de previsualización del modelo, bri
 
 Por otro lado, Terrain2STL sobresale al proporcionar una definición superior en los resultados, capturando con mayor detalle las complejidades del relieve. Esta calidad mejorada puede ser crucial en proyectos que requieren una representación más precisa del terreno.
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-30 094138.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-30 094138.png" alt=""><figcaption><p>Vista de la página de Maps2STL.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-30 100137.png" alt=""><figcaption><p>Vista del resultado de Map2STL.</p></figcaption></figure>
 
@@ -218,47 +220,151 @@ Archivo descargable en formato .stl.
 
 ***
 
-### <mark style="color:purple;">VCarve Pro</mark>
+## <mark style="color:purple;">**VCarve Pro y Fresado CNC:**</mark>
 
-**VCarve Pro y Fresado CNC:**
-
-**Preparación del Modelo:**
+<mark style="color:purple;">**Preparación del Modelo:**</mark>
 
 * Asegúrate de tener el modelo optimizado en formato STL listo para el fresado CNC.
 
-**Importación del Modelo:**
+{% file src="../.gitbook/assets/Tembiapora post meshmixer.stl" %}
+Archivo descargable en formato .stl.
+{% endfile %}
+
+<mark style="color:purple;">**Importación del Modelo:**</mark>
 
 * Abre VCarve Pro y selecciona la opción para importar tu modelo STL. Asegúrate de que las unidades y dimensiones coincidan con las del modelo original.
 
-**Configuración del Proyecto:**
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-29 124309.png" alt=""><figcaption><p>Crear un nuevo documento al abrir el programa.</p></figcaption></figure>
 
-* Define el material que utilizarás para el fresado y establece las dimensiones de tu pieza. Es crucial para obtener un fresado preciso.
+Determinar las dimensiones del área de trabajo en coincidencia a las dimensiones de nuestro material a trabajar.
 
-**Herramientas de Fresado:**
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-30 151004.png" alt=""><figcaption></figcaption></figure>
 
-* Selecciona las herramientas de corte adecuadas en VCarve Pro. Ajusta parámetros como velocidad de corte, profundidad de paso y otros según el material y el tipo de fresa que estés utilizando.
+Al llegar a esta fase me olvidé de anotar mis dimensiones a configurar, así que establecí un aproximado que más tarde se puede volver a configurar.
 
-**Estrategia de Fresado:**
+<div>
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-30 151106.png" alt=""><figcaption><p>Dimensiones establecidas para el área de trabajo.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2023-11-30 151756.png" alt=""><figcaption><p>Dimensiones de mi archivo .stl</p></figcaption></figure>
+
+</div>
+
+Aceptar las configuraciones.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-29 124851.png" alt=""><figcaption><p>Seleccionar OK para continuar.</p></figcaption></figure>
+
+Es habitual que utilicemos la ventana de <mark style="color:purple;">**Drawing**</mark> pero para este fresado en el que tallaremos con la CNC nos ubicaremos en la ventana de <mark style="color:purple;">**Modeling**</mark>.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-30 151144.png" alt=""><figcaption><p>Ventana de Modeling sin haber cargado un archivo.</p></figcaption></figure>
+
+Seleccionamos el ícono de la carpeta para abrir el archivo, en la ventana emergente seleccionamos el stl a fresar.
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-03_195344447.png" alt=""><figcaption><p>Se resalta el ícono de la carpeta.</p></figcaption></figure>
+
+Nos dirigimos a la configuración de la edición de la dimensión del modelo. Se ha establecido que la altura a fresar será de 45mm. La razón para modificar este parámetro es que queremos intensificar las curvas del modelo para que el fresado no quede muy plato.
+
+Nuestro material de polifoam es de 250mm de altura, se pegarán dos pedazos de las mismas dimensiones para alcanzar una altura de 500mm en total y que resalte más el modelo.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-30 152340.png" alt=""><figcaption><p>Determinación de la altura a fresar.</p></figcaption></figure>
+
+En la vista de previsualización podemos ver cómo está quedando el modelo y una vez satisfechos con el modelo seleccionamos <mark style="color:purple;">**Position and Import**</mark> para continuar.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-30 152356.png" alt=""><figcaption><p>Previsualización del modelo.</p></figcaption></figure>
+
+Por último se establece la distancia que será fresada, y lo que queda fuera a operar.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-30 152506.png" alt=""><figcaption></figcaption></figure>
+
+Como no entendía bien las funciones de esta configuración he aquí la descripción de las funciones de <mark style="color:purple;">“</mark><mark style="color:purple;">**Importar modelo 3D > Posición**</mark><mark style="color:purple;">”</mark>.&#x20;
+
+<table><thead><tr><th width="193.5">Función</th><th>Descripción</th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Posición relativa al plano de modelado</strong></mark></td><td>Esta sección te permite ajustar la posición del modelo 3D en relación con el centro de rotación. Por defecto, VCarve Pro posiciona el modelo en el centro del bloque de material, para aprovechar mejor el material. Cuando se selecciona la opción Desactivado, el movimiento del modelo 3D se hace de la manera habitual.</td></tr><tr><td><mark style="color:purple;"><strong>Profundidad bajo la parte superior</strong></mark></td><td>Esta sección te permite ajustar la profundidad del modelo 3D por debajo de la parte superior del bloque de material. Puedes introducir un valor numérico o usar los botones de flecha para cambiar la profundidad. También puedes usar el control deslizante para ver cómo cambia la profundidad en la vista 3D.</td></tr><tr><td><mark style="color:purple;"><strong>Descartar datos por debajo del plano cero</strong></mark></td><td>Esta sección te permite eliminar los datos del modelo 3D que están por debajo del plano cero, es decir, la parte inferior del bloque de material. Puedes activar o desactivar esta opción con la casilla de verificación. Esta opción puede ser útil para reducir el tamaño del archivo y el tiempo de mecanizado.</td></tr><tr><td><mark style="color:purple;"><strong>Resaltar rebajes</strong></mark></td><td>Esta sección te permite resaltar las partes del modelo 3D que tienen rebajes, es decir, partes que no se pueden mecanizar con una herramienta cilíndrica. Puedes activar o desactivar esta opción con la casilla de verificación. Esta opción puede ser útil para identificar las zonas problemáticas del modelo 3D.</td></tr><tr><td><mark style="color:purple;"><strong>Actualizar rebajes</strong></mark></td><td>Esta sección te permite actualizar los rebajes del modelo 3D después de cambiar la posición o la profundidad del modelo. Puedes hacer clic en el botón de Actualizar rebajes para ver los cambios en la vista 3D.</td></tr><tr><td><mark style="color:purple;"><strong>Aplicar</strong></mark></td><td>Este botón te permite confirmar los cambios que has hecho en el modelo 3D y cerrar el cuadro de diálogo.</td></tr><tr><td><mark style="color:purple;"><strong>Cancelar</strong></mark></td><td>Este botón te permite descartar los cambios que has hecho en el modelo 3D y cerrar el cuadro de diálogo.</td></tr><tr><td><mark style="color:purple;"><strong>Posición e importar ></strong></mark></td><td>Este botón te permite avanzar al siguiente paso del proceso de importación y mecanizado del modelo 3D.</td></tr></tbody></table>
+
+Como había sido establecido una dimensión aproximada del material, ahora procedemos a cambiar las dimensiones, primero dirigirse a la ventana de <mark style="color:purple;">Drawing</mark>, luego seleccionar <mark style="color:purple;">**Job Setup**</mark> y encontraremos un menú idéntico al que utilizamos al iniciar cada nuevo proyecto.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-30 152603.png" alt=""><figcaption><p>Cambio de dimensión del material en Job Setup.</p></figcaption></figure>
+
+Ahora debemos seleccionar en el menú de <mark style="color:purple;">**Modeling ¨Crear contorno vectorial alrededor de los componentes seleccionados¨**</mark>
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-04_000458500.png" alt=""><figcaption><p>El ícono a utilizar se encuentra en Modeling, en la misma ubicación en donde importamos nuestro archivo .stl.</p></figcaption></figure>
+
+Esta función crea un límite vectorial alrededor de los componentes que hayas seleccionado en tu espacio de trabajo.&#x20;
+
+Esto puede ser útil para definir un área específica para aplicar cambios o realizar operaciones en esos componentes seleccionados.&#x20;
+
+Por ejemplo, puedes querer aplicar un efecto o transformación específica solo a ciertos componentes de tu modelo 3D, y esta función te permitiría seleccionar exactamente qué partes del modelo se verán afectadas.&#x20;
+
+Es una herramienta útil para tener un control más preciso sobre tus ediciones y transformaciones en el software de modelado 3D.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-30 152659.png" alt=""><figcaption><p><strong>Crear contorno vectorial alrededor de los componentes seleccionados.</strong></p></figcaption></figure>
+
+<mark style="color:purple;">**Configuración en Toolpath:**</mark>
+
+Selecciona <mark style="color:purple;">**Toolpath**</mark> para configurar las herramientas de corte adecuadas en VCarve Pro. Ajusta parámetros como velocidad de corte, profundidad de paso y otros según el material y el tipo de fresa que estés utilizando.
+
+No debemos olvidar seleccionar en el área de trabajo el objeto para editar en <mark style="color:purple;">**Toolpath.**</mark>
+
+Para el mecanizado seleccionaremos el ícono de <mark style="color:purple;">**3D Roughing Toolpath**</mark><mark style="color:purple;">.</mark>
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-30 152919.png" alt=""><figcaption><p>Seleccionar 3D Roughing Toolpath en la selección de Operaciones.</p></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-30 153203.png" alt=""><figcaption></figcaption></figure>
+
+
+
+<table><thead><tr><th width="183.5">Función</th><th>Descripción</th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Selección de herramienta</strong></mark><img src="../.gitbook/assets/image (191).png" alt=""></td><td>Esta función te permite seleccionar la herramienta/broca que se utilizará para el mecanizado.</td></tr><tr><td><mark style="color:purple;"><strong>Límite</strong></mark><img src="../.gitbook/assets/image (195).png" alt=""></td><td><p></p><p>Esta función te habilita para establecer el límite del mecanizado.</p><ul><li><mark style="color:purple;"><strong>Model Boundary</strong>:</mark> Esta función emplea los límites combinados de todos los componentes en el trabajo. Representa el área del modelo compuesto que contiene componentes.</li><li><mark style="color:purple;"><strong>Material Boundary</strong>:</mark> Utiliza el límite del bloque de material completo.</li><li><mark style="color:purple;"><strong>Selected Vector(s)</strong>:</mark> Utiliza los vectores seleccionados como límite de mecanizado. Estos vectores seleccionados pueden emplearse para crear un perfil de herramienta.</li><li><mark style="color:purple;"><strong>Selected Level</strong>:</mark> Utiliza los límites combinados de todos los componentes en el nivel especificado. Similar a <strong>Model Boundary</strong>, pero específico para el nivel nombrado.</li><li><mark style="color:purple;"><strong>Level:</strong></mark> No se encontró información específica sobre esta función en el software de control de máquinas CNC.</li><li><mark style="color:purple;"><strong>Boundary Offset:</strong></mark> Cuando estás mecanizando un objeto elevado, la herramienta a menudo no mecanizará completamente el borde. Este campo se utiliza para especificar un desplazamiento al límite de mecanizado seleccionado, aumentando su tamaño para permitir que la herramienta sobrepase el borde real si es necesario.</li></ul></td></tr><tr><td><mark style="color:purple;"><strong>Estrategia de desbaste</strong></mark><img src="../.gitbook/assets/image (196).png" alt=""></td><td>Esta función te permite seleccionar la estrategia de desbaste que se utilizará para el mecanizado.</td></tr><tr><td><mark style="color:purple;"><strong>Ángulo de trama</strong></mark></td><td>Esta función te permite introducir el ángulo de trama para el mecanizado.</td></tr><tr><td><mark style="color:purple;"><strong>Z seguro</strong></mark><img src="../.gitbook/assets/image (197).png" alt=""></td><td>Esta función te permite seleccionar el Z seguro para el mecanizado.</td></tr><tr><td><mark style="color:purple;"><strong>Calcular trayectoria de herramienta</strong></mark><img src="../.gitbook/assets/image (198).png" alt=""></td><td>Esta función te permite calcular la trayectoria de la herramienta para el mecanizado.</td></tr><tr><td><mark style="color:purple;"><strong>Cerrar</strong></mark></td><td>Esta función te permite cerrar la interfaz del software.</td></tr></tbody></table>
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-30 153121.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-30 153432.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-30 153641.png" alt=""><figcaption></figcaption></figure>
+
+
+
+<mark style="color:purple;">**Estrategia de Fresado:**</mark>
 
 * Planifica la estrategia de fresado. Decide entre el fresado en pasadas escalonadas, fresado en espiral u otras estrategias dependiendo de la complejidad de tu modelo y la herramienta seleccionada.
 
-**Trayectorias de Herramientas:**
+
+
+<mark style="color:purple;">**Trayectorias de Herramientas:**</mark>
 
 * Genera las trayectorias de herramientas. VCarve Pro te permitirá previsualizar cómo se llevará a cabo el fresado. Ajusta según sea necesario para optimizar la eficiencia y la calidad.
 
-**Configuración de Profundidad:**
+
+
+<mark style="color:purple;">**Configuración de Profundidad:**</mark>
 
 * Asegúrate de configurar correctamente las profundidades de corte para cada operación. Esto es crucial para obtener el relieve y detalles deseados en tu modelo.
 
-**Simulación:**
+
+
+<mark style="color:purple;">**Simulación:**</mark>
 
 * Utiliza la función de simulación en VCarve Pro para revisar cómo se ejecutará el fresado. Esto te ayudará a identificar posibles problemas antes de enviar el trabajo a la fresadora CNC.
 
-**Postprocesamiento:**
+
+
+<mark style="color:purple;">**Postprocesamiento:**</mark>
 
 * Después de revisar y simular, genera el código G (Código de Control Numérico) necesario para la fresadora CNC. Asegúrate de seleccionar el postprocesador correcto para tu máquina.
 
 
+
+{% file src="../.gitbook/assets/3D Roughing 1.rol" %}
+GCode del fresado del relieve.
+{% endfile %}
+
+{% file src="../.gitbook/assets/Profile 1.rol" %}
+GCode de realización del perfil.
+{% endfile %}
 
 <details>
 
