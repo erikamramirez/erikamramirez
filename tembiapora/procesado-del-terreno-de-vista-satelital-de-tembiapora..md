@@ -567,8 +567,6 @@ Proceso de fresado de Profile.
 
 * Una vez que ambos códigos G se completaron con éxito, se detuvo la fresadora. La pieza final fresada fue cuidadosamente retirada de la mesa.
 
-
-
 ### <mark style="color:purple;">Resultado del terreno de Tembiaporã fresado</mark>
 
 <figure><img src="../.gitbook/assets/imagen_2023-12-05_132919031.png" alt=""><figcaption></figcaption></figure>
@@ -577,7 +575,9 @@ Proceso de fresado de Profile.
 
 
 
-<table><thead><tr><th width="196.33333333333331">Aspecto</th><th>Terrain2STL (Impresión 3D)</th><th>Maps2STL (Fresado CNC)</th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Resolución y Detalle</strong></mark></td><td>Alta resolución y detalle.</td><td>Resolución más baja (LowPoly)</td></tr><tr><td><mark style="color:purple;"><strong>Tamaño del Modelo</strong></mark></td><td>Puede ser muy pequeño. En casos grandes, pérdida innecesaria de filamento y tiempo.</td><td>Tarda, pero el resultado cumple expectativas.</td></tr><tr><td><mark style="color:purple;"><strong>Experiencia de Usuario</strong></mark></td><td>Para comprobar las configuraciones se debe descargar el archivo innecesariamente.</td><td>Permite la previsualización del archivo online. Interfaz agradable y fácil de usar. </td></tr><tr><td><mark style="color:purple;"><strong>Mejoras Necesarias</strong></mark></td><td>Utilizar Meshmixer para optimizar el modelo para la impresión.</td><td>Se debe suavizar el mesh del objeto sin falta o de lo contrario el resultado no será satisfactorio.</td></tr><tr><td><mark style="color:purple;"><strong>Conclusión</strong></mark></td><td>Ideal para modelos pequeños.</td><td>Eficiente para proyectos a mayor escala.</td></tr><tr><td><mark style="color:purple;"><strong>Observaciones</strong></mark></td><td>Modelos grandes pueden ser una pérdida innecesaria de recursos.</td><td>Requiere mejoras previas, pero ofrece flexibilidad y eficiencia.</td></tr></tbody></table>
-
 ## <mark style="color:purple;">Comparaciones entre los modelos obtenidos</mark>
+
+<figure><img src="../.gitbook/assets/dba3815c-cdf5-485c-826d-ecb3474e629a.jfif" alt=""><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="196.33333333333331">Aspecto</th><th>Terrain2STL (Impresión 3D)</th><th>Maps2STL (Fresado CNC)</th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Resolución y Detalle</strong></mark></td><td>Alta resolución y detalle.</td><td>Resolución más baja (LowPoly)</td></tr><tr><td><mark style="color:purple;"><strong>Tamaño del Modelo</strong></mark></td><td>Puede ser muy pequeño. En casos grandes, pérdida innecesaria de filamento y tiempo.</td><td>Tarda, pero el resultado cumple expectativas.</td></tr><tr><td><mark style="color:purple;"><strong>Experiencia de Usuario</strong></mark></td><td>Para comprobar las configuraciones se debe descargar el archivo innecesariamente.</td><td>Permite la previsualización del archivo online. Interfaz agradable y fácil de usar. </td></tr><tr><td><mark style="color:purple;"><strong>Mejoras Necesarias</strong></mark></td><td>Utilizar Meshmixer para optimizar el modelo para la impresión.</td><td>Se debe suavizar el mesh del objeto sin falta o de lo contrario el resultado no será satisfactorio.</td></tr><tr><td><mark style="color:purple;"><strong>Conclusión</strong></mark></td><td>Ideal para modelos pequeños.</td><td>Eficiente para proyectos a mayor escala.</td></tr><tr><td><mark style="color:purple;"><strong>Observaciones</strong></mark></td><td>Modelos grandes pueden ser una pérdida innecesaria de recursos.</td><td>Requiere mejoras previas, pero ofrece flexibilidad y eficiencia.</td></tr></tbody></table>
 

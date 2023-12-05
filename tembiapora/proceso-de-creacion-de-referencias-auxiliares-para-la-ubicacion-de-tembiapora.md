@@ -130,11 +130,9 @@ Importaremos el archivo .dxf en Power Cut con <mark style="color:purple;">**Load
 
 En la documentación se encuentra registrado pasos generales de corte láser.
 
-<figure><img src="https://photos.app.goo.gl/wNEKh7UUCjwzrhsf9" alt=""><figcaption></figcaption></figure>
-
 Se decide borrar la tipografía en PowerCut y reemplazar con la herramienta Texto de PowerCut.
 
-<figure><img src="https://photos.app.goo.gl/Rg6RX7BPo7KgNRSdA" alt=""><figcaption></figcaption></figure>
+
 
 {% hint style="info" %}
 La herramienta texto no reconoce palabras con acento, y menos con acento nasal, simplemente no escribe las letras acentuadas. Este problema podía haber sido resuelto escribiendo el texto en Rhino.
@@ -150,21 +148,27 @@ Para cortar el borde repasaremos la operación varias veces.
 
 Para cortar el borde cambiaremos el borde a otra capa y configuraremos con los mismos parámetros, para lograr cortar el borde repasaremos las pasadas.
 
-
-
 ***
 
 Para la figura a cortar en vinilo  utilizaremos el archivo <mark style="color:purple;">**.svg**</mark>
 
 En el programa <mark style="color:purple;">**RDWorks**</mark> importaremos el archivo <mark style="color:purple;">**.svg**</mark> y lo exportaremos como .pl.
 
+<figure><img src="../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
 Los pasos a seguir en <mark style="color:purple;">**RDWorks**</mark> serán los genéricos en cualquier programa para exportar vectores en otro formato. Se seleccionará exportar como, escribir un nombre al archivo y cambiar el formato a exportar a <mark style="color:purple;">**.pl**</mark>.
 
+<figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/e0330302-e84a-44b7-aed0-5fcb76d2f5e7 (1).jfif" alt=""><figcaption></figcaption></figure>
 
 
-Luego se abrira <mark style="color:purple;">**GCC Uploader**</mark> para exportar el archivo a la plotteadora de vinilo, para utilizar la plotteadora de vinilo se deben seguir los pasos de la siguiente documentación.
+
+Luego se abrirá <mark style="color:purple;">**GCC Uploader**</mark> para exportar el archivo a la plotteadora de vinilo, para utilizar la plotteadora de vinilo se deben seguir los pasos de la siguiente documentación.
+
+<figure><img src="../.gitbook/assets/47b103b6-2838-4042-b591-7a5129ca6ecc.jfif" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="../plotter-de-vinilo/crear-un-diseno-2d-multicapa/corte-de-vinilo-con-plotter.md" %}
 [corte-de-vinilo-con-plotter.md](../plotter-de-vinilo/crear-un-diseno-2d-multicapa/corte-de-vinilo-con-plotter.md)
