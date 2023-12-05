@@ -14,11 +14,11 @@ Pruebas de su reciente colonización.
 
 &#x20;La única representación disponible son los mapas satelitales que ya han sido materializados tanto en impresión 3D como en fresado CNC. Sin embargo, se encuentran varios  mapas de Caaguazú, el cual es esencial para ubicar Tembiaporã (distrito de Caaguazú), aunque no está claramente definido su ilustración. También contamos con un mapa general de Paraguay.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Mapa de Tembiaporã encontrado en internet.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Mapa de Tembiaporã encontrado en internet.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/imagen_2023-12-03_021648535.png" alt=""><figcaption><p>Resultados de la búsqueda.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Se observan pocos resultados de en la búsqueda del mapa de Tembiaporã y la mayoría es del mapa de Caaguazú.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Se observan pocos resultados de en la búsqueda del mapa de Tembiaporã y la mayoría es del mapa de Caaguazú.</p></figcaption></figure>
 
 <div data-full-width="false">
 

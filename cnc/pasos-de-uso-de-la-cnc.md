@@ -160,7 +160,7 @@ Para controlar el desplazamiento de la fresa, es necesario seleccionar el ícono
 
 Basándonos en la descripción anterior, ajustamos el control para orientar la punta de la broca de la fresadora en un punto intermedio entre los ejes X e Y, sobre el tornillo situado en la esquina inferior derecha, donde establecemos el punto de origen (cero).
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Una vez que nos encontramos en la posición indicada, procedemos a seleccionar en el panel de control amarillo el botón "Zero Axes" para fijar los ejes X e Y en esa ubicación.
 

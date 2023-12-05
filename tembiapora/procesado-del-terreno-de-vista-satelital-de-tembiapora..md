@@ -334,46 +334,42 @@ En tools se estable el tipo de broca a utilizar que sería de punta redonda de d
 
 #### <mark style="color:purple;">Edit Passes</mark>
 
-| Función                    | Descripción                                                                                                                                                                                  |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Profundidad total de corte | Permite especificar la profundidad total de corte para la herramienta. En este caso, el valor es de 47.077 mm1.                                                                              |
-| Profundidades de paso      | Permite especificar las profundidades de cada paso de corte. En este caso, los valores son 7.842, 8.929, 9.523, 11.361, 15.262, 19.2581. Estas funciones controlan cómo se realiza el corte. |
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-30 153432.png" alt=""><figcaption><p>Vista de la configuración de Edit Passes.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-30 153432.png" alt=""><figcaption></figcaption></figure>
+| Función                                                                                | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <mark style="color:purple;">**Profundidad total de corte**</mark>                      | Permite especificar la profundidad total de corte para la herramienta. En este caso, el valor es de 47.077 mm1.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| <mark style="color:purple;">**Profundidades de paso**</mark>                           | Permite especificar las profundidades de cada paso de corte. En este caso, los valores son 7.842, 8.929, 9.523, 11.361, 15.262, 19.2581. Estas funciones controlan cómo se realiza el corte.                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| <mark style="color:purple;">**Pass Depth List Utilities**</mark>                       | <p></p><ul><li><mark style="color:purple;"><strong>Campo de texto para la profundidad de paso de la herramienta:</strong></mark> Aquí puedes ingresar la profundidad de paso de la herramienta en milímetros.</li><li><mark style="color:purple;"><strong>Botón “Set Passes”</strong>:</mark> Este botón se utiliza para establecer el número de pasos.</li><li><mark style="color:purple;"><strong>Casilla de verificación “Maintain exact tool depth”</strong>:</mark> Si esta casilla está marcada, la herramienta mantendrá la profundidad exacta.</li></ul>                                                          |
+| <mark style="color:purple;">**Populate pass depth list using number of passes**</mark> | <p></p><ul><li><mark style="color:purple;"><strong>Campo de texto para la profundidad de paso</strong>:</mark> Aquí puedes ingresar la profundidad de paso en milímetros. En este caso, se muestran “13 pasos a 3.923 mm/paso”.</li><li><mark style="color:purple;"><strong>Menú desplegable “Number of Passes”</strong>:</mark> Este menú desplegable te permite seleccionar el número de pasos. En este caso, se seleccionaron “13 pasos”.</li><li><mark style="color:purple;"><strong>Botón “Set Passes”</strong>:</mark> Este botón se utiliza para establecer la profundidad de paso y el número de pasos.</li></ul> |
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-30 153641.png" alt=""><figcaption></figcaption></figure>
-
-
-
-<mark style="color:purple;">**Estrategia de Fresado:**</mark>
-
-* Planifica la estrategia de fresado. Decide entre el fresado en pasadas escalonadas, fresado en espiral u otras estrategias dependiendo de la complejidad de tu modelo y la herramienta seleccionada.
-
-
-
-<mark style="color:purple;">**Trayectorias de Herramientas:**</mark>
-
-* Genera las trayectorias de herramientas. VCarve Pro te permitirá previsualizar cómo se llevará a cabo el fresado. Ajusta según sea necesario para optimizar la eficiencia y la calidad.
-
-
-
-<mark style="color:purple;">**Configuración de Profundidad:**</mark>
-
-* Asegúrate de configurar correctamente las profundidades de corte para cada operación. Esto es crucial para obtener el relieve y detalles deseados en tu modelo.
-
-
+Estas serán los cambios a realizar, a continuación debemos guardar las configuraciones en un formato procesable para la Fresadora CNC Roland (postprocesador).
 
 <mark style="color:purple;">**Simulación:**</mark>
 
 * Utiliza la función de simulación en VCarve Pro para revisar cómo se ejecutará el fresado. Esto te ayudará a identificar posibles problemas antes de enviar el trabajo a la fresadora CNC.
 
+### <mark style="color:purple;">Repetir el proceso habitual en  Toolpath Profile</mark>
 
+{% content-ref url="../cnc/pasos-de-uso-de-la-cnc.md" %}
+[pasos-de-uso-de-la-cnc.md](../cnc/pasos-de-uso-de-la-cnc.md)
+{% endcontent-ref %}
+
+{% content-ref url="../cnc/test-de-cnc.md" %}
+[test-de-cnc.md](../cnc/test-de-cnc.md)
+{% endcontent-ref %}
+
+En estas documentaciones contienen los pasos habituales en los que se configura el <mark style="color:purple;">**Toolpath Profile.**</mark>
 
 <mark style="color:purple;">**Postprocesamiento:**</mark>
 
 * Después de revisar y simular, genera el código G (Código de Control Numérico) necesario para la fresadora CNC. Asegúrate de seleccionar el postprocesador correcto para tu máquina.
 
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-30 153641.png" alt=""><figcaption><p>Vista de las configuraciones a guardar.</p></figcaption></figure>
 
+<table><thead><tr><th width="320">Opción</th><th>Descripción</th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Selected toolpaths to one file</strong></mark></td><td>Esta opción te permite seleccionar varias trayectorias de herramientas y guardarlas en un solo archivo.</td></tr><tr><td><mark style="color:purple;"><strong>Visible toolpaths to one file</strong></mark></td><td>Esta opción te permite guardar todas las trayectorias de herramientas visibles en un solo archivo. </td></tr><tr><td><mark style="color:purple;"><strong>Output toolpaths to multiple files</strong></mark></td><td>Esta opción te permite guardar cada trayectoria de herramienta en un archivo separado.</td></tr><tr><td><mark style="color:purple;"><strong>Group toolpaths by name</strong></mark></td><td>Esta opción te permite agrupar las trayectorias de herramientas por nombre.</td></tr><tr><td><mark style="color:purple;"><strong>3D Toolpaths to be saved (1/4)</strong></mark></td><td>Esta sección muestra las trayectorias de herramientas 3D que se guardarán.</td></tr><tr><td><mark style="color:purple;"><strong>Machine MDX-540 - Default</strong></mark></td><td>Esta sección te permite seleccionar la máquina para la que se generarán las trayectorias de herramientas.</td></tr><tr><td><mark style="color:purple;"><strong>Post Processor Roland MDX-540</strong></mark></td><td>Esta sección te permite seleccionar el procesador posterior que se utilizará para generar las trayectorias de herramientas.</td></tr><tr><td><mark style="color:purple;"><strong>Driver: Direct to machine</strong></mark></td><td>Esta sección te permite seleccionar el controlador que se utilizará para enviar las trayectorias de herramientas a la máquina.</td></tr><tr><td><mark style="color:purple;"><strong>Close button</strong></mark></td><td>Este botón te permite cerrar la interfaz.</td></tr></tbody></table>
+
+Los archivos resultantes en formato postprocesado para la Roland son los siguientes:
 
 {% file src="../.gitbook/assets/3D Roughing 1.rol" %}
 GCode del fresado del relieve.
@@ -397,6 +393,8 @@ Cada código G tiene una función específica, como desplazamientos, cambios de 
 
 </details>
 
+***
+
 ## <mark style="color:purple;">Proceso en la fresadora CNC Roland</mark>
 
 En el desarrollo de la tarea en la fresadora CNC Roland, se siguieron cuidadosamente los siguientes pasos:
@@ -404,29 +402,116 @@ En el desarrollo de la tarea en la fresadora CNC Roland, se siguieron cuidadosam
 <mark style="color:purple;">**1. Encendido y Posicionamiento Inicial:**</mark>
 
 * Inicialmente, se encendió la fresadora y se realizó el posicionamiento inicial.&#x20;
+
+{% content-ref url="../cnc/obtencion-de-modelo-3d-topografico/hacer-un-fresado-del-cerro-leon.md" %}
+[hacer-un-fresado-del-cerro-leon.md](../cnc/obtencion-de-modelo-3d-topografico/hacer-un-fresado-del-cerro-leon.md)
+{% endcontent-ref %}
+
+En la documentación _<mark style="color:purple;">**Hacer un fresado**</mark>_ _<mark style="color:purple;">**del Cerro León**</mark>_ se describe varios pasos del uso de la fresadora  Roland.
+
 * El material de trabajo, previamente cortado y adherido con cinta doble faz, fue centrado en la plataforma.
-* &#x20;Dos piezas superpuestas se utilizaron para obtener un bloque de trabajo de 500 mm de altura, como se había configurado en VCarve Pro.
-* Se debe marcar el centro del material con diagonales tal cómo habíamos establecido en VCarve Pro el eje del centro como punto inicial.
+
+El material fue cortado en dimensiones de 250x250 mm y luego superpuesto para lograr una altura total de 500 mm como se había configurado en VCarve Pro. Ambas piezas se aseguraron mediante cinta de doble faz debido a la limitación de tiempo disponible.
+
+Para marcar el centro de la pieza con diagonales, se puede utilizar una regla como herramienta de referencia. Es fundamental seguir el mismo procedimiento que establecimos previamente en VCarve Pro, donde se definió el eje central como punto de origen.
+
+Posteriormente, el bloque de 500 mm se fijó de manera similar a la plataforma de la rotadora.
+
+<div>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Pieza cortada con la cinta doble faz.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-04_230830628.png" alt=""><figcaption><p>Vista de las diagonales para encontrar el centro.</p></figcaption></figure>
+
+</div>
+
+
 
 <mark style="color:purple;">**2. Centrado de Ejes X e Y:**</mark>
 
 * Se establecieron el punto 0 de los ejes X e Y utilizando el mando de la fresadora para garantizar una alineación precisa del material con respecto a las coordenadas del programa.
 
+<div>
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-04_233607145.png" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-04_233848378.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-04_235842436 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-04_235856939.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_000234501.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_000327430.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_000407353.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-04_234157475.png" alt=""><figcaption><p>Seleccionar Set XY HOME here Apply.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_000505113.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 <mark style="color:purple;">**3. Centrado del Eje Z:**</mark>
 
 * Para el eje Z, se utilizó el imán de la máquina para asegurar una referencia precisa. Este paso es crucial para la profundidad correcta de fresado y la calidad del resultado final.
+
+{% embed url="https://photos.app.goo.gl/dMnDHhNnyd1Ez7Yg7" %}
+
+
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_002325460 (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-04_234440110.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-04_234505628.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-04_234730911.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:purple;">**4. Importación Secuencial de Códigos G:**</mark>
 
 * Se importaron por turno los códigos G generados en VCarve Pro. Primero, se procesó el código de fresado para esculpir las montañas, seguido por el código de perfil para eliminar excedentes en los laterales y obtener la forma final deseada.
 
+
+
 <mark style="color:purple;">**5. Proceso de Fresado de Montañas:**</mark>
 
 * Se ejecutó el código G correspondiente al fresado de las montañas. La fresadora siguió las instrucciones para esculpir las elevaciones y detalles precisos del terreno.
 
+<figure><img src="../.gitbook/assets/imagen_2023-12-04_235842436.png" alt=""><figcaption></figcaption></figure>
+
 <mark style="color:purple;">**6. Cambio y Proceso de Fresado de Perfil:**</mark>
 
 * Después de completar el fresado de las montañas, se cambió a la herramienta necesaria y se procesó el código de perfil. Esto eliminó los excedentes laterales, proporcionando la forma final de la pieza.
+
+
 
 <mark style="color:purple;">**7. Evaluación Continua:**</mark>
 
@@ -442,7 +527,7 @@ En el desarrollo de la tarea en la fresadora CNC Roland, se siguieron cuidadosam
 
 ### <mark style="color:purple;">Resultado del terreno de Tembiaporã fresado</mark>
 
-<table><thead><tr><th width="196.33333333333331">Aspecto</th><th>Terrain2STL (Impresión 3D)</th><th>Maps2STL (Fresado CNC)</th></tr></thead><tbody><tr><td><strong>Resolución y Detalle</strong></td><td>Alta resolución y detalle.</td><td>Resolución más baja (LowPoly)</td></tr><tr><td><strong>Tamaño del Modelo</strong></td><td>Puede ser muy pequeño. En casos grandes, pérdida innecesaria de filamento y tiempo.</td><td>Tarda, pero el resultado cumple expectativas.</td></tr><tr><td><strong>Experiencia de Usuario</strong></td><td>Para comprobar las configuraciones se debe descargar el archivo innecesariamente.</td><td>Permite la previsualización del archivo online. Interfaz agradable y fácil de usar. </td></tr><tr><td><strong>Mejoras Necesarias</strong></td><td>Utilizar Meshmixer para optimizar el modelo para la impresión.</td><td>Se debe suavizar el mesh del objeto sin falta o de lo contrario el resultado no será satisfactorio.</td></tr><tr><td><strong>Conclusión</strong></td><td>Ideal para modelos pequeños.</td><td>Eficiente para proyectos a mayor escala.</td></tr><tr><td><strong>Observaciones</strong></td><td>Modelos grandes pueden ser una pérdida innecesaria de recursos.</td><td>Requiere mejoras previas, pero ofrece flexibilidad y eficiencia.</td></tr></tbody></table>
+<table><thead><tr><th width="196.33333333333331">Aspecto</th><th>Terrain2STL (Impresión 3D)</th><th>Maps2STL (Fresado CNC)</th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Resolución y Detalle</strong></mark></td><td>Alta resolución y detalle.</td><td>Resolución más baja (LowPoly)</td></tr><tr><td><mark style="color:purple;"><strong>Tamaño del Modelo</strong></mark></td><td>Puede ser muy pequeño. En casos grandes, pérdida innecesaria de filamento y tiempo.</td><td>Tarda, pero el resultado cumple expectativas.</td></tr><tr><td><mark style="color:purple;"><strong>Experiencia de Usuario</strong></mark></td><td>Para comprobar las configuraciones se debe descargar el archivo innecesariamente.</td><td>Permite la previsualización del archivo online. Interfaz agradable y fácil de usar. </td></tr><tr><td><mark style="color:purple;"><strong>Mejoras Necesarias</strong></mark></td><td>Utilizar Meshmixer para optimizar el modelo para la impresión.</td><td>Se debe suavizar el mesh del objeto sin falta o de lo contrario el resultado no será satisfactorio.</td></tr><tr><td><mark style="color:purple;"><strong>Conclusión</strong></mark></td><td>Ideal para modelos pequeños.</td><td>Eficiente para proyectos a mayor escala.</td></tr><tr><td><mark style="color:purple;"><strong>Observaciones</strong></mark></td><td>Modelos grandes pueden ser una pérdida innecesaria de recursos.</td><td>Requiere mejoras previas, pero ofrece flexibilidad y eficiencia.</td></tr></tbody></table>
 
 ## <mark style="color:purple;">Comparaciones entre los modelos obtenidos</mark>
 
