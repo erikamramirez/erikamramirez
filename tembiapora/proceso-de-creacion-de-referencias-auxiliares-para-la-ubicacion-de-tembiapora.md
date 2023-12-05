@@ -118,13 +118,65 @@ Posteriormente, se exportarán estas figuras específicas con el propósito de c
 
 Además, utilizando los vectores del contorno de los mapas, se realizará una exportación en formato .dxf para su procesamiento en la cortadora láser."
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-30_141211528.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-30_141211528.png" alt=""><figcaption><p>Seleccionar Exportar como.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-30_141306498.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-30_141306498.png" alt=""><figcaption><p>Escribir el nombre del archivo y elegir el formato .dxf</p></figcaption></figure>
 
 {% file src="../.gitbook/assets/Tembiapora Grabado.dxf" %}
+Archivo descargable dxf.
+{% endfile %}
+
+## <mark style="color:purple;">Corte Láser</mark>
+
+Importaremos el archivo .dxf en Power Cut con <mark style="color:purple;">**Load**</mark> lo cual se registra en la siguiente documentación:
+
+{% content-ref url="../corte-laser.md" %}
+[corte-laser.md](../corte-laser.md)
+{% endcontent-ref %}
+
+En la documentación se encuentra registrado pasos generales de corte láser.
+
+Se decide borrar la tipografía en PowerCut y reemplazar con la herramienta Texto de PowerCut.
+
+
+
+{% hint style="info" %}
+La herramienta texto no reconoce palabras con acento, y menos con acento nasal, simplemente no escribe las letras acentuadas. Este problema podía haber sido resuelto escribiendo el texto en Rhino.
+{% endhint %}
+
+Con las palabras sin ningún acento se procede a ¨cortar¨ el archivo con una Potencia de 100 y velocidad de 10.
+
+{% hint style="info" %}
+Debido a que actualmente la página no se encuentra funcionando bien debemos usar Cut en lugar de grabado, ya que no corta en una sola pasada.
+
+Para cortar el borde repasaremos la operación varias veces.
+{% endhint %}
+
+Para cortar el borde cambiaremos el borde a otra capa y configuraremos con los mismos parámetros, para lograr cortar el borde repasaremos las pasadas.
+
+***
+
+Para la figura a cortar en vinilo repetiremos las operacionesn hechas en Inkscape para extraer la figura del departamento y el distrito de Tembiaporã.&#x20;
 
 
 
 
+
+Exportaremos en formato <mark style="color:purple;">**.svg**</mark>
+
+
+
+En el programa <mark style="color:purple;">**RDWorks**</mark> importaremos el archivo <mark style="color:purple;">**.svg**</mark> y lo exportaremos como .pl.
+
+Los pasos a seguir en <mark style="color:purple;">**RDWorks**</mark> serán los genéricos en cualquier programa para exportar vectores en otro formato. Se seleccionará exportar como, escribir un nombre al archivo y cambiar el formato a exportar a <mark style="color:purple;">**.pl**</mark>.
+
+
+
+Luego se abrira <mark style="color:purple;">**GCC Uploader**</mark> para exportar el archivo a la plotteadora de vinilo, para utilizar la plotteadora de vinilo se deben seguir los pasos de la siguiente documentación.
+
+{% content-ref url="../plotter-de-vinilo/crear-un-diseno-2d-multicapa/corte-de-vinilo-con-plotter.md" %}
+[corte-de-vinilo-con-plotter.md](../plotter-de-vinilo/crear-un-diseno-2d-multicapa/corte-de-vinilo-con-plotter.md)
+{% endcontent-ref %}
+
+### <mark style="color:purple;">Resultado Final</mark>
 

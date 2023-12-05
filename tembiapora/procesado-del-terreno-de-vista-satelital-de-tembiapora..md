@@ -403,6 +403,8 @@ En el desarrollo de la tarea en la fresadora CNC Roland, se siguieron cuidadosam
 
 * Inicialmente, se encendió la fresadora y se realizó el posicionamiento inicial.&#x20;
 
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_111026319.png" alt=""><figcaption></figcaption></figure>
+
 {% content-ref url="../cnc/obtencion-de-modelo-3d-topografico/hacer-un-fresado-del-cerro-leon.md" %}
 [hacer-un-fresado-del-cerro-leon.md](../cnc/obtencion-de-modelo-3d-topografico/hacer-un-fresado-del-cerro-leon.md)
 {% endcontent-ref %}
@@ -431,25 +433,15 @@ Posteriormente, el bloque de 500 mm se fijó de manera similar a la plataforma d
 
 <mark style="color:purple;">**2. Centrado de Ejes X e Y:**</mark>
 
-* Se establecieron el punto 0 de los ejes X e Y utilizando el mando de la fresadora para garantizar una alineación precisa del material con respecto a las coordenadas del programa.
+Abrir el V panel para controlar la CNC, conectar a nuestra CNC y continuar.
 
 <div>
 
-<figure><img src="../.gitbook/assets/imagen_2023-12-04_233607145.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-12-04_235842436 (1).png" alt=""><figcaption><p>selección del ícono de VPanel.</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/imagen_2023-12-04_233848378.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../.gitbook/assets/imagen_2023-12-04_235842436 (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/imagen_2023-12-04_235856939.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-12-04_235856939.png" alt=""><figcaption><p>Seleccionar el modelo.</p></figcaption></figure>
 
  
 
@@ -457,67 +449,119 @@ Posteriormente, el bloque de 500 mm se fijó de manera similar a la plataforma d
 
 </div>
 
-<div>
 
-<figure><img src="../.gitbook/assets/imagen_2023-12-05_000327430.png" alt=""><figcaption></figcaption></figure>
 
- 
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_000327430.png" alt=""><figcaption><p>Interfaz abierta del VPanel.</p></figcaption></figure>
+
+* Se establecieron el punto 0 de los ejes X e Y utilizando el mando de la fresadora para garantizar una alineación precisa del material con respecto a las coordenadas del programa.
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-04_233607145.png" alt="" width="375"><figcaption><p>Ubicar el eje X e Y con el mando.</p></figcaption></figure>
+
+<details>
+
+<summary><mark style="color:purple;">Utilización del mando</mark></summary>
+
+Se debe seleccionar el eje a mover (X, Y o Z) y a continuación trasladar con el joystick.
+
+</details>
+
+Vista del VPanel con los ejes trasladados sin haber fijado el punto 0.
 
 <figure><img src="../.gitbook/assets/imagen_2023-12-05_000407353.png" alt=""><figcaption></figcaption></figure>
 
-</div>
+Dirigirse en el menú superior, donde encontramos la herramienta <mark style="color:purple;">**Base Point**</mark>.
 
-<div>
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_103023259.png" alt=""><figcaption><p>Seleccionar Base Point.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/imagen_2023-12-04_234157475.png" alt=""><figcaption><p>Seleccionar Set XY HOME here Apply.</p></figcaption></figure>
+Base Point nos abrirá la siguiente emergente. Seleccionar Set XY HOME here Apply.
 
- 
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_000505113.png" alt=""><figcaption><p>Menú emergente de Base Point.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/imagen_2023-12-05_000505113.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_103452047.png" alt=""><figcaption><p>Seleccionar Set XY HOME here Apply.</p></figcaption></figure>
 
-</div>
+De esta manera el eje XX e Y queda en 0 en la CNC, lo que se comprueba en VPanel.
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_111026319 (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:purple;">**3. Centrado del Eje Z:**</mark>
 
 * Para el eje Z, se utilizó el imán de la máquina para asegurar una referencia precisa. Este paso es crucial para la profundidad correcta de fresado y la calidad del resultado final.
 
-{% embed url="https://photos.app.goo.gl/dMnDHhNnyd1Ez7Yg7" %}
-
-
+El sensor del eje Z es la herramienta cilíndrica que se encuentra guardado cerca del mando, el cual debemos ubicar debajo de la broca, sobre el centro marcado por las diagonales.
 
 <figure><img src="../.gitbook/assets/imagen_2023-12-05_002325460 (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/imagen_2023-12-04_234440110.png" alt=""><figcaption></figcaption></figure>
+En el mismo menú emergente de Base Point seleccionamos Start Detection del Set Z origin using tool sensor.
 
-<figure><img src="../.gitbook/assets/imagen_2023-12-04_234505628.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_000505113.png" alt=""><figcaption><p>Menú de Base Point.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/imagen_2023-12-04_234730911.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_111949226.png" alt=""><figcaption><p>Seleccionar Start Detection.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+El Start Detection moverá automáticamente la broca hasta la herramienta cilíndrica dos veces para fijar el punto 0 en el eje Z.
+
+{% embed url="https://photos.app.goo.gl/dMnDHhNnyd1Ez7Yg7" %}
+
+Luego de la detección del Z ya no tenemos ninguna operación que realizar en este menú y podemos seleccionar Close para cerrar eñ menú de Base Point.
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_112309610.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:purple;">**4. Importación Secuencial de Códigos G:**</mark>
 
 * Se importaron por turno los códigos G generados en VCarve Pro. Primero, se procesó el código de fresado para esculpir las montañas, seguido por el código de perfil para eliminar excedentes en los laterales y obtener la forma final deseada.
 
+Ahora debemos seleccionar <mark style="color:purple;">**Cut**</mark>, que se encuentra a lado del menú de <mark style="color:purple;">**Base Point**</mark> que acabamos de utilizar.
 
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_103023259.png" alt=""><figcaption></figcaption></figure>
+
+Cut abrirá la ventana emergente donde podemos importar el <mark style="color:purple;">**GCode**</mark> que creamos en <mark style="color:purple;">**VCarve Pro**</mark>.&#x20;
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-04_234440110.png" alt=""><figcaption></figcaption></figure>
+
+Seleccionamos el ícono de <mark style="color:purple;">**Load**</mark> ubicado en las operaciones de la zona inferior izquierda.
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_112707800 (1).png" alt=""><figcaption><p>Seleccionar el ícono de Load.</p></figcaption></figure>
+
+Se abrirá la ventana para buscar nuestros GCode en el equipo.&#x20;
+
+<div>
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-04_234505628.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_113021638.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <mark style="color:purple;">**5. Proceso de Fresado de Montañas:**</mark>
 
 * Se ejecutó el código G correspondiente al fresado de las montañas. La fresadora siguió las instrucciones para esculpir las elevaciones y detalles precisos del terreno.
 
-<figure><img src="../.gitbook/assets/imagen_2023-12-04_235842436.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_113713363.png" alt=""><figcaption><p>Selección del GCode de 3D Roughthing 1.rol</p></figcaption></figure>
+
+Para ejecutar el GCode debemos seleccionar Output.
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_113841879.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://photos.app.goo.gl/qQG7Db1gjZPRATen6" %}
+Proceso de fresado de 3D Roughing.
+{% endembed %}
 
 <mark style="color:purple;">**6. Cambio y Proceso de Fresado de Perfil:**</mark>
 
 * Después de completar el fresado de las montañas, se cambió a la herramienta necesaria y se procesó el código de perfil. Esto eliminó los excedentes laterales, proporcionando la forma final de la pieza.
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Selección del GCode de Profile 1.rol</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_113919713.png" alt=""><figcaption><p>Seleccionar output para ejecutar el GCode.</p></figcaption></figure>
+
+{% embed url="https://photos.app.goo.gl/M2JZwXMA6jidqEMc8" fullWidth="true" %}
+Proceso de fresado de Profile.
+{% endembed %}
 
 <mark style="color:purple;">**7. Evaluación Continua:**</mark>
 
 * Durante todo el proceso, se llevó a cabo una evaluación continua para asegurar que la fresadora estuviera siguiendo las trayectorias correctas y que el material se estuviera trabajando según lo planificado.
-
-
 
 <mark style="color:purple;">**8. Finalización y Extracción:**</mark>
 
@@ -526,6 +570,12 @@ Posteriormente, el bloque de 500 mm se fijó de manera similar a la plataforma d
 
 
 ### <mark style="color:purple;">Resultado del terreno de Tembiaporã fresado</mark>
+
+<figure><img src="../.gitbook/assets/imagen_2023-12-05_132919031.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
 
 <table><thead><tr><th width="196.33333333333331">Aspecto</th><th>Terrain2STL (Impresión 3D)</th><th>Maps2STL (Fresado CNC)</th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Resolución y Detalle</strong></mark></td><td>Alta resolución y detalle.</td><td>Resolución más baja (LowPoly)</td></tr><tr><td><mark style="color:purple;"><strong>Tamaño del Modelo</strong></mark></td><td>Puede ser muy pequeño. En casos grandes, pérdida innecesaria de filamento y tiempo.</td><td>Tarda, pero el resultado cumple expectativas.</td></tr><tr><td><mark style="color:purple;"><strong>Experiencia de Usuario</strong></mark></td><td>Para comprobar las configuraciones se debe descargar el archivo innecesariamente.</td><td>Permite la previsualización del archivo online. Interfaz agradable y fácil de usar. </td></tr><tr><td><mark style="color:purple;"><strong>Mejoras Necesarias</strong></mark></td><td>Utilizar Meshmixer para optimizar el modelo para la impresión.</td><td>Se debe suavizar el mesh del objeto sin falta o de lo contrario el resultado no será satisfactorio.</td></tr><tr><td><mark style="color:purple;"><strong>Conclusión</strong></mark></td><td>Ideal para modelos pequeños.</td><td>Eficiente para proyectos a mayor escala.</td></tr><tr><td><mark style="color:purple;"><strong>Observaciones</strong></mark></td><td>Modelos grandes pueden ser una pérdida innecesaria de recursos.</td><td>Requiere mejoras previas, pero ofrece flexibilidad y eficiencia.</td></tr></tbody></table>
 
