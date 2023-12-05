@@ -72,27 +72,13 @@ Ahora que contamos con la información sobre qué hace cada parámetro procedemo
 
 <table><thead><tr><th width="172">Parámetro</th><th>Función</th><th>Imagen</th></tr></thead><tbody><tr><td>Modo de detección</td><td>Permite elegir el tipo de detección de bordes que se aplica a la imagen antes de vectorizarla.</td><td><img src="../.gitbook/assets/image (185).png" alt="" data-size="original"></td></tr><tr><td>Corte de luminosidad</td><td>Permite ajustar el nivel de luminosidad que se usa para definir los bordes de la imagen.</td><td></td></tr><tr><td>Detalles</td><td>Permite ajustar el nivel de detalle que se conserva en la vectorización.</td><td></td></tr><tr><td>Invertir imagen</td><td>Permite invertir los colores de la imagen antes de vectorizarla.</td><td><img src="../.gitbook/assets/image (187).png" alt="" data-size="original"></td></tr><tr><td>Suavizar bordes</td><td>Permite suavizar los bordes de la vectorización para reducir el ruido y las irregularidades.</td><td></td></tr><tr><td>Optimizar</td><td>Permite optimizar las rutas de la vectorización para reducir el tamaño y la complejidad del archivo.</td><td><img src="../.gitbook/assets/image (188).png" alt="" data-size="original"></td></tr><tr><td>Trazado asistido por el usuario</td><td>Permite dibujar manualmente el trazado de la vectorización sobre la imagen.</td><td></td></tr></tbody></table>
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/imagen_2023-12-03_185235684.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption><p>Vista de los vectores extraídos de la imagen del mapa de Paraguay.</p></figcaption></figure>
 
 &#x20;Se generarán las pasadas necesarias para segmentar tanto el departamento de Caaguazú como el distrito de Tembiaporã de cada mapa.&#x20;
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-30_133811755.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen_2023-11-30_133811755.png" alt=""><figcaption><p>Vista del resultado de los vectores extraídos de la imagen del mapa de Caaguazú.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/imagen_2023-11-30_133704728 (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/imagen_2023-11-30_134031686.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/imagen_2023-11-30_134118679.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/imagen_2023-11-30_134316727.png" alt=""><figcaption></figcaption></figure>
+Debemos repetir el proceso esta vez en la ventana de Multicolor y aumentar las pasadas las veces que sea necesario hasta poder extraer la capa de Tembiaporã.&#x20;
 
 <figure><img src="../.gitbook/assets/imagen_2023-11-30_134902271.png" alt=""><figcaption></figcaption></figure>
 
@@ -104,11 +90,19 @@ Posteriormente, se exportarán estas figuras específicas con el propósito de c
 
 <figure><img src="../.gitbook/assets/imagen_2023-11-30_135806137.png" alt=""><figcaption></figcaption></figure>
 
+Seleccionamos la capa del departamento de Tembiapora para exportarlo en formato <mark style="color:purple;">**.svg**</mark>.
+
 <figure><img src="../.gitbook/assets/imagen_2023-11-30_135927571.png" alt=""><figcaption></figcaption></figure>
+
+Seleccionamos Exportar solo selección.
 
 <figure><img src="../.gitbook/assets/imagen_2023-11-30_140017696.png" alt=""><figcaption></figcaption></figure>
 
+Seleccionar formato <mark style="color:purple;">**.svg**</mark>
+
 <figure><img src="../.gitbook/assets/imagen_2023-11-30_140109303.png" alt=""><figcaption></figcaption></figure>
+
+Seleccionamos <mark style="color:purple;">**Exportar**</mark> para obtener el archivo.
 
 <figure><img src="../.gitbook/assets/imagen_2023-11-30_140247713.png" alt=""><figcaption></figcaption></figure>
 
@@ -136,9 +130,11 @@ Importaremos el archivo .dxf en Power Cut con <mark style="color:purple;">**Load
 
 En la documentación se encuentra registrado pasos generales de corte láser.
 
+<figure><img src="https://photos.app.goo.gl/wNEKh7UUCjwzrhsf9" alt=""><figcaption></figcaption></figure>
+
 Se decide borrar la tipografía en PowerCut y reemplazar con la herramienta Texto de PowerCut.
 
-
+<figure><img src="https://photos.app.goo.gl/Rg6RX7BPo7KgNRSdA" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 La herramienta texto no reconoce palabras con acento, y menos con acento nasal, simplemente no escribe las letras acentuadas. Este problema podía haber sido resuelto escribiendo el texto en Rhino.
@@ -154,19 +150,15 @@ Para cortar el borde repasaremos la operación varias veces.
 
 Para cortar el borde cambiaremos el borde a otra capa y configuraremos con los mismos parámetros, para lograr cortar el borde repasaremos las pasadas.
 
+
+
 ***
 
-Para la figura a cortar en vinilo repetiremos las operacionesn hechas en Inkscape para extraer la figura del departamento y el distrito de Tembiaporã.&#x20;
-
-
-
-
-
-Exportaremos en formato <mark style="color:purple;">**.svg**</mark>
-
-
+Para la figura a cortar en vinilo  utilizaremos el archivo <mark style="color:purple;">**.svg**</mark>
 
 En el programa <mark style="color:purple;">**RDWorks**</mark> importaremos el archivo <mark style="color:purple;">**.svg**</mark> y lo exportaremos como .pl.
+
+
 
 Los pasos a seguir en <mark style="color:purple;">**RDWorks**</mark> serán los genéricos en cualquier programa para exportar vectores en otro formato. Se seleccionará exportar como, escribir un nombre al archivo y cambiar el formato a exportar a <mark style="color:purple;">**.pl**</mark>.
 
